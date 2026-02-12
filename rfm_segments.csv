@@ -1,0 +1,3661 @@
+User_ID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment
+001ae40d,182,1,345.93,2,1,4,7,Potential Loyalists
+00209791,193,1,10.32,2,1,1,4,At Risk
+0021e458,308,1,123.51,1,1,2,4,At Risk
+00333c7a,199,1,8.65,2,1,1,4,At Risk
+00390cf5,135,1,96.32,3,1,1,5,At Risk
+0041710c,180,1,388.45,2,1,4,7,Potential Loyalists
+0049cde2,274,1,147.36,1,1,2,4,At Risk
+005258a0,189,1,303.14,2,1,3,6,Potential Loyalists
+007d82ed,230,1,393.59,2,1,4,7,Potential Loyalists
+00812bf1,303,1,192.83,1,1,2,4,At Risk
+008384ad,162,1,95.58,3,1,1,5,At Risk
+008ac58b,43,1,281.63,4,1,3,8,Loyal Customers
+00b7ec0b,166,1,87.38,2,1,1,4,At Risk
+00d5f96c,246,1,239.02,1,1,3,5,At Risk
+00d8ac27,4,1,47.54,4,1,1,6,Potential Loyalists
+00db7b85,218,1,450.9,2,1,4,7,Potential Loyalists
+00e52bfe,276,1,323.17,1,1,4,6,Potential Loyalists
+00e75d81,258,1,235.23,1,1,3,5,At Risk
+0102cb1f,33,1,189.62,4,1,2,7,Potential Loyalists
+0110e242,228,1,109.24,2,1,2,5,At Risk
+01153d2e,83,1,167.28,3,1,2,6,Potential Loyalists
+0125f947,269,1,162.21,1,1,2,4,At Risk
+012757e3,134,1,247.21,3,1,3,7,Potential Loyalists
+012f36dd,146,1,21.97,3,1,1,5,At Risk
+01365196,109,1,190.88,3,1,2,6,Potential Loyalists
+0142a38f,191,1,238.68,2,1,3,6,Potential Loyalists
+014b0b14,239,1,418.09,2,1,4,7,Potential Loyalists
+016c1e77,143,1,208.77,3,1,3,7,Potential Loyalists
+017b4433,325,1,13.3,1,1,1,3,Lost Customers
+0195ea56,275,1,132.52,1,1,2,4,At Risk
+01966801,71,1,193.81,4,1,2,7,Potential Loyalists
+01c083f3,49,1,168.01,4,1,2,7,Potential Loyalists
+01d6ef4f,220,1,324.24,2,1,4,7,Potential Loyalists
+021adfb6,276,1,303.33,1,1,3,5,At Risk
+021b5be9,163,1,361.04,3,1,4,8,Loyal Customers
+023a0824,215,1,294.52,2,1,3,6,Potential Loyalists
+02428050,250,1,286.33,1,1,3,5,At Risk
+02548f78,163,1,239.36,3,1,3,7,Potential Loyalists
+027fe2aa,114,1,221.4,3,1,3,7,Potential Loyalists
+028173ef,96,1,124.93,3,1,2,6,Potential Loyalists
+028809d1,132,1,194.9,3,1,2,6,Potential Loyalists
+02ac79ab,35,1,192.17,4,1,2,7,Potential Loyalists
+02d317f1,215,1,123.4,2,1,2,5,At Risk
+02dde509,176,1,22.95,2,1,1,4,At Risk
+02e15abd,262,1,371.38,1,1,4,6,Potential Loyalists
+02ea58e6,291,1,381.03,1,1,4,6,Potential Loyalists
+02f68644,123,1,77.88,3,1,1,5,At Risk
+02fb8772,157,1,29.3,3,1,1,5,At Risk
+0304a5d8,104,1,196.91,3,1,2,6,Potential Loyalists
+0353de5b,18,1,265.75,4,1,3,8,Loyal Customers
+03560326,283,1,368.96,1,1,4,6,Potential Loyalists
+03563bc9,138,1,110.64,3,1,2,6,Potential Loyalists
+03632dc7,148,1,299.53,3,1,3,7,Potential Loyalists
+038db720,222,1,162.81,2,1,2,5,At Risk
+03905f28,296,1,246.77,1,1,3,5,At Risk
+03a8069a,106,1,148.37,3,1,2,6,Potential Loyalists
+03aa0d65,27,1,108.87,4,1,2,7,Potential Loyalists
+03b2bf85,225,1,71.69,2,1,1,4,At Risk
+03b923e5,104,1,165.86,3,1,2,6,Potential Loyalists
+03bbb018,184,1,187.4,2,1,2,5,At Risk
+03dcfbb3,297,1,235.25,1,1,3,5,At Risk
+03e10273,205,1,414.27,2,1,4,7,Potential Loyalists
+03eadaf0,39,1,225.98,4,1,3,8,Loyal Customers
+03ec5d73,82,1,94.93,3,1,1,5,At Risk
+03f1774a,158,1,260.85,3,1,3,7,Potential Loyalists
+03fa1b88,90,1,45.12,3,1,1,5,At Risk
+03fd5c2d,306,1,425.83,1,1,4,6,Potential Loyalists
+040f37d3,271,1,55.51,1,1,1,3,Lost Customers
+0410a28c,209,1,32.07,2,1,1,4,At Risk
+0418a2c1,236,1,98.36,2,1,1,4,At Risk
+041ccaac,190,1,457.3,2,1,4,7,Potential Loyalists
+042ebd5a,234,1,231.85,2,1,3,6,Potential Loyalists
+042f7bf4,127,1,344.15,3,1,4,8,Loyal Customers
+04318409,297,1,231.58,1,1,3,5,At Risk
+0439fca1,49,1,435.06,4,1,4,9,Loyal Customers
+044aec61,237,1,72.51,2,1,1,4,At Risk
+04549848,211,1,398.86,2,1,4,7,Potential Loyalists
+04638a95,108,1,147.68,3,1,2,6,Potential Loyalists
+047526b7,3,1,286.08,4,1,3,8,Loyal Customers
+049740b6,114,1,90.39,3,1,1,5,At Risk
+04b3b0ae,314,1,82.19,1,1,1,3,Lost Customers
+04bcfff8,19,1,16.99,4,1,1,6,Potential Loyalists
+04c82cbe,220,1,436.53,2,1,4,7,Potential Loyalists
+04cdb11d,80,1,269.19,4,1,3,8,Loyal Customers
+04d6d800,22,1,424.58,4,1,4,9,Loyal Customers
+04ef2f48,318,1,172.45,1,1,2,4,At Risk
+051133f8,36,1,323.53,4,1,4,9,Loyal Customers
+0511d865,306,1,59.19,1,1,1,3,Lost Customers
+0513a984,141,1,299.77,3,1,3,7,Potential Loyalists
+053df1ac,107,1,427.38,3,1,4,8,Loyal Customers
+054dbda0,54,1,213.91,4,1,3,8,Loyal Customers
+05619162,289,1,196.69,1,1,2,4,At Risk
+0580edce,47,1,369.33,4,1,4,9,Loyal Customers
+0593db79,138,1,368.63,3,1,4,8,Loyal Customers
+0599c907,229,1,336.97,2,1,4,7,Potential Loyalists
+059a7bab,92,1,405.86,3,1,4,8,Loyal Customers
+05b592f1,16,1,169.63,4,1,2,7,Potential Loyalists
+05c5eef6,248,1,306.36,1,1,4,6,Potential Loyalists
+05c75f8e,299,1,178.45,1,1,2,4,At Risk
+05ddf6b9,164,1,211.34,2,1,3,6,Potential Loyalists
+05e6557c,97,1,487.06,3,1,4,8,Loyal Customers
+060cf692,246,1,45.47,1,1,1,3,Lost Customers
+0611293d,185,1,313.36,2,1,4,7,Potential Loyalists
+0639e3bd,220,1,335.93,2,1,4,7,Potential Loyalists
+06451796,63,1,28.43,4,1,1,6,Potential Loyalists
+0645a3b4,309,1,339.32,1,1,4,6,Potential Loyalists
+064a90e8,85,1,361.39,3,1,4,8,Loyal Customers
+065012c5,283,1,258.92,1,1,3,5,At Risk
+06539e8b,35,1,393.25,4,1,4,9,Loyal Customers
+065534e3,149,1,279.68,3,1,3,7,Potential Loyalists
+066a0e2f,19,1,333.58,4,1,4,9,Loyal Customers
+066dce62,128,1,20.94,3,1,1,5,At Risk
+069d9e68,183,1,384.2,2,1,4,7,Potential Loyalists
+06c01585,6,1,342.24,4,1,4,9,Loyal Customers
+06c442e0,278,1,150.05,1,1,2,4,At Risk
+06d390ac,218,1,349.59,2,1,4,7,Potential Loyalists
+0741d501,25,1,71.08,4,1,1,6,Potential Loyalists
+074c931e,88,1,48.48,3,1,1,5,At Risk
+0750df4a,180,1,182.87,2,1,2,5,At Risk
+075fc126,55,1,93.94,4,1,1,6,Potential Loyalists
+076f21ca,321,1,42.85,1,1,1,3,Lost Customers
+077651c7,222,1,216.23,2,1,3,6,Potential Loyalists
+078124d1,192,1,314.67,2,1,4,7,Potential Loyalists
+078fcf7a,76,1,232.22,4,1,3,8,Loyal Customers
+07bba05f,44,1,327.74,4,1,4,9,Loyal Customers
+07d9828a,154,1,288.05,3,1,3,7,Potential Loyalists
+07da90ff,4,1,102.55,4,1,1,6,Potential Loyalists
+07e93a67,323,1,136.1,1,1,2,4,At Risk
+07fd6558,214,1,76.12,2,1,1,4,At Risk
+080f21f4,198,1,83.3,2,1,1,4,At Risk
+084b0e23,172,1,71.39,2,1,1,4,At Risk
+084d1679,208,1,155.33,2,1,2,5,At Risk
+08602a9c,93,1,84.0,3,1,1,5,At Risk
+0888b113,267,1,52.27,1,1,1,3,Lost Customers
+088e7c77,46,1,266.1,4,1,3,8,Loyal Customers
+08a65189,17,1,315.45,4,1,4,9,Loyal Customers
+08a6752d,156,1,24.64,3,1,1,5,At Risk
+08b2f5ea,76,1,296.17,4,1,3,8,Loyal Customers
+08d32336,250,1,39.31,1,1,1,3,Lost Customers
+08f509e7,32,1,170.23,4,1,2,7,Potential Loyalists
+09082595,275,1,470.7,1,1,4,6,Potential Loyalists
+092a5a44,130,1,168.56,3,1,2,6,Potential Loyalists
+094b4804,19,1,383.07,4,1,4,9,Loyal Customers
+09525f3e,173,1,125.04,2,1,2,5,At Risk
+095bcc91,55,1,210.85,4,1,3,8,Loyal Customers
+09642f7b,183,1,215.81,2,1,3,6,Potential Loyalists
+097e0691,227,1,48.26,2,1,1,4,At Risk
+097f2ccb,325,1,363.14,1,1,4,6,Potential Loyalists
+09b07954,322,1,300.3,1,1,3,5,At Risk
+09b8e30c,253,1,71.25,1,1,1,3,Lost Customers
+09c475c9,243,1,196.97,2,1,2,5,At Risk
+09ca67b7,122,1,217.87,3,1,3,7,Potential Loyalists
+09e59ae1,280,1,169.52,1,1,2,4,At Risk
+09ea71de,23,1,69.37,4,1,1,6,Potential Loyalists
+09ed6fb4,184,1,138.46,2,1,2,5,At Risk
+0a017e5a,131,1,247.75,3,1,3,7,Potential Loyalists
+0a1152f5,323,1,86.42,1,1,1,3,Lost Customers
+0a1247ac,135,1,418.41,3,1,4,8,Loyal Customers
+0a3a6c62,159,1,240.92,3,1,3,7,Potential Loyalists
+0a3b0205,241,1,11.6,2,1,1,4,At Risk
+0a3ca68a,149,1,215.12,3,1,3,7,Potential Loyalists
+0a6712c8,251,1,322.12,1,1,4,6,Potential Loyalists
+0a75e9da,151,1,96.67,3,1,1,5,At Risk
+0a8206f2,56,1,217.03,4,1,3,8,Loyal Customers
+0a89bdec,269,1,63.27,1,1,1,3,Lost Customers
+0aa5caf4,219,1,46.11,2,1,1,4,At Risk
+0ac5e876,1,1,362.61,4,1,4,9,Loyal Customers
+0ad19220,80,1,99.89,4,1,1,6,Potential Loyalists
+0ae7336e,111,1,441.69,3,1,4,8,Loyal Customers
+0b010741,72,1,39.86,4,1,1,6,Potential Loyalists
+0b18eb06,255,1,161.14,1,1,2,4,At Risk
+0b204db3,145,1,414.76,3,1,4,8,Loyal Customers
+0b32dc6f,172,1,315.55,2,1,4,7,Potential Loyalists
+0b37db24,131,1,139.14,3,1,2,6,Potential Loyalists
+0b385dfa,123,1,222.36,3,1,3,7,Potential Loyalists
+0b3c2c9f,164,1,173.95,2,1,2,5,At Risk
+0b44393a,286,1,187.12,1,1,2,4,At Risk
+0b4f24e1,185,1,11.52,2,1,1,4,At Risk
+0b8bde5a,98,1,328.44,3,1,4,8,Loyal Customers
+0bade6a5,283,1,99.17,1,1,1,3,Lost Customers
+0bae38c2,90,1,135.6,3,1,2,6,Potential Loyalists
+0bca6ec2,173,1,246.25,2,1,3,6,Potential Loyalists
+0bd68fc8,308,1,440.36,1,1,4,6,Potential Loyalists
+0be6c0bb,129,1,133.94,3,1,2,6,Potential Loyalists
+0bfdb241,307,1,139.35,1,1,2,4,At Risk
+0bfeb002,67,1,400.57,4,1,4,9,Loyal Customers
+0c1fae8d,218,1,199.43,2,1,3,6,Potential Loyalists
+0c24ecf3,249,1,103.22,1,1,1,3,Lost Customers
+0c36392d,16,1,276.04,4,1,3,8,Loyal Customers
+0c414eaf,47,1,330.38,4,1,4,9,Loyal Customers
+0c74e0f0,160,1,387.12,3,1,4,8,Loyal Customers
+0c9235c1,97,1,387.11,3,1,4,8,Loyal Customers
+0ce757f0,283,1,420.81,1,1,4,6,Potential Loyalists
+0d06b10b,267,1,261.41,1,1,3,5,At Risk
+0d128e62,174,1,45.33,2,1,1,4,At Risk
+0d1478d4,163,1,332.4,3,1,4,8,Loyal Customers
+0d3b08e0,316,1,421.94,1,1,4,6,Potential Loyalists
+0d575e3c,207,1,135.72,2,1,2,5,At Risk
+0d6a5b96,153,1,169.52,3,1,2,6,Potential Loyalists
+0d83d591,107,1,307.92,3,1,4,8,Loyal Customers
+0d8c2f9b,30,1,191.0,4,1,2,7,Potential Loyalists
+0d9f9cc3,153,1,107.72,3,1,2,6,Potential Loyalists
+0dc89ab7,138,1,310.87,3,1,4,8,Loyal Customers
+0df32f0e,192,1,204.7,2,1,3,6,Potential Loyalists
+0e01ba85,19,1,240.51,4,1,3,8,Loyal Customers
+0e01eaf1,117,1,280.2,3,1,3,7,Potential Loyalists
+0e09bb42,114,1,79.29,3,1,1,5,At Risk
+0e3e47af,301,1,130.34,1,1,2,4,At Risk
+0e594526,142,1,30.26,3,1,1,5,At Risk
+0e64bfe5,72,1,155.9,4,1,2,7,Potential Loyalists
+0e7c9f35,74,1,341.64,4,1,4,9,Loyal Customers
+0e7ece51,123,1,291.31,3,1,3,7,Potential Loyalists
+0ea1f885,222,1,381.38,2,1,4,7,Potential Loyalists
+0eab45b5,38,1,250.97,4,1,3,8,Loyal Customers
+0eae163d,181,1,148.42,2,1,2,5,At Risk
+0ec44907,12,1,113.97,4,1,2,7,Potential Loyalists
+0eeae089,308,1,102.88,1,1,1,3,Lost Customers
+0ef29560,318,1,108.82,1,1,2,4,At Risk
+0f083239,309,1,97.31,1,1,1,3,Lost Customers
+0f11e6c8,51,1,436.28,4,1,4,9,Loyal Customers
+0f2949c3,320,1,68.07,1,1,1,3,Lost Customers
+0f32a6f6,109,1,176.47,3,1,2,6,Potential Loyalists
+0f78333d,79,1,232.25,4,1,3,8,Loyal Customers
+0f8a805d,36,1,116.06,4,1,2,7,Potential Loyalists
+0fd2f768,241,1,422.38,2,1,4,7,Potential Loyalists
+0fe10855,36,1,26.77,4,1,1,6,Potential Loyalists
+0ffb9389,58,1,55.71,4,1,1,6,Potential Loyalists
+101938a5,34,1,112.28,4,1,2,7,Potential Loyalists
+104bedf9,71,1,141.4,4,1,2,7,Potential Loyalists
+104cbed3,217,1,472.29,2,1,4,7,Potential Loyalists
+10801644,67,1,64.08,4,1,1,6,Potential Loyalists
+108549a1,282,1,417.89,1,1,4,6,Potential Loyalists
+1097aa00,11,1,78.97,4,1,1,6,Potential Loyalists
+109dbd80,275,1,60.28,1,1,1,3,Lost Customers
+10a9dfd0,245,1,367.5,1,1,4,6,Potential Loyalists
+10b6a453,85,1,418.08,3,1,4,8,Loyal Customers
+10c04728,292,1,146.96,1,1,2,4,At Risk
+10c31378,82,1,18.67,3,1,1,5,At Risk
+10dd7b6a,210,1,102.25,2,1,1,4,At Risk
+10ed87b2,198,1,231.09,2,1,3,6,Potential Loyalists
+10ff6293,295,1,255.53,1,1,3,5,At Risk
+1100831a,104,1,272.18,3,1,3,7,Potential Loyalists
+11105ad4,277,1,307.03,1,1,4,6,Potential Loyalists
+1117a729,68,1,60.76,4,1,1,6,Potential Loyalists
+11541d26,192,1,327.24,2,1,4,7,Potential Loyalists
+116383a9,184,1,35.59,2,1,1,4,At Risk
+11692893,112,1,129.31,3,1,2,6,Potential Loyalists
+116fecb8,264,1,122.66,1,1,2,4,At Risk
+1171aed4,109,1,418.54,3,1,4,8,Loyal Customers
+117c47ed,15,1,427.95,4,1,4,9,Loyal Customers
+11a0b7bc,322,1,36.16,1,1,1,3,Lost Customers
+11ba2467,169,1,48.4,2,1,1,4,At Risk
+11c8bf8b,220,1,26.55,2,1,1,4,At Risk
+11ca9164,145,1,317.61,3,1,4,8,Loyal Customers
+11d1ef2a,178,1,140.4,2,1,2,5,At Risk
+121bdf3e,170,1,163.61,2,1,2,5,At Risk
+122abbd7,189,1,142.07,2,1,2,5,At Risk
+124627c9,231,1,184.09,2,1,2,5,At Risk
+12574fb0,208,1,15.4,2,1,1,4,At Risk
+125e7014,303,1,265.07,1,1,3,5,At Risk
+12772337,239,1,73.06,2,1,1,4,At Risk
+127d2dcd,317,1,62.51,1,1,1,3,Lost Customers
+128b6828,73,1,150.66,4,1,2,7,Potential Loyalists
+128c7985,260,1,105.46,1,1,2,4,At Risk
+129e1ecd,183,1,148.84,2,1,2,5,At Risk
+12a6e549,43,1,52.46,4,1,1,6,Potential Loyalists
+12ada465,272,1,211.69,1,1,3,5,At Risk
+12ae16a2,193,1,196.2,2,1,2,5,At Risk
+1304dddb,174,1,225.2,2,1,3,6,Potential Loyalists
+1332dbc8,317,1,106.14,1,1,2,4,At Risk
+133c23df,13,1,175.15,4,1,2,7,Potential Loyalists
+133c8a19,271,1,467.03,1,1,4,6,Potential Loyalists
+1342567a,262,1,186.93,1,1,2,4,At Risk
+134aa3c5,263,1,197.66,1,1,2,4,At Risk
+13649191,199,1,284.14,2,1,3,6,Potential Loyalists
+137307da,217,1,86.13,2,1,1,4,At Risk
+13a9654a,205,1,77.41,2,1,1,4,At Risk
+13c26270,116,1,111.78,3,1,2,6,Potential Loyalists
+13d4dd27,323,1,221.24,1,1,3,5,At Risk
+13ea1730,270,1,262.7,1,1,3,5,At Risk
+13fcb9dd,319,1,106.5,1,1,2,4,At Risk
+14008bb0,306,1,42.32,1,1,1,3,Lost Customers
+14033a78,93,1,44.39,3,1,1,5,At Risk
+140e089c,186,1,410.41,2,1,4,7,Potential Loyalists
+144ac601,39,1,154.7,4,1,2,7,Potential Loyalists
+145a48bb,184,1,121.13,2,1,2,5,At Risk
+146e7249,66,1,417.51,4,1,4,9,Loyal Customers
+14841db0,42,1,219.41,4,1,3,8,Loyal Customers
+148a6381,168,1,456.74,2,1,4,7,Potential Loyalists
+148aa401,231,1,95.38,2,1,1,4,At Risk
+14974d49,3,1,280.33,4,1,3,8,Loyal Customers
+14a322ad,157,1,130.03,3,1,2,6,Potential Loyalists
+14a4d873,288,1,254.46,1,1,3,5,At Risk
+14aa33f8,106,1,148.06,3,1,2,6,Potential Loyalists
+14c9d3be,249,1,306.48,1,1,4,6,Potential Loyalists
+14f20acd,112,1,165.92,3,1,2,6,Potential Loyalists
+14fe692a,303,1,63.67,1,1,1,3,Lost Customers
+15212d1e,193,1,144.13,2,1,2,5,At Risk
+152a3010,31,1,202.46,4,1,3,8,Loyal Customers
+15375b7a,246,1,23.31,1,1,1,3,Lost Customers
+155fe399,246,1,210.88,1,1,3,5,At Risk
+1584b5d6,257,1,16.36,1,1,1,3,Lost Customers
+158b7b45,18,1,466.62,4,1,4,9,Loyal Customers
+158df4de,50,1,188.09,4,1,2,7,Potential Loyalists
+158e8085,138,1,112.45,3,1,2,6,Potential Loyalists
+15b5e873,284,1,150.18,1,1,2,4,At Risk
+15bbabf3,1,1,13.82,4,1,1,6,Potential Loyalists
+15de560d,256,1,133.42,1,1,2,4,At Risk
+15e54ccd,73,1,141.13,4,1,2,7,Potential Loyalists
+15eb948c,306,1,466.36,1,1,4,6,Potential Loyalists
+160a70d8,88,1,47.98,3,1,1,5,At Risk
+161325fd,195,1,282.17,2,1,3,6,Potential Loyalists
+1624e787,83,1,193.8,3,1,2,6,Potential Loyalists
+16424ec7,233,1,160.09,2,1,2,5,At Risk
+16589213,69,1,61.27,4,1,1,6,Potential Loyalists
+1672d24e,16,1,379.89,4,1,4,9,Loyal Customers
+1699a74b,89,1,292.37,3,1,3,7,Potential Loyalists
+16b4c497,225,1,112.59,2,1,2,5,At Risk
+16c8c193,48,1,118.16,4,1,2,7,Potential Loyalists
+16cf536e,123,1,301.12,3,1,3,7,Potential Loyalists
+16dc2dab,150,1,164.53,3,1,2,6,Potential Loyalists
+16dc86bb,5,1,265.2,4,1,3,8,Loyal Customers
+16ed50f6,9,1,177.92,4,1,2,7,Potential Loyalists
+170d8114,151,1,49.86,3,1,1,5,At Risk
+1711938b,318,1,229.31,1,1,3,5,At Risk
+17136587,64,1,357.92,4,1,4,9,Loyal Customers
+171a2e71,6,1,294.6,4,1,3,8,Loyal Customers
+171c325f,152,1,177.59,3,1,2,6,Potential Loyalists
+17206a14,46,1,315.53,4,1,4,9,Loyal Customers
+172bd712,234,1,364.25,2,1,4,7,Potential Loyalists
+172f1fe0,298,1,186.27,1,1,2,4,At Risk
+1738af2a,75,1,266.57,4,1,3,8,Loyal Customers
+1739fa0d,317,1,118.81,1,1,2,4,At Risk
+173a7d55,224,1,470.33,2,1,4,7,Potential Loyalists
+1744051f,80,1,185.48,4,1,2,7,Potential Loyalists
+17542880,11,1,268.83,4,1,3,8,Loyal Customers
+175607aa,54,1,8.97,4,1,1,6,Potential Loyalists
+17579278,310,1,232.78,1,1,3,5,At Risk
+176bbab8,68,1,198.39,4,1,2,7,Potential Loyalists
+178230e0,123,1,27.76,3,1,1,5,At Risk
+178fed2d,18,1,300.52,4,1,3,8,Loyal Customers
+17935504,310,1,377.15,1,1,4,6,Potential Loyalists
+179ae4c5,235,1,304.65,2,1,4,7,Potential Loyalists
+17a03a8e,160,1,135.75,3,1,2,6,Potential Loyalists
+17cca69e,58,1,63.28,4,1,1,6,Potential Loyalists
+17ea7752,232,1,13.42,2,1,1,4,At Risk
+17ec5173,267,1,243.7,1,1,3,5,At Risk
+180900bc,23,1,204.23,4,1,3,8,Loyal Customers
+18283fe9,158,1,181.55,3,1,2,6,Potential Loyalists
+1828fb43,282,1,250.23,1,1,3,5,At Risk
+183b54fb,43,1,153.31,4,1,2,7,Potential Loyalists
+18571441,173,1,268.14,2,1,3,6,Potential Loyalists
+185a8f78,31,1,146.09,4,1,2,7,Potential Loyalists
+18611bb6,93,1,119.95,3,1,2,6,Potential Loyalists
+186f1145,258,1,311.41,1,1,4,6,Potential Loyalists
+187108d8,310,1,61.98,1,1,1,3,Lost Customers
+18729857,198,1,362.05,2,1,4,7,Potential Loyalists
+1885865d,234,1,187.07,2,1,2,5,At Risk
+1886386b,250,1,77.07,1,1,1,3,Lost Customers
+188c6595,9,1,22.6,4,1,1,6,Potential Loyalists
+188cb370,221,1,221.56,2,1,3,6,Potential Loyalists
+189129b3,135,1,29.74,3,1,1,5,At Risk
+18a5f861,145,1,175.87,3,1,2,6,Potential Loyalists
+18a7315f,309,1,386.97,1,1,4,6,Potential Loyalists
+18b2a6ae,253,1,373.65,1,1,4,6,Potential Loyalists
+18ce10b0,116,1,123.68,3,1,2,6,Potential Loyalists
+18ceee25,76,1,309.36,4,1,4,9,Loyal Customers
+18e92cc0,302,1,104.37,1,1,1,3,Lost Customers
+18fa5e20,107,1,350.6,3,1,4,8,Loyal Customers
+190628ce,262,1,238.29,1,1,3,5,At Risk
+191c2795,51,1,229.32,4,1,3,8,Loyal Customers
+19250ed7,321,1,120.25,1,1,2,4,At Risk
+192edd4e,255,1,30.49,1,1,1,3,Lost Customers
+192f4b21,295,1,155.77,1,1,2,4,At Risk
+1943f27c,257,1,257.57,1,1,3,5,At Risk
+194aa278,139,1,321.57,3,1,4,8,Loyal Customers
+194fe55b,32,1,196.54,4,1,2,7,Potential Loyalists
+195e0c14,60,1,166.75,4,1,2,7,Potential Loyalists
+1962082e,116,1,453.66,3,1,4,8,Loyal Customers
+19649d6c,118,1,124.78,3,1,2,6,Potential Loyalists
+19769f0e,245,1,285.42,1,1,3,5,At Risk
+19c7efc6,161,1,334.51,3,1,4,8,Loyal Customers
+19d43000,313,1,39.49,1,1,1,3,Lost Customers
+19dbc60e,191,1,223.51,2,1,3,6,Potential Loyalists
+19dd37b0,32,1,41.53,4,1,1,6,Potential Loyalists
+19eb99df,321,1,195.1,1,1,2,4,At Risk
+1a25ef8b,160,1,222.04,3,1,3,7,Potential Loyalists
+1a29d6ef,30,1,112.08,4,1,2,7,Potential Loyalists
+1a2e9e50,269,1,185.91,1,1,2,4,At Risk
+1a4639c6,274,1,208.78,1,1,3,5,At Risk
+1a6c5c08,278,1,138.45,1,1,2,4,At Risk
+1a6daf28,320,1,133.03,1,1,2,4,At Risk
+1a7c338d,209,1,10.05,2,1,1,4,At Risk
+1a80943e,141,1,228.74,3,1,3,7,Potential Loyalists
+1a9a7605,163,1,145.37,3,1,2,6,Potential Loyalists
+1aa72558,186,1,236.44,2,1,3,6,Potential Loyalists
+1aad3236,37,1,126.88,4,1,2,7,Potential Loyalists
+1aad44bb,233,1,23.92,2,1,1,4,At Risk
+1ae291af,147,1,215.15,3,1,3,7,Potential Loyalists
+1b011b03,64,1,125.2,4,1,2,7,Potential Loyalists
+1b0c9fd0,186,1,70.54,2,1,1,4,At Risk
+1b0d38af,48,1,180.12,4,1,2,7,Potential Loyalists
+1b10748b,98,1,10.6,3,1,1,5,At Risk
+1b3596a1,66,1,315.86,4,1,4,9,Loyal Customers
+1b4424dd,253,1,26.57,1,1,1,3,Lost Customers
+1b4ce378,149,1,92.53,3,1,1,5,At Risk
+1b4d6975,99,1,32.27,3,1,1,5,At Risk
+1b863eb3,155,1,107.44,3,1,2,6,Potential Loyalists
+1bc373ee,186,1,123.74,2,1,2,5,At Risk
+1bc7e890,294,1,317.6,1,1,4,6,Potential Loyalists
+1bcc7d66,267,1,37.45,1,1,1,3,Lost Customers
+1be4767d,121,1,88.3,3,1,1,5,At Risk
+1c33e307,254,1,328.06,1,1,4,6,Potential Loyalists
+1c34cc19,146,1,25.38,3,1,1,5,At Risk
+1c4f3915,61,1,236.84,4,1,3,8,Loyal Customers
+1c56848e,114,1,228.36,3,1,3,7,Potential Loyalists
+1c587631,287,1,229.8,1,1,3,5,At Risk
+1c5a1b59,255,1,249.5,1,1,3,5,At Risk
+1c74138b,41,1,46.12,4,1,1,6,Potential Loyalists
+1c816115,12,1,50.52,4,1,1,6,Potential Loyalists
+1c87705a,103,1,120.89,3,1,2,6,Potential Loyalists
+1c959928,268,1,226.65,1,1,3,5,At Risk
+1c98d9cb,74,1,241.98,4,1,3,8,Loyal Customers
+1cb03de1,136,1,83.6,3,1,1,5,At Risk
+1cbd0192,187,1,458.39,2,1,4,7,Potential Loyalists
+1cf3407d,32,1,112.43,4,1,2,7,Potential Loyalists
+1cf64412,271,1,423.28,1,1,4,6,Potential Loyalists
+1d08f709,306,1,353.97,1,1,4,6,Potential Loyalists
+1d0d42ed,321,1,409.44,1,1,4,6,Potential Loyalists
+1d10d5a7,268,1,103.23,1,1,1,3,Lost Customers
+1d146f4a,120,1,332.89,3,1,4,8,Loyal Customers
+1d2c993f,55,1,295.6,4,1,3,8,Loyal Customers
+1d360f7f,217,1,34.87,2,1,1,4,At Risk
+1d3b4cbd,178,1,323.68,2,1,4,7,Potential Loyalists
+1d431cd4,42,1,126.06,4,1,2,7,Potential Loyalists
+1d5adb9d,13,1,459.22,4,1,4,9,Loyal Customers
+1d750630,244,1,368.7,1,1,4,6,Potential Loyalists
+1d800681,285,1,79.22,1,1,1,3,Lost Customers
+1d8925f0,108,1,394.59,3,1,4,8,Loyal Customers
+1dac4ff2,144,1,433.94,3,1,4,8,Loyal Customers
+1dc9d0b0,301,1,457.68,1,1,4,6,Potential Loyalists
+1ddc65f3,320,1,376.52,1,1,4,6,Potential Loyalists
+1defd3b1,107,1,389.76,3,1,4,8,Loyal Customers
+1e02db52,321,1,323.99,1,1,4,6,Potential Loyalists
+1e0f3878,256,1,248.46,1,1,3,5,At Risk
+1e119afc,68,1,66.04,4,1,1,6,Potential Loyalists
+1e2104bf,56,1,33.48,4,1,1,6,Potential Loyalists
+1e362183,5,1,313.36,4,1,4,9,Loyal Customers
+1e5bd791,240,1,259.12,2,1,3,6,Potential Loyalists
+1e6e48c2,106,1,183.9,3,1,2,6,Potential Loyalists
+1e77e045,7,1,366.93,4,1,4,9,Loyal Customers
+1e8db66c,268,1,12.81,1,1,1,3,Lost Customers
+1e93ade3,175,1,437.65,2,1,4,7,Potential Loyalists
+1e9fc577,167,1,138.04,2,1,2,5,At Risk
+1ec05b76,24,1,196.42,4,1,2,7,Potential Loyalists
+1ec3ff2a,41,1,280.16,4,1,3,8,Loyal Customers
+1ee3dec3,89,1,218.5,3,1,3,7,Potential Loyalists
+1f28730f,219,1,117.79,2,1,2,5,At Risk
+1f4fbea8,44,1,75.58,4,1,1,6,Potential Loyalists
+1f5cc3ae,94,1,42.17,3,1,1,5,At Risk
+1f77f62c,134,1,119.98,3,1,2,6,Potential Loyalists
+1f830c14,14,1,117.91,4,1,2,7,Potential Loyalists
+1f9e6a6c,42,1,201.05,4,1,3,8,Loyal Customers
+1fb7f40c,223,1,188.6,2,1,2,5,At Risk
+1fd91234,31,1,22.83,4,1,1,6,Potential Loyalists
+204fab33,259,1,258.92,1,1,3,5,At Risk
+20556324,223,1,93.41,2,1,1,4,At Risk
+205a7efe,51,1,237.14,4,1,3,8,Loyal Customers
+20603af4,130,1,114.6,3,1,2,6,Potential Loyalists
+2063936e,28,1,477.48,4,1,4,9,Loyal Customers
+20797b76,206,1,495.02,2,1,4,7,Potential Loyalists
+2081a750,81,1,144.58,3,1,2,6,Potential Loyalists
+20838914,145,1,350.86,3,1,4,8,Loyal Customers
+20951b9c,80,1,103.11,4,1,1,6,Potential Loyalists
+2097921f,133,1,172.28,3,1,2,6,Potential Loyalists
+20a19ba6,128,1,79.59,3,1,1,5,At Risk
+20a55aba,118,1,321.11,3,1,4,8,Loyal Customers
+20af9383,7,1,207.18,4,1,3,8,Loyal Customers
+20eef2f5,217,1,129.53,2,1,2,5,At Risk
+2136e170,295,1,435.96,1,1,4,6,Potential Loyalists
+2157ff60,226,1,212.26,2,1,3,6,Potential Loyalists
+215a7f76,283,1,138.95,1,1,2,4,At Risk
+215d2ce2,215,1,367.94,2,1,4,7,Potential Loyalists
+21946755,61,1,286.63,4,1,3,8,Loyal Customers
+219cee6a,84,1,268.69,3,1,3,7,Potential Loyalists
+21bb3317,139,1,82.45,3,1,1,5,At Risk
+21bf6170,181,1,351.16,2,1,4,7,Potential Loyalists
+21d9914c,181,1,166.55,2,1,2,5,At Risk
+21e0291a,279,1,315.67,1,1,4,6,Potential Loyalists
+21ee3aaf,267,1,433.41,1,1,4,6,Potential Loyalists
+2213103b,2,1,375.81,4,1,4,9,Loyal Customers
+221a9af4,124,1,54.03,3,1,1,5,At Risk
+222d2020,222,1,243.77,2,1,3,6,Potential Loyalists
+223e1e33,319,1,39.56,1,1,1,3,Lost Customers
+226d02cd,203,1,321.01,2,1,4,7,Potential Loyalists
+22814487,271,1,286.23,1,1,3,5,At Risk
+22830113,298,1,245.73,1,1,3,5,At Risk
+22898985,239,1,243.49,2,1,3,6,Potential Loyalists
+22b16d50,26,1,124.03,4,1,2,7,Potential Loyalists
+22cc7cea,137,1,370.53,3,1,4,8,Loyal Customers
+22ce90f0,257,1,338.0,1,1,4,6,Potential Loyalists
+22d18844,123,1,234.64,3,1,3,7,Potential Loyalists
+22d2eefa,255,1,157.17,1,1,2,4,At Risk
+22dccae1,258,1,394.02,1,1,4,6,Potential Loyalists
+22f0569f,238,1,283.14,2,1,3,6,Potential Loyalists
+22fef1b5,43,1,362.77,4,1,4,9,Loyal Customers
+234be188,119,1,209.81,3,1,3,7,Potential Loyalists
+2359eacf,149,1,186.79,3,1,2,6,Potential Loyalists
+238fba4a,177,1,124.21,2,1,2,5,At Risk
+23921511,295,1,229.27,1,1,3,5,At Risk
+23b03fac,9,1,12.22,4,1,1,6,Potential Loyalists
+23b8db27,73,1,350.58,4,1,4,9,Loyal Customers
+23b9515e,105,1,78.77,3,1,1,5,At Risk
+23c2d847,156,1,214.75,3,1,3,7,Potential Loyalists
+23d9f470,155,1,117.67,3,1,2,6,Potential Loyalists
+23e22794,121,1,115.89,3,1,2,6,Potential Loyalists
+23e6b564,67,1,54.3,4,1,1,6,Potential Loyalists
+23e711df,299,1,294.81,1,1,3,5,At Risk
+23e8e15d,142,1,74.23,3,1,1,5,At Risk
+23eb2059,307,1,231.0,1,1,3,5,At Risk
+2403105a,160,1,303.91,3,1,3,7,Potential Loyalists
+2421a3f6,15,1,264.49,4,1,3,8,Loyal Customers
+24315376,89,1,188.78,3,1,2,6,Potential Loyalists
+244380ac,80,1,79.82,4,1,1,6,Potential Loyalists
+244e736c,70,1,120.58,4,1,2,7,Potential Loyalists
+24615a11,228,1,18.17,2,1,1,4,At Risk
+247db661,70,1,251.48,4,1,3,8,Loyal Customers
+2498a9ec,313,1,54.95,1,1,1,3,Lost Customers
+249fb3ec,118,1,205.3,3,1,3,7,Potential Loyalists
+24adcd0d,300,1,31.09,1,1,1,3,Lost Customers
+24af6c3e,40,1,32.29,4,1,1,6,Potential Loyalists
+24c878ae,17,1,87.88,4,1,1,6,Potential Loyalists
+24d2a786,52,1,242.15,4,1,3,8,Loyal Customers
+24f2c911,172,1,251.09,2,1,3,6,Potential Loyalists
+24f89561,130,1,61.27,3,1,1,5,At Risk
+251c90d9,114,1,233.25,3,1,3,7,Potential Loyalists
+257a8ce9,260,1,234.0,1,1,3,5,At Risk
+257af577,107,1,285.38,3,1,3,7,Potential Loyalists
+25804b99,155,1,11.38,3,1,1,5,At Risk
+2589f4a9,73,1,241.97,4,1,3,8,Loyal Customers
+259e5ade,140,1,272.29,3,1,3,7,Potential Loyalists
+25a0d325,19,1,254.59,4,1,3,8,Loyal Customers
+25a1921e,102,1,313.14,3,1,4,8,Loyal Customers
+25f82afb,262,1,89.55,1,1,1,3,Lost Customers
+25f8c79a,127,1,428.28,3,1,4,8,Loyal Customers
+260c8ec5,170,1,19.29,2,1,1,4,At Risk
+26503871,31,1,153.45,4,1,2,7,Potential Loyalists
+26525a44,299,1,169.49,1,1,2,4,At Risk
+267cacf2,35,1,12.81,4,1,1,6,Potential Loyalists
+268cf1de,72,1,244.73,4,1,3,8,Loyal Customers
+2697b3d8,263,1,116.64,1,1,2,4,At Risk
+26a29655,236,1,128.35,2,1,2,5,At Risk
+26bc1cc6,242,1,300.25,2,1,3,6,Potential Loyalists
+26d5be1a,48,1,324.09,4,1,4,9,Loyal Customers
+26dd0325,138,1,280.17,3,1,3,7,Potential Loyalists
+27016f42,70,1,232.25,4,1,3,8,Loyal Customers
+2726ae9c,60,1,254.69,4,1,3,8,Loyal Customers
+27299b68,187,1,181.96,2,1,2,5,At Risk
+2736921c,137,1,270.52,3,1,3,7,Potential Loyalists
+2753195e,3,1,97.3,4,1,1,6,Potential Loyalists
+276261b1,245,1,38.05,1,1,1,3,Lost Customers
+276c64b5,189,1,28.77,2,1,1,4,At Risk
+27974553,220,1,299.89,2,1,3,6,Potential Loyalists
+2799503e,34,1,445.94,4,1,4,9,Loyal Customers
+27a4d0b6,141,1,93.17,3,1,1,5,At Risk
+27b48e7c,268,1,247.88,1,1,3,5,At Risk
+27bb9508,129,1,362.98,3,1,4,8,Loyal Customers
+27dd0710,60,1,34.66,4,1,1,6,Potential Loyalists
+27e8fb1c,125,1,341.77,3,1,4,8,Loyal Customers
+27e9dd51,305,1,338.09,1,1,4,6,Potential Loyalists
+2803642c,101,1,124.03,3,1,2,6,Potential Loyalists
+280e0662,138,1,174.08,3,1,2,6,Potential Loyalists
+28223fc3,12,1,160.34,4,1,2,7,Potential Loyalists
+28248fbd,184,1,319.26,2,1,4,7,Potential Loyalists
+284c8015,91,1,32.61,3,1,1,5,At Risk
+2854d5ba,28,1,281.28,4,1,3,8,Loyal Customers
+288cd987,307,1,362.88,1,1,4,6,Potential Loyalists
+28b4e804,182,1,91.98,2,1,1,4,At Risk
+28bc186c,224,1,154.81,2,1,2,5,At Risk
+28eb571c,157,1,186.09,3,1,2,6,Potential Loyalists
+2921198f,171,1,154.47,2,1,2,5,At Risk
+292307da,96,1,370.57,3,1,4,8,Loyal Customers
+2928d620,271,1,343.01,1,1,4,6,Potential Loyalists
+29421930,269,1,262.79,1,1,3,5,At Risk
+294af876,257,1,35.24,1,1,1,3,Lost Customers
+295576f0,150,1,74.93,3,1,1,5,At Risk
+295a2e0b,285,1,349.58,1,1,4,6,Potential Loyalists
+295b35ad,99,1,182.57,3,1,2,6,Potential Loyalists
+29603095,247,1,87.81,1,1,1,3,Lost Customers
+29782162,313,1,100.26,1,1,1,3,Lost Customers
+29aa9b2f,278,1,325.67,1,1,4,6,Potential Loyalists
+29af7e68,162,1,366.15,3,1,4,8,Loyal Customers
+29b1dbdf,83,1,189.34,3,1,2,6,Potential Loyalists
+29b3c37a,85,1,381.05,3,1,4,8,Loyal Customers
+29b418a7,102,1,328.1,3,1,4,8,Loyal Customers
+29ca507d,39,1,444.79,4,1,4,9,Loyal Customers
+29d6e060,300,1,15.65,1,1,1,3,Lost Customers
+29db5c37,83,1,393.12,3,1,4,8,Loyal Customers
+29f39439,14,1,336.87,4,1,4,9,Loyal Customers
+2a015472,222,1,8.12,2,1,1,4,At Risk
+2a1d2b27,141,1,394.83,3,1,4,8,Loyal Customers
+2a202e20,302,1,29.68,1,1,1,3,Lost Customers
+2a21b2f5,48,1,156.64,4,1,2,7,Potential Loyalists
+2a238fbc,62,1,239.66,4,1,3,8,Loyal Customers
+2a59f763,8,1,162.51,4,1,2,7,Potential Loyalists
+2a641c9d,97,1,320.7,3,1,4,8,Loyal Customers
+2a658d86,105,1,165.06,3,1,2,6,Potential Loyalists
+2a770607,251,1,154.81,1,1,2,4,At Risk
+2a815054,81,1,78.14,3,1,1,5,At Risk
+2ad90cf7,63,1,21.54,4,1,1,6,Potential Loyalists
+2ad94b3d,278,1,372.23,1,1,4,6,Potential Loyalists
+2ae065a3,155,1,294.48,3,1,3,7,Potential Loyalists
+2af6136c,179,1,35.9,2,1,1,4,At Risk
+2b3198dd,103,1,88.28,3,1,1,5,At Risk
+2b33b2b6,208,1,309.34,2,1,4,7,Potential Loyalists
+2b87059b,25,1,325.94,4,1,4,9,Loyal Customers
+2b8be919,57,1,38.32,4,1,1,6,Potential Loyalists
+2ba824ee,263,1,105.63,1,1,2,4,At Risk
+2bca9bc1,283,1,135.08,1,1,2,4,At Risk
+2c0885e0,322,1,347.18,1,1,4,6,Potential Loyalists
+2c190d8c,264,1,245.72,1,1,3,5,At Risk
+2c2500ea,5,1,412.25,4,1,4,9,Loyal Customers
+2c3663ad,294,1,191.53,1,1,2,4,At Risk
+2c36db95,256,1,51.1,1,1,1,3,Lost Customers
+2c3e4736,188,1,27.68,2,1,1,4,At Risk
+2c42e5cd,196,1,189.77,2,1,2,5,At Risk
+2c522119,52,1,362.13,4,1,4,9,Loyal Customers
+2c58e6ef,165,1,296.06,2,1,3,6,Potential Loyalists
+2c5dc3ec,115,1,25.09,3,1,1,5,At Risk
+2c837e21,171,1,153.44,2,1,2,5,At Risk
+2ca25b33,52,1,390.18,4,1,4,9,Loyal Customers
+2cac4c48,314,1,161.41,1,1,2,4,At Risk
+2cc7ae37,51,1,228.76,4,1,3,8,Loyal Customers
+2cd8b0cf,20,1,83.5,4,1,1,6,Potential Loyalists
+2ce28bf9,312,1,112.91,1,1,2,4,At Risk
+2ce76c47,49,1,133.79,4,1,2,7,Potential Loyalists
+2d03157c,119,1,250.96,3,1,3,7,Potential Loyalists
+2d07ff15,33,1,349.01,4,1,4,9,Loyal Customers
+2d1dbbf3,168,1,328.63,2,1,4,7,Potential Loyalists
+2d37b12b,134,1,233.42,3,1,3,7,Potential Loyalists
+2d3fc0c1,288,1,6.35,1,1,1,3,Lost Customers
+2d4ac994,296,1,212.41,1,1,3,5,At Risk
+2d574c24,128,1,322.34,3,1,4,8,Loyal Customers
+2d642d1e,42,1,225.25,4,1,3,8,Loyal Customers
+2d6ba8ae,52,1,24.09,4,1,1,6,Potential Loyalists
+2d70ea63,5,1,66.27,4,1,1,6,Potential Loyalists
+2d841a95,39,1,324.33,4,1,4,9,Loyal Customers
+2d95c0e0,319,1,319.83,1,1,4,6,Potential Loyalists
+2da125c1,42,1,326.01,4,1,4,9,Loyal Customers
+2da6d115,210,1,28.31,2,1,1,4,At Risk
+2db259c4,220,1,13.88,2,1,1,4,At Risk
+2dbcadea,240,1,13.4,2,1,1,4,At Risk
+2dbdb640,116,1,273.85,3,1,3,7,Potential Loyalists
+2dd4607e,171,1,394.67,2,1,4,7,Potential Loyalists
+2e19e8b7,36,1,330.43,4,1,4,9,Loyal Customers
+2e1fecb3,182,1,261.58,2,1,3,6,Potential Loyalists
+2e20a6a6,178,1,161.14,2,1,2,5,At Risk
+2e31f938,309,1,144.94,1,1,2,4,At Risk
+2e348747,134,1,122.9,3,1,2,6,Potential Loyalists
+2e35be56,120,1,184.43,3,1,2,6,Potential Loyalists
+2e541d01,257,1,177.28,1,1,2,4,At Risk
+2ea44e9d,252,1,320.09,1,1,4,6,Potential Loyalists
+2ece1205,39,1,182.88,4,1,2,7,Potential Loyalists
+2ed9c959,227,1,91.06,2,1,1,4,At Risk
+2efb6b7f,176,1,315.45,2,1,4,7,Potential Loyalists
+2f07538e,151,1,161.1,3,1,2,6,Potential Loyalists
+2f09e4cc,261,1,130.75,1,1,2,4,At Risk
+2f0e0bd3,236,1,189.05,2,1,2,5,At Risk
+2f1fa8ae,110,1,71.78,3,1,1,5,At Risk
+2f2a8b7a,208,1,183.58,2,1,2,5,At Risk
+2f2e35cd,186,1,353.56,2,1,4,7,Potential Loyalists
+2f4b4df8,243,1,96.96,2,1,1,4,At Risk
+2f779c7b,295,1,166.25,1,1,2,4,At Risk
+2f96ad99,218,1,222.31,2,1,3,6,Potential Loyalists
+2fb02560,300,1,136.11,1,1,2,4,At Risk
+2fb404f4,305,1,314.46,1,1,4,6,Potential Loyalists
+2fb9f48b,122,1,302.08,3,1,3,7,Potential Loyalists
+2fcadb6b,217,1,227.4,2,1,3,6,Potential Loyalists
+2fcdb2c6,206,1,64.3,2,1,1,4,At Risk
+2fdaa4b7,60,1,180.9,4,1,2,7,Potential Loyalists
+2ff6e11d,236,1,117.54,2,1,2,5,At Risk
+2ffde046,239,1,209.87,2,1,3,6,Potential Loyalists
+3043e68e,78,1,244.35,4,1,3,8,Loyal Customers
+3066b9d4,199,1,105.83,2,1,2,5,At Risk
+30bffc4c,78,1,90.63,4,1,1,6,Potential Loyalists
+30d3fca9,296,1,344.13,1,1,4,6,Potential Loyalists
+30eccf94,124,1,28.6,3,1,1,5,At Risk
+310c7ad6,222,1,87.17,2,1,1,4,At Risk
+310ecc50,67,1,472.32,4,1,4,9,Loyal Customers
+31207659,284,1,402.82,1,1,4,6,Potential Loyalists
+312114bd,101,1,63.46,3,1,1,5,At Risk
+3123e3f0,281,1,298.34,1,1,3,5,At Risk
+313b6efb,67,1,236.7,4,1,3,8,Loyal Customers
+313c6da5,314,1,111.8,1,1,2,4,At Risk
+315b7094,203,1,245.29,2,1,3,6,Potential Loyalists
+316d6899,47,1,62.07,4,1,1,6,Potential Loyalists
+316e72b1,51,1,216.18,4,1,3,8,Loyal Customers
+3175823b,313,1,128.37,1,1,2,4,At Risk
+31761a11,125,1,147.18,3,1,2,6,Potential Loyalists
+317a7a6a,227,1,247.11,2,1,3,6,Potential Loyalists
+317bca3f,255,1,162.55,1,1,2,4,At Risk
+3199bdec,285,1,390.62,1,1,4,6,Potential Loyalists
+31b3a467,90,1,133.63,3,1,2,6,Potential Loyalists
+31c5ddc8,51,1,434.36,4,1,4,9,Loyal Customers
+31cc9c2c,46,1,240.01,4,1,3,8,Loyal Customers
+31ee86d0,42,1,168.45,4,1,2,7,Potential Loyalists
+31efc044,60,1,52.29,4,1,1,6,Potential Loyalists
+32001e61,241,1,251.24,2,1,3,6,Potential Loyalists
+320a04c7,87,1,141.81,3,1,2,6,Potential Loyalists
+32196cbd,80,1,435.68,4,1,4,9,Loyal Customers
+323b46c6,166,1,323.2,2,1,4,7,Potential Loyalists
+32839723,229,1,28.25,2,1,1,4,At Risk
+328d03d8,134,1,260.12,3,1,3,7,Potential Loyalists
+329b7c97,186,1,121.0,2,1,2,5,At Risk
+32a490f4,4,1,118.27,4,1,2,7,Potential Loyalists
+32a6d6c8,5,1,424.81,4,1,4,9,Loyal Customers
+32b21e58,99,1,152.03,3,1,2,6,Potential Loyalists
+32b7d579,298,1,133.05,1,1,2,4,At Risk
+32c80a92,20,1,345.92,4,1,4,9,Loyal Customers
+32d535ae,220,1,347.69,2,1,4,7,Potential Loyalists
+32e20e76,115,1,64.55,3,1,1,5,At Risk
+32fbc798,302,1,393.1,1,1,4,6,Potential Loyalists
+3379f7d2,202,1,31.61,2,1,1,4,At Risk
+337c166f,10,1,31.05,4,1,1,6,Potential Loyalists
+33988d4a,190,1,134.72,2,1,2,5,At Risk
+33a45bd6,139,1,128.35,3,1,2,6,Potential Loyalists
+33af27e1,14,1,289.46,4,1,3,8,Loyal Customers
+33b289dd,263,1,388.9,1,1,4,6,Potential Loyalists
+33be8310,162,1,299.66,3,1,3,7,Potential Loyalists
+33c35bb2,240,1,39.99,2,1,1,4,At Risk
+33ec4e9b,246,1,416.88,1,1,4,6,Potential Loyalists
+33f0e5f8,170,1,18.7,2,1,1,4,At Risk
+3421e7ba,231,1,254.31,2,1,3,6,Potential Loyalists
+345947ca,70,1,262.24,4,1,3,8,Loyal Customers
+3467a8f9,158,1,342.78,3,1,4,8,Loyal Customers
+346f2c53,77,1,18.99,4,1,1,6,Potential Loyalists
+3474bf64,239,1,301.74,2,1,3,6,Potential Loyalists
+348b4f2e,301,1,167.35,1,1,2,4,At Risk
+348cf1e9,69,1,77.25,4,1,1,6,Potential Loyalists
+349248b9,242,1,335.03,2,1,4,7,Potential Loyalists
+3495e6fe,120,1,201.48,3,1,3,7,Potential Loyalists
+34c8ee63,62,1,12.45,4,1,1,6,Potential Loyalists
+34cb1abe,69,1,80.79,4,1,1,6,Potential Loyalists
+34dad111,143,1,370.33,3,1,4,8,Loyal Customers
+34e04e99,75,1,41.06,4,1,1,6,Potential Loyalists
+34ebc1a0,3,1,180.94,4,1,2,7,Potential Loyalists
+34f377cd,298,1,93.17,1,1,1,3,Lost Customers
+3502c114,38,1,47.45,4,1,1,6,Potential Loyalists
+35190f96,90,1,67.4,3,1,1,5,At Risk
+35227ad8,279,1,380.46,1,1,4,6,Potential Loyalists
+3522f888,148,1,271.88,3,1,3,7,Potential Loyalists
+35313885,54,1,182.46,4,1,2,7,Potential Loyalists
+355f934f,126,1,250.92,3,1,3,7,Potential Loyalists
+3567c84b,161,1,395.33,3,1,4,8,Loyal Customers
+3569a81f,320,1,296.22,1,1,3,5,At Risk
+3575e317,181,1,140.26,2,1,2,5,At Risk
+3598a6ef,208,1,111.96,2,1,2,5,At Risk
+359b71d4,289,1,414.61,1,1,4,6,Potential Loyalists
+35f185be,108,1,301.37,3,1,3,7,Potential Loyalists
+36056157,87,1,454.85,3,1,4,8,Loyal Customers
+360ae88b,26,1,280.82,4,1,3,8,Loyal Customers
+361a60b8,114,1,437.06,3,1,4,8,Loyal Customers
+363fe23b,47,1,305.27,4,1,4,9,Loyal Customers
+367bd243,281,1,292.97,1,1,3,5,At Risk
+367debf4,272,1,187.86,1,1,2,4,At Risk
+36848d01,320,1,29.12,1,1,1,3,Lost Customers
+3696bfd0,317,1,295.93,1,1,3,5,At Risk
+3699f97e,96,1,437.3,3,1,4,8,Loyal Customers
+369f273e,214,1,173.68,2,1,2,5,At Risk
+36ca8907,41,1,29.43,4,1,1,6,Potential Loyalists
+36cd4e86,237,1,290.75,2,1,3,6,Potential Loyalists
+36e2ff8c,72,1,36.75,4,1,1,6,Potential Loyalists
+36e6f67c,257,1,8.35,1,1,1,3,Lost Customers
+36f1d6a4,133,1,333.83,3,1,4,8,Loyal Customers
+36f7dbc7,319,1,35.55,1,1,1,3,Lost Customers
+36fdc5a6,187,1,223.33,2,1,3,6,Potential Loyalists
+371ace0c,156,1,193.56,3,1,2,6,Potential Loyalists
+372fa176,23,1,67.96,4,1,1,6,Potential Loyalists
+374ece51,154,1,18.15,3,1,1,5,At Risk
+37610673,9,1,85.04,4,1,1,6,Potential Loyalists
+376509b0,64,1,331.16,4,1,4,9,Loyal Customers
+376f737f,29,1,90.81,4,1,1,6,Potential Loyalists
+3772bd8a,265,1,131.53,1,1,2,4,At Risk
+37a64a6f,76,1,266.2,4,1,3,8,Loyal Customers
+37be8f06,218,1,43.34,2,1,1,4,At Risk
+38007c77,93,1,295.8,3,1,3,7,Potential Loyalists
+380397f3,256,1,347.06,1,1,4,6,Potential Loyalists
+3822b8b3,224,1,107.81,2,1,2,5,At Risk
+384b7acb,318,1,39.68,1,1,1,3,Lost Customers
+3855d9fa,53,1,28.27,4,1,1,6,Potential Loyalists
+387543ee,128,1,456.78,3,1,4,8,Loyal Customers
+3885e4b0,137,1,281.72,3,1,3,7,Potential Loyalists
+388acc9a,252,1,29.53,1,1,1,3,Lost Customers
+389887c2,177,1,53.68,2,1,1,4,At Risk
+38a1a724,93,1,230.21,3,1,3,7,Potential Loyalists
+38a1e970,291,1,260.82,1,1,3,5,At Risk
+39065b8b,199,1,157.63,2,1,2,5,At Risk
+3908e634,254,1,340.56,1,1,4,6,Potential Loyalists
+391837b0,144,1,418.48,3,1,4,8,Loyal Customers
+3937299c,212,1,207.43,2,1,3,6,Potential Loyalists
+394508f2,128,1,144.11,3,1,2,6,Potential Loyalists
+3949fcb4,119,1,80.25,3,1,1,5,At Risk
+39534104,209,1,66.61,2,1,1,4,At Risk
+3958d313,168,1,32.64,2,1,1,4,At Risk
+395d4994,235,1,129.89,2,1,2,5,At Risk
+3980a7d0,286,1,294.13,1,1,3,5,At Risk
+3991123d,100,1,42.7,3,1,1,5,At Risk
+39963ecc,313,1,333.11,1,1,4,6,Potential Loyalists
+399a95fc,235,1,352.22,2,1,4,7,Potential Loyalists
+39b5a2a7,60,1,252.62,4,1,3,8,Loyal Customers
+39c35fd6,190,1,65.7,2,1,1,4,At Risk
+39d11da5,222,1,214.45,2,1,3,6,Potential Loyalists
+3a07a85f,221,1,265.38,2,1,3,6,Potential Loyalists
+3a2348ca,105,1,210.56,3,1,3,7,Potential Loyalists
+3a3e2372,167,1,107.22,2,1,2,5,At Risk
+3a475b95,269,1,113.09,1,1,2,4,At Risk
+3a478a5e,313,1,358.38,1,1,4,6,Potential Loyalists
+3a564d70,2,1,351.19,4,1,4,9,Loyal Customers
+3a6c34b5,110,1,151.76,3,1,2,6,Potential Loyalists
+3a9963e9,208,1,210.49,2,1,3,6,Potential Loyalists
+3ab536f9,260,1,360.33,1,1,4,6,Potential Loyalists
+3abcdf53,108,1,263.07,3,1,3,7,Potential Loyalists
+3adf00f3,112,1,343.64,3,1,4,8,Loyal Customers
+3aec426f,5,1,52.25,4,1,1,6,Potential Loyalists
+3b05ed95,17,1,435.67,4,1,4,9,Loyal Customers
+3b12089e,151,1,315.7,3,1,4,8,Loyal Customers
+3b240cf4,11,1,297.68,4,1,3,8,Loyal Customers
+3b327b6e,222,1,211.61,2,1,3,6,Potential Loyalists
+3b6187d3,134,1,137.33,3,1,2,6,Potential Loyalists
+3b71545e,35,1,14.12,4,1,1,6,Potential Loyalists
+3b7c7e0d,63,1,247.7,4,1,3,8,Loyal Customers
+3b857e65,73,1,334.7,4,1,4,9,Loyal Customers
+3b85b7a7,312,1,152.52,1,1,2,4,At Risk
+3baef1f8,125,1,168.07,3,1,2,6,Potential Loyalists
+3bb0a7a9,264,1,300.0,1,1,3,5,At Risk
+3bb68633,271,1,23.91,1,1,1,3,Lost Customers
+3bdcafad,213,1,50.7,2,1,1,4,At Risk
+3be3ec37,124,1,279.05,3,1,3,7,Potential Loyalists
+3be9cded,219,1,39.69,2,1,1,4,At Risk
+3bea58ee,56,1,185.29,4,1,2,7,Potential Loyalists
+3c3c8f20,175,1,246.62,2,1,3,6,Potential Loyalists
+3c499277,203,1,108.64,2,1,2,5,At Risk
+3c669dc7,74,1,145.82,4,1,2,7,Potential Loyalists
+3c71e319,150,1,352.47,3,1,4,8,Loyal Customers
+3c7b4f3a,153,1,33.98,3,1,1,5,At Risk
+3c7fc849,58,1,22.9,4,1,1,6,Potential Loyalists
+3c8ad6d6,143,1,76.69,3,1,1,5,At Risk
+3c8bd82b,59,1,143.83,4,1,2,7,Potential Loyalists
+3ca822ba,322,1,176.4,1,1,2,4,At Risk
+3cab368a,261,1,390.94,1,1,4,6,Potential Loyalists
+3cb0b368,222,1,120.91,2,1,2,5,At Risk
+3cbdfed3,67,1,214.62,4,1,3,8,Loyal Customers
+3ccd93cb,173,1,437.15,2,1,4,7,Potential Loyalists
+3cce7ee7,279,1,292.14,1,1,3,5,At Risk
+3cd036f6,111,1,175.64,3,1,2,6,Potential Loyalists
+3ce1ce0e,126,1,421.59,3,1,4,8,Loyal Customers
+3cfe3f1d,259,1,133.0,1,1,2,4,At Risk
+3d080554,265,1,282.62,1,1,3,5,At Risk
+3d0aec60,233,1,331.26,2,1,4,7,Potential Loyalists
+3d31754b,202,1,279.13,2,1,3,6,Potential Loyalists
+3d46ebd4,127,1,369.83,3,1,4,8,Loyal Customers
+3d66faf7,198,1,246.18,2,1,3,6,Potential Loyalists
+3d77ab6d,28,1,244.37,4,1,3,8,Loyal Customers
+3d7f7e1e,234,1,219.96,2,1,3,6,Potential Loyalists
+3d834a66,116,1,445.83,3,1,4,8,Loyal Customers
+3d8cd018,307,1,83.05,1,1,1,3,Lost Customers
+3d958865,114,1,156.61,3,1,2,6,Potential Loyalists
+3d9773a1,112,1,54.06,3,1,1,5,At Risk
+3da3aba7,27,1,65.94,4,1,1,6,Potential Loyalists
+3dba894a,266,1,265.44,1,1,3,5,At Risk
+3dd55fd2,251,1,347.7,1,1,4,6,Potential Loyalists
+3ddad16f,269,1,272.06,1,1,3,5,At Risk
+3ddc5a35,274,1,398.1,1,1,4,6,Potential Loyalists
+3df3017f,230,1,256.32,2,1,3,6,Potential Loyalists
+3e3b26e1,120,1,449.69,3,1,4,8,Loyal Customers
+3e3ea054,160,1,450.56,3,1,4,8,Loyal Customers
+3e41585f,142,1,378.9,3,1,4,8,Loyal Customers
+3e4bac03,160,1,62.75,3,1,1,5,At Risk
+3e5e2082,8,1,18.07,4,1,1,6,Potential Loyalists
+3e68b451,131,1,305.29,3,1,4,8,Loyal Customers
+3e84f488,78,1,165.78,4,1,2,7,Potential Loyalists
+3eb4bfdf,287,1,466.18,1,1,4,6,Potential Loyalists
+3eda4c58,34,1,89.63,4,1,1,6,Potential Loyalists
+3efbfc39,72,1,308.52,4,1,4,9,Loyal Customers
+3f09b3c3,299,1,138.81,1,1,2,4,At Risk
+3f20311f,217,1,30.92,2,1,1,4,At Risk
+3f26e7ae,214,1,186.61,2,1,2,5,At Risk
+3f298345,175,1,344.44,2,1,4,7,Potential Loyalists
+3f30ad0d,96,1,174.27,3,1,2,6,Potential Loyalists
+3f331c72,169,1,261.11,2,1,3,6,Potential Loyalists
+3f4a4d51,208,1,380.62,2,1,4,7,Potential Loyalists
+3f62d926,214,1,20.08,2,1,1,4,At Risk
+3f66002c,247,1,327.82,1,1,4,6,Potential Loyalists
+3f68ed08,200,1,257.56,2,1,3,6,Potential Loyalists
+3f6b72a8,206,1,393.81,2,1,4,7,Potential Loyalists
+3f77ce33,290,1,22.1,1,1,1,3,Lost Customers
+3fb7980a,22,1,300.25,4,1,3,8,Loyal Customers
+3fdcdae8,106,1,120.93,3,1,2,6,Potential Loyalists
+3fe0d733,12,1,272.66,4,1,3,8,Loyal Customers
+3ffa9cc6,8,1,370.37,4,1,4,9,Loyal Customers
+3fff6cb5,292,1,339.8,1,1,4,6,Potential Loyalists
+400dbaf4,250,1,470.77,1,1,4,6,Potential Loyalists
+4012628e,174,1,188.0,2,1,2,5,At Risk
+403ab1e9,233,1,215.4,2,1,3,6,Potential Loyalists
+4062921e,125,1,272.89,3,1,3,7,Potential Loyalists
+406c736d,66,1,200.27,4,1,3,8,Loyal Customers
+4082e1e2,84,1,37.61,3,1,1,5,At Risk
+4086f63d,29,1,369.37,4,1,4,9,Loyal Customers
+4098b81b,2,1,358.02,4,1,4,9,Loyal Customers
+409bdf76,251,1,43.25,1,1,1,3,Lost Customers
+409daa69,41,1,354.92,4,1,4,9,Loyal Customers
+40abc61a,246,1,65.36,1,1,1,3,Lost Customers
+40b01a0f,205,1,119.41,2,1,2,5,At Risk
+40b0c467,22,1,297.32,4,1,3,8,Loyal Customers
+40d1379a,248,1,205.67,1,1,3,5,At Risk
+40d718b5,156,1,124.58,3,2,2,7,Potential Loyalists
+40e362c2,103,1,25.66,3,2,1,6,Potential Loyalists
+40f21ce7,93,1,281.97,3,2,3,8,Loyal Customers
+40fcae03,92,1,216.94,3,2,3,8,Loyal Customers
+41118f59,275,1,85.81,1,2,1,4,At Risk
+411a29ef,204,1,303.64,2,2,3,7,Potential Loyalists
+4125319c,170,1,122.36,2,2,2,6,Potential Loyalists
+413a34dc,170,1,293.22,2,2,3,7,Potential Loyalists
+414b8fad,256,1,34.74,1,2,1,4,At Risk
+415b6195,248,1,27.27,1,2,1,4,At Risk
+41622516,296,1,281.07,1,2,3,6,Potential Loyalists
+41675c87,208,1,450.24,2,2,4,8,Loyal Customers
+4176fef0,207,1,70.82,2,2,1,5,At Risk
+417cac60,122,1,26.42,3,2,1,6,Potential Loyalists
+41889d65,9,1,348.18,4,2,4,10,Champions
+418f40d0,40,1,268.07,4,2,3,9,Loyal Customers
+4199c751,201,1,40.79,2,2,1,5,At Risk
+41b1a40a,3,1,107.26,4,2,2,8,Loyal Customers
+41b3b567,295,1,309.09,1,2,4,7,Potential Loyalists
+41ea1235,291,1,161.82,1,2,2,5,At Risk
+420ef393,9,1,21.73,4,2,1,7,Potential Loyalists
+42121dbe,29,1,479.31,4,2,4,10,Champions
+42139082,171,1,20.58,2,2,1,5,At Risk
+421a5df2,242,1,126.61,2,2,2,6,Potential Loyalists
+42385946,96,1,445.01,3,2,4,9,Loyal Customers
+4247e6a0,228,1,207.94,2,2,3,7,Potential Loyalists
+426308a5,69,1,205.71,4,2,3,9,Loyal Customers
+4277aa34,71,1,410.96,4,2,4,10,Champions
+427a8468,15,1,336.37,4,2,4,10,Champions
+429251e4,164,1,187.5,2,2,2,6,Potential Loyalists
+4298c35a,242,1,208.66,2,2,3,7,Potential Loyalists
+42e37951,56,1,168.26,4,2,2,8,Loyal Customers
+42fe34af,148,1,257.25,3,2,3,8,Loyal Customers
+430033d1,162,1,72.96,3,2,1,6,Potential Loyalists
+431691b6,124,1,93.65,3,2,1,6,Potential Loyalists
+4319ad38,316,1,29.96,1,2,1,4,At Risk
+4340e57f,298,1,357.49,1,2,4,7,Potential Loyalists
+4350a1b5,299,1,124.34,1,2,2,5,At Risk
+4356aab2,220,1,307.43,2,2,4,8,Loyal Customers
+43666819,6,1,263.63,4,2,3,9,Loyal Customers
+437194ae,177,1,49.46,2,2,1,5,At Risk
+438674fe,231,1,55.24,2,2,1,5,At Risk
+43dd49d4,103,1,342.24,3,2,4,9,Loyal Customers
+43ed571c,95,1,316.98,3,2,4,9,Loyal Customers
+43f041a9,151,1,152.86,3,2,2,7,Potential Loyalists
+43fbc7a3,76,1,222.28,4,2,3,9,Loyal Customers
+4401eb85,100,1,181.56,3,2,2,7,Potential Loyalists
+4408ba1e,292,1,140.45,1,2,2,5,At Risk
+440ae23c,89,1,124.76,3,2,2,7,Potential Loyalists
+4413e887,301,1,158.67,1,2,2,5,At Risk
+4432a8ba,83,1,239.13,3,2,3,8,Loyal Customers
+444ac86f,206,1,379.15,2,2,4,8,Loyal Customers
+4458ab6a,174,1,413.65,2,2,4,8,Loyal Customers
+4459da09,189,1,214.92,2,2,3,7,Potential Loyalists
+447148db,132,1,294.74,3,2,3,8,Loyal Customers
+44855e31,121,1,218.36,3,2,3,8,Loyal Customers
+44898eb5,114,1,353.93,3,2,4,9,Loyal Customers
+449367d1,43,1,316.69,4,2,4,10,Champions
+449c33f0,255,1,152.66,1,2,2,5,At Risk
+44b22350,220,1,266.3,2,2,3,7,Potential Loyalists
+44cf89f5,19,1,95.18,4,2,1,7,Potential Loyalists
+44e06509,275,1,126.58,1,2,2,5,At Risk
+4515f435,138,1,247.81,3,2,3,8,Loyal Customers
+45177a4d,195,1,164.22,2,2,2,6,Potential Loyalists
+451cdc5b,98,1,103.58,3,2,1,6,Potential Loyalists
+451f1008,39,1,380.47,4,2,4,10,Champions
+45251ee1,194,1,247.0,2,2,3,7,Potential Loyalists
+453e4fd0,157,1,213.35,3,2,3,8,Loyal Customers
+4566a916,167,1,107.5,2,2,2,6,Potential Loyalists
+4578c08e,97,1,426.75,3,2,4,9,Loyal Customers
+458c8213,234,1,83.63,2,2,1,5,At Risk
+458ce5f7,276,1,77.34,1,2,1,4,At Risk
+45990e99,153,1,306.17,3,2,4,9,Loyal Customers
+45a007f7,215,1,306.27,2,2,4,8,Loyal Customers
+45a1a4c3,196,1,308.12,2,2,4,8,Loyal Customers
+45ae61a8,112,1,182.69,3,2,2,7,Potential Loyalists
+45b689eb,180,1,79.39,2,2,1,5,At Risk
+45ceb957,7,1,85.65,4,2,1,7,Potential Loyalists
+45e5b448,46,1,336.27,4,2,4,10,Champions
+45e86006,41,1,287.98,4,2,3,9,Loyal Customers
+45ea58e2,105,1,222.18,3,2,3,8,Loyal Customers
+45f3661b,42,1,25.91,4,2,1,7,Potential Loyalists
+45f92c91,96,1,175.86,3,2,2,7,Potential Loyalists
+45fc0bf7,169,1,8.11,2,2,1,5,At Risk
+460c3e00,316,1,309.46,1,2,4,7,Potential Loyalists
+4619caa9,286,1,164.88,1,2,2,5,At Risk
+4632f85b,260,1,289.32,1,2,3,6,Potential Loyalists
+464108ea,187,1,209.7,2,2,3,7,Potential Loyalists
+4658f0ae,230,1,52.72,2,2,1,5,At Risk
+465c254b,300,1,315.86,1,2,4,7,Potential Loyalists
+46691b96,75,1,293.55,4,2,3,9,Loyal Customers
+4674ffc8,296,1,333.65,1,2,4,7,Potential Loyalists
+46788479,325,1,307.23,1,2,4,7,Potential Loyalists
+468925cf,69,1,259.13,4,2,3,9,Loyal Customers
+469d4f94,239,1,135.76,2,2,2,6,Potential Loyalists
+46b35e44,286,1,254.14,1,2,3,6,Potential Loyalists
+46b58d00,10,1,94.67,4,2,1,7,Potential Loyalists
+46b85373,2,1,130.27,4,2,2,8,Loyal Customers
+46b8e9cc,126,1,342.65,3,2,4,9,Loyal Customers
+46bfad22,20,1,45.33,4,2,1,7,Potential Loyalists
+46ce5341,96,1,233.57,3,2,3,8,Loyal Customers
+46de6e12,39,1,140.94,4,2,2,8,Loyal Customers
+470c391e,315,1,395.44,1,2,4,7,Potential Loyalists
+47154b02,100,1,77.91,3,2,1,6,Potential Loyalists
+4715f106,275,1,330.43,1,2,4,7,Potential Loyalists
+4720abd8,10,1,179.19,4,2,2,8,Loyal Customers
+473dac31,101,1,252.68,3,2,3,8,Loyal Customers
+4769336c,269,1,233.43,1,2,3,6,Potential Loyalists
+4789f600,130,1,39.14,3,2,1,6,Potential Loyalists
+47985b63,13,1,346.92,4,2,4,10,Champions
+47a50dbd,22,1,214.69,4,2,3,9,Loyal Customers
+47dfa10f,262,1,431.38,1,2,4,7,Potential Loyalists
+47f1f74b,56,1,296.57,4,2,3,9,Loyal Customers
+47f7f0af,165,1,121.92,2,2,2,6,Potential Loyalists
+47f9d151,186,1,58.34,2,2,1,5,At Risk
+47fc4fce,257,1,379.11,1,2,4,7,Potential Loyalists
+48091eea,113,1,71.16,3,2,1,6,Potential Loyalists
+480b55c6,77,1,212.07,4,2,3,9,Loyal Customers
+480be977,95,1,340.63,3,2,4,9,Loyal Customers
+480c40b5,246,1,7.69,1,2,1,4,At Risk
+4851e157,151,1,112.71,3,2,2,7,Potential Loyalists
+4852a573,10,1,225.88,4,2,3,9,Loyal Customers
+48655454,237,1,136.25,2,2,2,6,Potential Loyalists
+486ac471,116,1,83.41,3,2,1,6,Potential Loyalists
+486bec14,154,1,176.77,3,2,2,7,Potential Loyalists
+4884a43e,196,1,315.76,2,2,4,8,Loyal Customers
+48868729,71,1,255.03,4,2,3,9,Loyal Customers
+48a6965d,44,1,251.13,4,2,3,9,Loyal Customers
+48b15e02,272,1,57.67,1,2,1,4,At Risk
+48cd8d57,304,1,44.96,1,2,1,4,At Risk
+48cf349d,84,1,141.69,3,2,2,7,Potential Loyalists
+48d36506,26,1,359.1,4,2,4,10,Champions
+48d6fb7f,5,1,30.0,4,2,1,7,Potential Loyalists
+48f6819e,319,1,267.98,1,2,3,6,Potential Loyalists
+490111ac,163,1,174.41,3,2,2,7,Potential Loyalists
+4905b683,229,1,454.48,2,2,4,8,Loyal Customers
+493c00b1,227,1,344.68,2,2,4,8,Loyal Customers
+4941470e,224,1,255.06,2,2,3,7,Potential Loyalists
+4945f220,137,1,438.59,3,2,4,9,Loyal Customers
+494e205f,36,1,235.04,4,2,3,9,Loyal Customers
+495bd9f4,280,1,146.6,1,2,2,5,At Risk
+49a759a7,248,1,9.47,1,2,1,4,At Risk
+49d60975,196,1,210.76,2,2,3,7,Potential Loyalists
+49efd7a0,112,1,115.99,3,2,2,7,Potential Loyalists
+4a370dca,281,1,179.32,1,2,2,5,At Risk
+4a66b400,249,1,214.78,1,2,3,6,Potential Loyalists
+4a680801,193,1,101.9,2,2,1,5,At Risk
+4a81e87c,7,1,38.72,4,2,1,7,Potential Loyalists
+4ab2d973,228,1,306.95,2,2,4,8,Loyal Customers
+4ad92ea0,257,1,217.54,1,2,3,6,Potential Loyalists
+4ae01f60,110,1,214.72,3,2,3,8,Loyal Customers
+4aefa8a6,276,1,72.78,1,2,1,4,At Risk
+4afdef19,319,1,289.34,1,2,3,6,Potential Loyalists
+4b1faad3,148,1,139.82,3,2,2,7,Potential Loyalists
+4b218561,266,1,302.9,1,2,3,6,Potential Loyalists
+4b3462c8,297,1,242.32,1,2,3,6,Potential Loyalists
+4b3752aa,261,1,84.77,1,2,1,4,At Risk
+4b510e17,98,1,169.92,3,2,2,7,Potential Loyalists
+4b6d41b3,90,1,349.16,3,2,4,9,Loyal Customers
+4b8a3ce1,48,1,44.29,4,2,1,7,Potential Loyalists
+4ba91354,8,1,209.78,4,2,3,9,Loyal Customers
+4bb60db5,38,1,206.19,4,2,3,9,Loyal Customers
+4bd289dd,244,1,84.9,1,2,1,4,At Risk
+4bd29822,194,1,251.66,2,2,3,7,Potential Loyalists
+4bd454f2,310,1,200.77,1,2,3,6,Potential Loyalists
+4be691f6,61,1,106.65,4,2,2,8,Loyal Customers
+4c20ca93,271,1,220.55,1,2,3,6,Potential Loyalists
+4c258f55,132,1,155.99,3,2,2,7,Potential Loyalists
+4c2e1ade,72,1,286.01,4,2,3,9,Loyal Customers
+4c326c0f,26,1,286.23,4,2,3,9,Loyal Customers
+4c3cdcb6,258,1,21.2,1,2,1,4,At Risk
+4c3ee940,93,1,259.21,3,2,3,8,Loyal Customers
+4c48c374,253,1,145.56,1,2,2,5,At Risk
+4c628b08,226,1,448.73,2,2,4,8,Loyal Customers
+4c71ecf8,66,1,26.18,4,2,1,7,Potential Loyalists
+4c8025bd,254,1,239.78,1,2,3,6,Potential Loyalists
+4c81ef62,61,1,153.39,4,2,2,8,Loyal Customers
+4c8e1f57,229,1,313.78,2,2,4,8,Loyal Customers
+4c90253a,244,1,180.82,1,2,2,5,At Risk
+4c95d133,49,1,9.39,4,2,1,7,Potential Loyalists
+4cc8d249,144,1,129.08,3,2,2,7,Potential Loyalists
+4ce205d9,115,1,251.92,3,2,3,8,Loyal Customers
+4ce70e71,89,1,123.94,3,2,2,7,Potential Loyalists
+4ceafc78,226,1,318.51,2,2,4,8,Loyal Customers
+4d00dadf,187,1,281.71,2,2,3,7,Potential Loyalists
+4d056465,211,1,13.98,2,2,1,5,At Risk
+4d08b875,296,1,227.39,1,2,3,6,Potential Loyalists
+4d16cbf8,323,1,298.47,1,2,3,6,Potential Loyalists
+4d1703a4,319,1,219.69,1,2,3,6,Potential Loyalists
+4d1a715f,175,1,197.66,2,2,2,6,Potential Loyalists
+4d2c701a,35,1,184.5,4,2,2,8,Loyal Customers
+4d2cd201,158,1,18.84,3,2,1,6,Potential Loyalists
+4d481030,212,1,249.51,2,2,3,7,Potential Loyalists
+4d48ec1e,127,1,155.98,3,2,2,7,Potential Loyalists
+4d5cef27,258,1,130.6,1,2,2,5,At Risk
+4d7042f4,94,1,244.71,3,2,3,8,Loyal Customers
+4d77d1d3,205,1,352.67,2,2,4,8,Loyal Customers
+4e082c18,298,1,284.55,1,2,3,6,Potential Loyalists
+4e1df27e,300,1,115.48,1,2,2,5,At Risk
+4e2147a2,298,1,91.32,1,2,1,4,At Risk
+4e3ab5bd,241,1,125.32,2,2,2,6,Potential Loyalists
+4e3b823e,318,1,54.03,1,2,1,4,At Risk
+4e3dd393,298,1,295.74,1,2,3,6,Potential Loyalists
+4e3e6bab,187,1,126.66,2,2,2,6,Potential Loyalists
+4e4016fc,84,1,53.58,3,2,1,6,Potential Loyalists
+4e432e36,113,1,310.25,3,2,4,9,Loyal Customers
+4e493c65,167,1,402.38,2,2,4,8,Loyal Customers
+4e5b9aa9,56,1,108.14,4,2,2,8,Loyal Customers
+4e5efb67,116,1,98.06,3,2,1,6,Potential Loyalists
+4e6186ba,202,1,22.91,2,2,1,5,At Risk
+4e664463,243,1,149.1,2,2,2,6,Potential Loyalists
+4e69c8b2,232,1,172.5,2,2,2,6,Potential Loyalists
+4e781226,79,1,344.57,4,2,4,10,Champions
+4e8a8ff2,185,1,273.42,2,2,3,7,Potential Loyalists
+4ea030a8,7,1,26.22,4,2,1,7,Potential Loyalists
+4ea11ef1,36,1,448.45,4,2,4,10,Champions
+4eada12f,261,1,204.56,1,2,3,6,Potential Loyalists
+4ec1bc01,245,1,104.11,1,2,1,4,At Risk
+4ec2b2be,6,1,149.01,4,2,2,8,Loyal Customers
+4ec47a3b,313,1,74.53,1,2,1,4,At Risk
+4ec6ded9,109,1,221.53,3,2,3,8,Loyal Customers
+4f12428e,47,1,80.47,4,2,1,7,Potential Loyalists
+4f231045,33,1,421.65,4,2,4,10,Champions
+4f2da9a6,93,1,177.54,3,2,2,7,Potential Loyalists
+4f4e3013,164,1,199.47,2,2,3,7,Potential Loyalists
+4f561f14,171,1,193.68,2,2,2,6,Potential Loyalists
+4f56d40d,189,1,181.69,2,2,2,6,Potential Loyalists
+4f782125,238,1,211.97,2,2,3,7,Potential Loyalists
+4f804eec,25,1,458.94,4,2,4,10,Champions
+4f842250,306,1,408.99,1,2,4,7,Potential Loyalists
+4f915eae,209,1,352.62,2,2,4,8,Loyal Customers
+4f99b5dc,123,1,211.62,3,2,3,8,Loyal Customers
+4fa93089,202,1,275.0,2,2,3,7,Potential Loyalists
+4fd21482,258,1,454.69,1,2,4,7,Potential Loyalists
+4fd7dd5f,10,1,267.85,4,2,3,9,Loyal Customers
+4fdb0ac1,23,1,98.93,4,2,1,7,Potential Loyalists
+4ff0d6a8,36,1,229.65,4,2,3,9,Loyal Customers
+4ff8266f,103,1,367.22,3,2,4,9,Loyal Customers
+500dfa44,98,1,15.56,3,2,1,6,Potential Loyalists
+501af596,228,1,94.09,2,2,1,5,At Risk
+501b16d8,227,1,356.84,2,2,4,8,Loyal Customers
+50483cad,267,1,200.74,1,2,3,6,Potential Loyalists
+50540d6b,138,1,229.44,3,2,3,8,Loyal Customers
+50793953,228,1,115.81,2,2,2,6,Potential Loyalists
+5081323a,27,1,243.65,4,2,3,9,Loyal Customers
+5098abbf,231,1,416.01,2,2,4,8,Loyal Customers
+50a7e7f0,171,1,49.1,2,2,1,5,At Risk
+50bd549d,74,1,387.33,4,2,4,10,Champions
+50d575f9,284,1,54.98,1,2,1,4,At Risk
+50d80b4e,155,1,40.71,3,2,1,6,Potential Loyalists
+50e8f967,117,1,146.74,3,2,2,7,Potential Loyalists
+511a8887,211,1,402.83,2,2,4,8,Loyal Customers
+5132665b,102,1,182.35,3,2,2,7,Potential Loyalists
+51333644,74,1,304.6,4,2,4,10,Champions
+51363656,149,1,154.82,3,2,2,7,Potential Loyalists
+5136adde,198,1,34.01,2,2,1,5,At Risk
+514c5365,164,1,31.98,2,2,1,5,At Risk
+515c7dbf,23,1,199.86,4,2,3,9,Loyal Customers
+515fe1e7,312,1,136.05,1,2,2,5,At Risk
+519d967d,87,1,115.37,3,2,2,7,Potential Loyalists
+51a1d498,12,1,359.45,4,2,4,10,Champions
+51b8659f,310,1,201.23,1,2,3,6,Potential Loyalists
+51d656fb,55,1,215.91,4,2,3,9,Loyal Customers
+51dacac1,270,1,350.3,1,2,4,7,Potential Loyalists
+51dc4386,59,1,220.25,4,2,3,9,Loyal Customers
+51f581e6,116,1,65.53,3,2,1,6,Potential Loyalists
+51fe1422,276,1,87.29,1,2,1,4,At Risk
+5203df6d,43,1,27.19,4,2,1,7,Potential Loyalists
+52186fe6,195,1,147.26,2,2,2,6,Potential Loyalists
+521da082,324,1,150.12,1,2,2,5,At Risk
+52345814,270,1,139.84,1,2,2,5,At Risk
+523cceca,201,1,327.61,2,2,4,8,Loyal Customers
+52516742,305,1,11.09,1,2,1,4,At Risk
+526f0441,53,1,7.49,4,2,1,7,Potential Loyalists
+527b7e45,312,1,213.59,1,2,3,6,Potential Loyalists
+527b9c2d,254,1,394.96,1,2,4,7,Potential Loyalists
+529c1482,321,1,234.39,1,2,3,6,Potential Loyalists
+52a3c1ff,86,1,209.52,3,2,3,8,Loyal Customers
+52a481f3,32,1,211.31,4,2,3,9,Loyal Customers
+52afc672,237,1,332.47,2,2,4,8,Loyal Customers
+52b0c046,297,1,210.04,1,2,3,6,Potential Loyalists
+52b9a923,183,1,210.4,2,2,3,7,Potential Loyalists
+52cb0816,304,1,276.43,1,2,3,6,Potential Loyalists
+52d2c78c,20,1,354.74,4,2,4,10,Champions
+52ee67bc,11,1,425.81,4,2,4,10,Champions
+531b6e08,291,1,300.7,1,2,3,6,Potential Loyalists
+53449dab,278,1,432.76,1,2,4,7,Potential Loyalists
+5390cbdf,314,1,125.2,1,2,2,5,At Risk
+53ac6649,160,1,36.46,3,2,1,6,Potential Loyalists
+53b0ac5a,22,1,176.92,4,2,2,8,Loyal Customers
+53c0836e,196,1,89.32,2,2,1,5,At Risk
+53cc320d,164,1,406.82,2,2,4,8,Loyal Customers
+53df76f4,71,1,397.31,4,2,4,10,Champions
+53e1818f,287,1,243.47,1,2,3,6,Potential Loyalists
+540687b1,249,1,325.7,1,2,4,7,Potential Loyalists
+541f1998,288,1,189.53,1,2,2,5,At Risk
+54274aa6,102,1,405.93,3,2,4,9,Loyal Customers
+5430451c,38,1,269.27,4,2,3,9,Loyal Customers
+5437e569,315,1,83.14,1,2,1,4,At Risk
+543db6cb,17,1,457.16,4,2,4,10,Champions
+54496df2,100,1,155.19,3,2,2,7,Potential Loyalists
+54514b05,67,1,122.79,4,2,2,8,Loyal Customers
+5473dd0f,275,1,38.09,1,2,1,4,At Risk
+54a54d00,184,1,115.35,2,2,2,6,Potential Loyalists
+54b00d9c,61,1,350.37,4,2,4,10,Champions
+54b16993,147,1,211.4,3,2,3,8,Loyal Customers
+54b284dd,213,1,228.56,2,2,3,7,Potential Loyalists
+54caabdb,316,1,90.09,1,2,1,4,At Risk
+54f1cc93,174,1,238.3,2,2,3,7,Potential Loyalists
+551167cb,322,1,353.08,1,2,4,7,Potential Loyalists
+5516b600,207,1,140.8,2,2,2,6,Potential Loyalists
+551a42ec,171,1,166.22,2,2,2,6,Potential Loyalists
+55238433,69,1,183.81,4,2,2,8,Loyal Customers
+557f87a5,213,1,182.93,2,2,2,6,Potential Loyalists
+559fa173,240,1,199.42,2,2,3,7,Potential Loyalists
+55ade9bd,71,1,257.48,4,2,3,9,Loyal Customers
+55f14e41,298,1,259.1,1,2,3,6,Potential Loyalists
+560370a9,313,1,199.91,1,2,3,6,Potential Loyalists
+562cdfd2,136,1,412.28,3,2,4,9,Loyal Customers
+56606aa9,73,1,74.66,4,2,1,7,Potential Loyalists
+5679d9a7,204,1,146.38,2,2,2,6,Potential Loyalists
+56813cff,65,1,174.94,4,2,2,8,Loyal Customers
+56949334,183,1,365.77,2,2,4,8,Loyal Customers
+56b9b6e6,88,1,335.09,3,2,4,9,Loyal Customers
+56c5b09e,282,1,89.73,1,2,1,4,At Risk
+56c6e554,175,1,114.31,2,2,2,6,Potential Loyalists
+56c899ff,259,1,151.87,1,2,2,5,At Risk
+56cc761e,6,1,159.75,4,2,2,8,Loyal Customers
+56e37721,199,1,90.24,2,2,1,5,At Risk
+57408fc1,264,1,156.44,1,2,2,5,At Risk
+5740a88b,278,1,111.34,1,2,2,5,At Risk
+57435261,18,1,202.88,4,2,3,9,Loyal Customers
+574e5f84,50,1,303.26,4,2,3,9,Loyal Customers
+575a90ff,182,1,307.32,2,2,4,8,Loyal Customers
+57633cda,70,1,161.81,4,2,2,8,Loyal Customers
+5767f51e,245,1,444.98,1,2,4,7,Potential Loyalists
+577a37c4,111,1,218.75,3,2,3,8,Loyal Customers
+5790d253,53,1,71.16,4,2,1,7,Potential Loyalists
+57c601ea,293,1,265.6,1,2,3,6,Potential Loyalists
+57c89f75,19,1,328.63,4,2,4,10,Champions
+57cf5b46,117,1,142.94,3,2,2,7,Potential Loyalists
+57db9bf5,277,1,327.53,1,2,4,7,Potential Loyalists
+57dcfe4f,313,1,435.45,1,2,4,7,Potential Loyalists
+5840fb85,200,1,218.3,2,2,3,7,Potential Loyalists
+5842f35e,182,1,86.23,2,2,1,5,At Risk
+586c3197,279,1,204.87,1,2,3,6,Potential Loyalists
+58ced1cb,298,1,142.27,1,2,2,5,At Risk
+58e5b2b1,259,1,346.24,1,2,4,7,Potential Loyalists
+58e6ca04,133,1,59.98,3,2,1,6,Potential Loyalists
+5922b060,303,1,59.95,1,2,1,4,At Risk
+592685a3,222,1,161.32,2,2,2,6,Potential Loyalists
+5930f5c1,49,1,203.84,4,2,3,9,Loyal Customers
+59417bfd,18,1,131.62,4,2,2,8,Loyal Customers
+594294be,170,1,200.26,2,2,3,7,Potential Loyalists
+594531a2,211,1,462.61,2,2,4,8,Loyal Customers
+5984c518,278,1,332.57,1,2,4,7,Potential Loyalists
+598efd02,197,1,201.37,2,2,3,7,Potential Loyalists
+599dbf81,168,1,295.41,2,2,3,7,Potential Loyalists
+59ace126,122,1,359.05,3,2,4,9,Loyal Customers
+59b1a413,248,1,163.83,1,2,2,5,At Risk
+59d6802d,325,1,225.37,1,2,3,6,Potential Loyalists
+59dce1d0,88,1,115.13,3,2,2,7,Potential Loyalists
+59dd175f,250,1,122.61,1,2,2,5,At Risk
+59e8d716,102,1,19.08,3,2,1,6,Potential Loyalists
+5a02a69f,49,1,232.44,4,2,3,9,Loyal Customers
+5a055948,137,1,220.2,3,2,3,8,Loyal Customers
+5a1d9851,194,1,191.04,2,2,2,6,Potential Loyalists
+5a2835a0,134,1,233.68,3,2,3,8,Loyal Customers
+5a3a8a84,52,1,43.03,4,2,1,7,Potential Loyalists
+5a3d3299,268,1,358.86,1,2,4,7,Potential Loyalists
+5a406d56,74,1,11.08,4,2,1,7,Potential Loyalists
+5a5e5be2,276,1,316.62,1,2,4,7,Potential Loyalists
+5a627202,157,1,93.49,3,2,1,6,Potential Loyalists
+5a96e989,289,1,338.75,1,2,4,7,Potential Loyalists
+5a9a1268,1,1,225.48,4,2,3,9,Loyal Customers
+5aa04d8b,257,1,311.9,1,2,4,7,Potential Loyalists
+5aa5b49a,90,1,346.31,3,2,4,9,Loyal Customers
+5ad47c7e,287,1,219.81,1,2,3,6,Potential Loyalists
+5afb864f,214,1,49.05,2,2,1,5,At Risk
+5b28ef12,263,1,27.83,1,2,1,4,At Risk
+5b662387,16,1,180.13,4,2,2,8,Loyal Customers
+5b67f35f,179,1,281.07,2,2,3,7,Potential Loyalists
+5b8004ef,151,1,303.28,3,2,3,8,Loyal Customers
+5bac2533,288,1,377.34,1,2,4,7,Potential Loyalists
+5bad336b,211,1,284.64,2,2,3,7,Potential Loyalists
+5bbe6af5,295,1,353.49,1,2,4,7,Potential Loyalists
+5bc7097b,1,1,77.51,4,2,1,7,Potential Loyalists
+5bc9bcc6,174,1,268.18,2,2,3,7,Potential Loyalists
+5bf29639,120,1,214.92,3,2,3,8,Loyal Customers
+5bf80274,212,1,383.56,2,2,4,8,Loyal Customers
+5c010a41,61,1,134.97,4,2,2,8,Loyal Customers
+5c28156c,229,1,137.57,2,2,2,6,Potential Loyalists
+5c2f954d,23,1,279.77,4,2,3,9,Loyal Customers
+5c426b3f,253,1,344.62,1,2,4,7,Potential Loyalists
+5c4cc9cd,9,1,237.27,4,2,3,9,Loyal Customers
+5c528d02,210,1,206.8,2,2,3,7,Potential Loyalists
+5c591a5c,42,1,417.54,4,2,4,10,Champions
+5c5c3e7d,105,1,160.97,3,2,2,7,Potential Loyalists
+5c5fea0a,92,1,468.43,3,2,4,9,Loyal Customers
+5c82e80d,130,1,187.57,3,2,2,7,Potential Loyalists
+5c93bd47,194,1,310.72,2,2,4,8,Loyal Customers
+5cb4b14a,195,1,9.88,2,2,1,5,At Risk
+5ccab37f,283,1,67.68,1,2,1,4,At Risk
+5ce6d140,324,1,210.42,1,2,3,6,Potential Loyalists
+5cf1d75f,100,1,305.3,3,2,4,9,Loyal Customers
+5cfc1b16,59,1,135.01,4,2,2,8,Loyal Customers
+5d2e84b4,34,1,200.28,4,2,3,9,Loyal Customers
+5d31e0f4,318,1,364.97,1,2,4,7,Potential Loyalists
+5d42a5ff,326,1,162.22,1,2,2,5,At Risk
+5d45dd12,124,1,256.89,3,2,3,8,Loyal Customers
+5d5b3af7,171,1,196.59,2,2,2,6,Potential Loyalists
+5d67c05b,74,1,474.41,4,2,4,10,Champions
+5d999231,314,1,96.58,1,2,1,4,At Risk
+5ddf14d8,48,1,215.97,4,2,3,9,Loyal Customers
+5dee981a,198,1,143.31,2,2,2,6,Potential Loyalists
+5e088877,157,1,253.36,3,2,3,8,Loyal Customers
+5e123a81,253,1,37.43,1,2,1,4,At Risk
+5e1614df,96,1,230.33,3,2,3,8,Loyal Customers
+5e31c73f,68,1,215.82,4,2,3,9,Loyal Customers
+5e4766ea,313,1,97.91,1,2,1,4,At Risk
+5e539ac8,20,1,279.93,4,2,3,9,Loyal Customers
+5e6c1d1c,76,1,172.15,4,2,2,8,Loyal Customers
+5e8aed36,217,1,254.03,2,2,3,7,Potential Loyalists
+5e8e658d,236,1,228.34,2,2,3,7,Potential Loyalists
+5e956744,58,1,393.29,4,2,4,10,Champions
+5ecc6de9,50,1,181.35,4,2,2,8,Loyal Customers
+5ed3f96c,187,1,162.18,2,2,2,6,Potential Loyalists
+5efa07f9,187,1,394.25,2,2,4,8,Loyal Customers
+5f0349f1,203,1,29.27,2,2,1,5,At Risk
+5f0bbdfb,299,1,157.28,1,2,2,5,At Risk
+5f245ccc,241,1,248.76,2,2,3,7,Potential Loyalists
+5f28d20d,239,1,296.07,2,2,3,7,Potential Loyalists
+5f478ba7,318,1,123.79,1,2,2,5,At Risk
+5f4c9a63,279,1,322.62,1,2,4,7,Potential Loyalists
+5f51da20,259,1,144.55,1,2,2,5,At Risk
+5f57fbd4,257,1,78.82,1,2,1,4,At Risk
+5f605a18,254,1,139.62,1,2,2,5,At Risk
+5f605f60,75,1,343.38,4,2,4,10,Champions
+5f6aef16,27,1,183.45,4,2,2,8,Loyal Customers
+5f7e6988,257,1,148.23,1,2,2,5,At Risk
+5f7fa070,177,1,141.48,2,2,2,6,Potential Loyalists
+5f80fc1b,284,1,250.78,1,2,3,6,Potential Loyalists
+5f938952,133,1,43.64,3,2,1,6,Potential Loyalists
+5f990d55,61,1,131.62,4,2,2,8,Loyal Customers
+5f9b4c27,95,1,417.45,3,2,4,9,Loyal Customers
+5fa7759a,244,1,9.68,1,2,1,4,At Risk
+5fbd3fd3,94,1,149.98,3,2,2,7,Potential Loyalists
+602ca4e7,311,1,467.38,1,2,4,7,Potential Loyalists
+60473d61,214,1,84.06,2,2,1,5,At Risk
+604ceef7,134,1,388.27,3,2,4,9,Loyal Customers
+60560203,204,1,307.37,2,2,4,8,Loyal Customers
+608c2f04,276,1,219.61,1,2,3,6,Potential Loyalists
+60b3a0d1,25,1,197.76,4,2,2,8,Loyal Customers
+60c95485,237,1,218.86,2,2,3,7,Potential Loyalists
+60dd4207,190,1,163.54,2,2,2,6,Potential Loyalists
+60df4c06,294,1,233.48,1,2,3,6,Potential Loyalists
+611f07b5,133,1,150.27,3,2,2,7,Potential Loyalists
+6142601c,249,1,44.75,1,2,1,4,At Risk
+6142fb57,242,1,196.12,2,2,2,6,Potential Loyalists
+61516c8d,268,1,235.26,1,2,3,6,Potential Loyalists
+616c7917,57,1,66.0,4,2,1,7,Potential Loyalists
+616fca83,36,1,232.99,4,2,3,9,Loyal Customers
+61780cc4,115,1,353.16,3,2,4,9,Loyal Customers
+6184077e,68,1,22.07,4,2,1,7,Potential Loyalists
+618b72c3,207,1,420.41,2,2,4,8,Loyal Customers
+61b0a56f,125,1,427.97,3,2,4,9,Loyal Customers
+61dabebb,198,1,211.77,2,2,3,7,Potential Loyalists
+61f64557,138,1,308.54,3,2,4,9,Loyal Customers
+6206893b,84,1,126.9,3,2,2,7,Potential Loyalists
+6211b620,309,1,180.77,1,2,2,5,At Risk
+62577c4e,132,1,141.15,3,2,2,7,Potential Loyalists
+6258f6d7,117,1,266.36,3,2,3,8,Loyal Customers
+6266c8eb,81,1,305.6,3,2,4,9,Loyal Customers
+6281837d,253,1,308.27,1,2,4,7,Potential Loyalists
+62a96dcf,268,1,143.47,1,2,2,5,At Risk
+62c9beef,44,1,331.38,4,2,4,10,Champions
+6304ddb4,41,1,255.51,4,2,3,9,Loyal Customers
+63080f53,226,1,169.11,2,2,2,6,Potential Loyalists
+6328bc7c,133,1,154.19,3,2,2,7,Potential Loyalists
+633b01bf,174,1,40.35,2,2,1,5,At Risk
+63458493,266,1,51.34,1,2,1,4,At Risk
+63536a72,292,1,196.81,1,2,2,5,At Risk
+635563e5,177,1,434.47,2,2,4,8,Loyal Customers
+635a5c98,256,1,246.32,1,2,3,6,Potential Loyalists
+635d1b34,279,1,420.22,1,2,4,7,Potential Loyalists
+635f84d0,131,1,190.87,3,2,2,7,Potential Loyalists
+6365cc96,144,1,18.7,3,2,1,6,Potential Loyalists
+6369a7c3,236,1,73.11,2,2,1,5,At Risk
+6377eace,20,1,80.0,4,2,1,7,Potential Loyalists
+637d8a7f,46,1,259.54,4,2,3,9,Loyal Customers
+638fb96b,210,1,182.71,2,2,2,6,Potential Loyalists
+63b7cb47,286,1,295.24,1,2,3,6,Potential Loyalists
+63ba81b8,108,1,44.65,3,2,1,6,Potential Loyalists
+63fb3f26,61,1,101.44,4,2,1,7,Potential Loyalists
+63fef598,171,1,317.56,2,2,4,8,Loyal Customers
+64272d22,17,1,442.46,4,2,4,10,Champions
+646238e1,17,1,247.07,4,2,3,9,Loyal Customers
+64775252,121,1,345.81,3,2,4,9,Loyal Customers
+647d7e1f,81,1,208.39,3,2,3,8,Loyal Customers
+64b48c94,92,1,9.7,3,2,1,6,Potential Loyalists
+64b8eba5,57,1,62.04,4,2,1,7,Potential Loyalists
+64c3131e,25,1,104.66,4,2,2,8,Loyal Customers
+64f39542,297,1,207.21,1,2,3,6,Potential Loyalists
+6531579c,250,1,28.12,1,2,1,4,At Risk
+655c0afc,279,1,312.43,1,2,4,7,Potential Loyalists
+6565f641,253,1,458.94,1,2,4,7,Potential Loyalists
+6574073f,231,1,12.42,2,2,1,5,At Risk
+6579b70c,324,1,66.8,1,2,1,4,At Risk
+658e0882,61,1,421.85,4,2,4,10,Champions
+65aaf4f4,46,1,342.94,4,2,4,10,Champions
+65c000fc,121,1,281.25,3,2,3,8,Loyal Customers
+65cfd186,145,1,85.65,3,2,1,6,Potential Loyalists
+65f5b50d,59,1,444.16,4,2,4,10,Champions
+65fc7b42,107,1,290.64,3,2,3,8,Loyal Customers
+661c6fad,101,1,355.87,3,2,4,9,Loyal Customers
+6635bec7,86,1,120.29,3,2,2,7,Potential Loyalists
+6644ad14,320,1,350.47,1,2,4,7,Potential Loyalists
+664ecafc,14,1,349.54,4,2,4,10,Champions
+666b1b8b,237,1,303.93,2,2,3,7,Potential Loyalists
+668862c5,269,1,244.89,1,2,3,6,Potential Loyalists
+668d21ec,176,1,274.17,2,2,3,7,Potential Loyalists
+66ab38ee,310,1,47.18,1,2,1,4,At Risk
+66daf218,9,1,204.72,4,2,3,9,Loyal Customers
+66ef6895,95,1,199.77,3,2,3,8,Loyal Customers
+66f00c2d,130,1,249.43,3,2,3,8,Loyal Customers
+6707ca3f,163,1,50.65,3,2,1,6,Potential Loyalists
+6720d951,228,1,170.93,2,2,2,6,Potential Loyalists
+6728981a,40,1,131.18,4,2,2,8,Loyal Customers
+67373c9d,122,1,150.73,3,2,2,7,Potential Loyalists
+67475da1,78,1,371.67,4,2,4,10,Champions
+67526a73,310,1,30.63,1,2,1,4,At Risk
+67567200,9,1,222.25,4,2,3,9,Loyal Customers
+6773f774,211,1,73.91,2,2,1,5,At Risk
+678d234e,156,1,157.66,3,2,2,7,Potential Loyalists
+6798abf1,134,1,226.55,3,2,3,8,Loyal Customers
+679f822e,262,1,234.48,1,2,3,6,Potential Loyalists
+67abda0a,192,1,486.79,2,2,4,8,Loyal Customers
+67b4bb5b,24,1,444.65,4,2,4,10,Champions
+67bc2d14,237,1,305.81,2,2,4,8,Loyal Customers
+67c5fdf4,161,1,39.42,3,2,1,6,Potential Loyalists
+67cc6644,188,1,269.42,2,2,3,7,Potential Loyalists
+68073337,268,1,198.95,1,2,2,5,At Risk
+681e2800,223,1,366.45,2,2,4,8,Loyal Customers
+68344bf3,91,1,298.43,3,2,3,8,Loyal Customers
+68376ad1,5,1,35.51,4,2,1,7,Potential Loyalists
+6839399d,96,1,218.62,3,2,3,8,Loyal Customers
+683c3f3b,196,1,259.15,2,2,3,7,Potential Loyalists
+68412b52,69,1,185.17,4,2,2,8,Loyal Customers
+6845f31e,175,1,11.06,2,2,1,5,At Risk
+6852256e,283,1,368.65,1,2,4,7,Potential Loyalists
+68709475,238,1,144.96,2,2,2,6,Potential Loyalists
+68722b9b,95,1,491.7,3,2,4,9,Loyal Customers
+687a8ef9,225,1,117.23,2,2,2,6,Potential Loyalists
+6885f20e,51,1,81.79,4,2,1,7,Potential Loyalists
+6894c5b0,225,1,85.07,2,2,1,5,At Risk
+68d24203,215,1,81.1,2,2,1,5,At Risk
+68dfdbfb,131,1,45.28,3,2,1,6,Potential Loyalists
+68f22075,31,1,241.28,4,2,3,9,Loyal Customers
+6908d999,172,1,157.81,2,2,2,6,Potential Loyalists
+692bf856,244,1,99.83,1,2,1,4,At Risk
+69436d0b,211,1,224.7,2,2,3,7,Potential Loyalists
+69467b7d,11,1,219.25,4,2,3,9,Loyal Customers
+695fccc3,59,1,70.62,4,2,1,7,Potential Loyalists
+6964d7bb,257,1,466.17,1,2,4,7,Potential Loyalists
+6967f624,48,1,186.94,4,2,2,8,Loyal Customers
+69ca6114,176,1,135.74,2,2,2,6,Potential Loyalists
+69ced3cb,26,1,221.01,4,2,3,9,Loyal Customers
+69e7e61b,198,1,393.95,2,2,4,8,Loyal Customers
+6a0bf80b,14,1,71.82,4,2,1,7,Potential Loyalists
+6a2e43c7,282,1,246.48,1,2,3,6,Potential Loyalists
+6a3d6535,217,1,342.06,2,2,4,8,Loyal Customers
+6a689dac,117,1,366.53,3,2,4,9,Loyal Customers
+6a77d021,86,1,387.06,3,2,4,9,Loyal Customers
+6a796b7c,14,1,155.06,4,2,2,8,Loyal Customers
+6aa4872f,85,1,175.0,3,2,2,7,Potential Loyalists
+6ab927cc,2,1,158.85,4,2,2,8,Loyal Customers
+6ac4f758,191,1,11.96,2,2,1,5,At Risk
+6ac71d68,70,1,349.77,4,2,4,10,Champions
+6aefe8f1,228,1,217.3,2,2,3,7,Potential Loyalists
+6af4e7e9,75,1,15.34,4,2,1,7,Potential Loyalists
+6b1202f1,308,1,236.3,1,2,3,6,Potential Loyalists
+6b2ce843,72,1,110.66,4,2,2,8,Loyal Customers
+6b305d69,124,1,159.29,3,2,2,7,Potential Loyalists
+6b395741,182,1,285.18,2,2,3,7,Potential Loyalists
+6b3a0e77,18,1,137.04,4,2,2,8,Loyal Customers
+6b4027e1,107,1,12.82,3,2,1,6,Potential Loyalists
+6b417ce5,83,1,35.89,3,2,1,6,Potential Loyalists
+6b4ec06c,220,1,124.56,2,2,2,6,Potential Loyalists
+6b52b5c2,176,1,121.26,2,2,2,6,Potential Loyalists
+6b58c722,164,1,27.84,2,2,1,5,At Risk
+6b5e77c8,131,1,297.36,3,2,3,8,Loyal Customers
+6b65ac71,244,1,429.74,1,2,4,7,Potential Loyalists
+6b76e9a1,244,1,144.13,1,2,2,5,At Risk
+6b7e7043,129,1,105.66,3,2,2,7,Potential Loyalists
+6b8e78c6,300,1,404.12,1,2,4,7,Potential Loyalists
+6b92aea5,34,1,275.34,4,2,3,9,Loyal Customers
+6b9506f3,248,1,291.37,1,2,3,6,Potential Loyalists
+6bb04308,297,1,39.34,1,2,1,4,At Risk
+6bcd9d7f,9,1,47.91,4,2,1,7,Potential Loyalists
+6bd8fa3a,203,1,440.91,2,2,4,8,Loyal Customers
+6bdb1d9e,257,1,255.0,1,2,3,6,Potential Loyalists
+6bfea417,269,1,138.81,1,2,2,5,At Risk
+6c0ef9f4,47,1,72.41,4,2,1,7,Potential Loyalists
+6c1cdb51,35,1,265.98,4,2,3,9,Loyal Customers
+6c22afc7,100,1,315.96,3,2,4,9,Loyal Customers
+6c24cb73,274,1,315.17,1,2,4,7,Potential Loyalists
+6c54fef2,163,1,95.65,3,2,1,6,Potential Loyalists
+6c67da1a,211,1,129.52,2,2,2,6,Potential Loyalists
+6c6bc323,280,1,356.13,1,2,4,7,Potential Loyalists
+6c7ff37f,54,1,234.47,4,2,3,9,Loyal Customers
+6c851471,320,1,65.92,1,2,1,4,At Risk
+6c8dad52,260,1,132.84,1,2,2,5,At Risk
+6ccc18f0,121,1,430.38,3,2,4,9,Loyal Customers
+6cd8aca2,135,1,407.36,3,2,4,9,Loyal Customers
+6ce1b4c8,68,1,142.27,4,2,2,8,Loyal Customers
+6cec43d0,226,1,57.06,2,2,1,5,At Risk
+6cf8be42,162,1,46.41,3,2,1,6,Potential Loyalists
+6d15082c,106,1,378.69,3,2,4,9,Loyal Customers
+6d18ec79,72,1,140.52,4,2,2,8,Loyal Customers
+6d3d14a8,270,1,446.66,1,2,4,7,Potential Loyalists
+6d496aca,215,1,113.02,2,2,2,6,Potential Loyalists
+6d749b0d,262,1,10.05,1,2,1,4,At Risk
+6d8a2a99,22,1,198.65,4,2,2,8,Loyal Customers
+6db9b785,99,1,53.1,3,2,1,6,Potential Loyalists
+6dbd0f95,176,1,170.48,2,2,2,6,Potential Loyalists
+6dc093d8,222,1,449.8,2,2,4,8,Loyal Customers
+6ddf61d1,100,1,250.53,3,2,3,8,Loyal Customers
+6de2894e,136,1,319.05,3,2,4,9,Loyal Customers
+6e142ba6,214,1,406.21,2,2,4,8,Loyal Customers
+6e218819,204,1,21.99,2,2,1,5,At Risk
+6e2c9c02,163,1,112.0,3,2,2,7,Potential Loyalists
+6e2d666a,209,1,230.09,2,2,3,7,Potential Loyalists
+6e583aa2,193,1,447.35,2,2,4,8,Loyal Customers
+6e6f14b4,38,1,374.08,4,2,4,10,Champions
+6e91de44,44,1,188.47,4,2,2,8,Loyal Customers
+6e95832f,57,1,350.59,4,2,4,10,Champions
+6e9930aa,155,1,289.38,3,2,3,8,Loyal Customers
+6f0b1b90,146,1,422.63,3,2,4,9,Loyal Customers
+6f22d0f4,104,1,338.11,3,2,4,9,Loyal Customers
+6f386cf8,184,1,231.59,2,2,3,7,Potential Loyalists
+6f4d3f42,4,1,290.73,4,2,3,9,Loyal Customers
+6f5fd5f2,123,1,159.65,3,2,2,7,Potential Loyalists
+6f731519,202,1,204.22,2,2,3,7,Potential Loyalists
+6f7f0073,185,1,59.74,2,2,1,5,At Risk
+6f819f07,82,1,143.46,3,2,2,7,Potential Loyalists
+6f8d54a0,135,1,386.23,3,2,4,9,Loyal Customers
+6fc35e9b,239,1,111.14,2,2,2,6,Potential Loyalists
+7000b247,199,1,273.0,2,2,3,7,Potential Loyalists
+7002fcea,156,1,81.05,3,2,1,6,Potential Loyalists
+70152275,232,1,100.54,2,2,1,5,At Risk
+7019cdea,136,1,228.7,3,2,3,8,Loyal Customers
+701e2225,120,1,436.57,3,2,4,9,Loyal Customers
+702daf11,232,1,194.0,2,2,2,6,Potential Loyalists
+703cf4c4,75,1,206.25,4,2,3,9,Loyal Customers
+7050349e,62,1,221.22,4,2,3,9,Loyal Customers
+70536778,48,1,285.23,4,2,3,9,Loyal Customers
+706acfe1,258,1,438.55,1,2,4,7,Potential Loyalists
+709f2edd,56,1,301.91,4,2,3,9,Loyal Customers
+70a67b9e,95,1,201.81,3,2,3,8,Loyal Customers
+70c9df00,132,1,311.15,3,2,4,9,Loyal Customers
+70e58e3b,31,1,334.09,4,2,4,10,Champions
+70ece472,103,1,216.74,3,2,3,8,Loyal Customers
+70f75830,325,1,315.89,1,2,4,7,Potential Loyalists
+71205bd1,85,1,230.98,3,2,3,8,Loyal Customers
+71323adf,203,1,340.34,2,2,4,8,Loyal Customers
+71466805,114,1,125.99,3,2,2,7,Potential Loyalists
+7152cc07,210,1,443.99,2,2,4,8,Loyal Customers
+7159f3c4,295,1,204.48,1,2,3,6,Potential Loyalists
+718a642f,18,1,336.82,4,2,4,10,Champions
+71b9e86e,235,1,240.64,2,2,3,7,Potential Loyalists
+72033276,90,1,66.67,3,2,1,6,Potential Loyalists
+7210a0d9,215,1,174.58,2,2,2,6,Potential Loyalists
+722ed6bd,273,1,134.1,1,2,2,5,At Risk
+72343250,144,1,94.03,3,2,1,6,Potential Loyalists
+723714c2,224,1,58.2,2,2,1,5,At Risk
+723b2af2,307,1,317.46,1,2,4,7,Potential Loyalists
+72567069,130,1,271.29,3,2,3,8,Loyal Customers
+725b0c84,262,1,360.98,1,2,4,7,Potential Loyalists
+7281a498,238,1,319.16,2,2,4,8,Loyal Customers
+72996eda,305,1,217.25,1,2,3,6,Potential Loyalists
+72a44b20,24,1,207.1,4,2,3,9,Loyal Customers
+72ae5a86,285,1,242.35,1,2,3,6,Potential Loyalists
+72baa45f,29,1,236.59,4,2,3,9,Loyal Customers
+72c3e855,79,1,94.16,4,2,1,7,Potential Loyalists
+72d22971,305,1,321.55,1,2,4,7,Potential Loyalists
+72e7de49,74,1,123.6,4,2,2,8,Loyal Customers
+72ec970d,155,1,418.11,3,2,4,9,Loyal Customers
+72f040c8,10,1,53.13,4,2,1,7,Potential Loyalists
+72f4df65,234,1,191.59,2,2,2,6,Potential Loyalists
+7319919d,271,1,52.83,1,2,1,4,At Risk
+731ccca0,288,1,237.97,1,2,3,6,Potential Loyalists
+731fda80,279,1,173.58,1,2,2,5,At Risk
+7341f194,179,1,261.21,2,2,3,7,Potential Loyalists
+737023ad,200,1,373.94,2,2,4,8,Loyal Customers
+7381e0d0,148,1,11.23,3,2,1,6,Potential Loyalists
+7384392e,121,1,264.67,3,2,3,8,Loyal Customers
+7391f331,243,1,203.03,2,2,3,7,Potential Loyalists
+73a324ba,82,1,204.48,3,2,3,8,Loyal Customers
+73a54189,196,1,205.98,2,2,3,7,Potential Loyalists
+73aef733,276,1,214.24,1,2,3,6,Potential Loyalists
+73b0732b,263,1,168.18,1,2,2,5,At Risk
+73bfc396,68,1,36.22,4,2,1,7,Potential Loyalists
+73c7af6b,115,1,402.37,3,2,4,9,Loyal Customers
+73d0692f,37,1,22.7,4,2,1,7,Potential Loyalists
+73e3bfdd,102,1,109.88,3,2,2,7,Potential Loyalists
+741de2c1,313,1,222.83,1,2,3,6,Potential Loyalists
+741e480b,19,1,312.94,4,2,4,10,Champions
+7432f04c,122,1,41.68,3,2,1,6,Potential Loyalists
+744533ab,134,1,235.36,3,2,3,8,Loyal Customers
+744e3383,195,1,209.13,2,2,3,7,Potential Loyalists
+746e7b01,163,1,166.53,3,2,2,7,Potential Loyalists
+748316cb,94,1,183.3,3,2,2,7,Potential Loyalists
+74903035,247,1,57.12,1,2,1,4,At Risk
+74a79c20,184,1,127.54,2,2,2,6,Potential Loyalists
+74ba5569,206,1,142.44,2,2,2,6,Potential Loyalists
+74c7c480,153,1,273.54,3,2,3,8,Loyal Customers
+74d4448b,223,1,191.7,2,2,2,6,Potential Loyalists
+74d77f27,311,1,372.65,1,2,4,7,Potential Loyalists
+74f2811d,165,1,177.94,2,2,2,6,Potential Loyalists
+750418a6,227,1,98.25,2,2,1,5,At Risk
+7509b3c7,33,1,297.48,4,2,3,9,Loyal Customers
+751c5619,288,1,28.23,1,2,1,4,At Risk
+751f40ec,72,1,323.0,4,2,4,10,Champions
+75272f5f,15,1,284.83,4,2,3,9,Loyal Customers
+753861d7,242,1,47.33,2,2,1,5,At Risk
+7538d8e4,125,1,16.9,3,2,1,6,Potential Loyalists
+755d7fe9,169,1,275.71,2,2,3,7,Potential Loyalists
+7580c1b1,259,1,313.63,1,2,4,7,Potential Loyalists
+758b36b9,100,1,137.31,3,2,2,7,Potential Loyalists
+7594c248,192,1,124.78,2,2,2,6,Potential Loyalists
+75d5a2bb,98,1,59.09,3,2,1,6,Potential Loyalists
+75d6b929,221,1,187.41,2,2,2,6,Potential Loyalists
+75e0ba29,37,1,141.84,4,2,2,8,Loyal Customers
+75f9ffb4,9,1,317.82,4,2,4,10,Champions
+762d13eb,235,1,361.04,2,2,4,8,Loyal Customers
+762d6bf4,238,1,124.01,2,2,2,6,Potential Loyalists
+76559d30,204,1,73.8,2,2,1,5,At Risk
+7679f01b,273,1,86.1,1,2,1,4,At Risk
+7691b7c9,158,1,136.35,3,2,2,7,Potential Loyalists
+76a0bc6e,108,1,191.11,3,2,2,7,Potential Loyalists
+76a2a7e9,172,1,106.14,2,2,2,6,Potential Loyalists
+76a73fcb,66,1,309.09,4,2,4,10,Champions
+76b1b3ab,4,1,22.06,4,2,1,7,Potential Loyalists
+770d352f,171,1,275.43,2,2,3,7,Potential Loyalists
+771a9563,154,1,256.51,3,2,3,8,Loyal Customers
+771b6628,148,1,33.84,3,2,1,6,Potential Loyalists
+771ce878,314,1,236.96,1,2,3,6,Potential Loyalists
+775596cf,133,1,252.28,3,2,3,8,Loyal Customers
+7760f082,18,1,347.27,4,2,4,10,Champions
+7764e9c8,1,1,164.42,4,2,2,8,Loyal Customers
+77809d5c,130,1,369.33,3,2,4,9,Loyal Customers
+77b6f008,10,1,288.12,4,2,3,9,Loyal Customers
+77c9aa5b,208,1,319.64,2,2,4,8,Loyal Customers
+77dc4e1e,316,1,362.81,1,2,4,7,Potential Loyalists
+77de2b1d,260,1,24.39,1,2,1,4,At Risk
+77df82ca,68,1,243.94,4,2,3,9,Loyal Customers
+77e477c0,189,1,118.69,2,2,2,6,Potential Loyalists
+781b02f1,1,1,363.11,4,2,4,10,Champions
+784fd769,135,1,347.3,3,2,4,9,Loyal Customers
+78595586,162,1,223.89,3,2,3,8,Loyal Customers
+78674cde,21,1,84.41,4,2,1,7,Potential Loyalists
+787738ba,84,1,48.84,3,2,1,6,Potential Loyalists
+789a89e9,158,1,104.49,3,2,1,6,Potential Loyalists
+78aff56b,6,1,185.5,4,2,2,8,Loyal Customers
+78ba8e2a,15,1,184.47,4,2,2,8,Loyal Customers
+78bab0ba,322,1,172.36,1,2,2,5,At Risk
+78bc03e4,316,1,25.32,1,2,1,4,At Risk
+78f9cc53,297,1,185.82,1,2,2,5,At Risk
+7936042d,275,1,15.06,1,2,1,4,At Risk
+79398983,96,1,122.98,3,2,2,7,Potential Loyalists
+793fa422,175,1,318.56,2,2,4,8,Loyal Customers
+794b1ea3,230,1,147.48,2,2,2,6,Potential Loyalists
+7970e3a5,309,1,198.84,1,2,2,5,At Risk
+797b1952,146,1,226.12,3,2,3,8,Loyal Customers
+799f099f,311,1,107.72,1,2,2,5,At Risk
+79a5ec12,95,1,268.81,3,2,3,8,Loyal Customers
+79a7f671,56,1,141.33,4,2,2,8,Loyal Customers
+79aff6cb,258,1,295.59,1,2,3,6,Potential Loyalists
+79b3668d,117,1,214.73,3,2,3,8,Loyal Customers
+79b8569c,32,1,68.53,4,2,1,7,Potential Loyalists
+79e6668b,318,1,430.76,1,2,4,7,Potential Loyalists
+79f46476,321,1,153.36,1,2,2,5,At Risk
+79fe00c9,325,1,376.76,1,2,4,7,Potential Loyalists
+7a030df0,183,1,89.94,2,2,1,5,At Risk
+7a0ac843,40,1,278.49,4,2,3,9,Loyal Customers
+7a0f6041,220,1,189.25,2,2,2,6,Potential Loyalists
+7a1822f3,57,1,310.59,4,2,4,10,Champions
+7a1fcf47,150,1,96.26,3,2,1,6,Potential Loyalists
+7a4dacb1,144,1,230.99,3,2,3,8,Loyal Customers
+7a50730b,228,1,227.48,2,2,3,7,Potential Loyalists
+7a5f0316,212,1,133.93,2,2,2,6,Potential Loyalists
+7a7d8d61,78,1,205.03,4,2,3,9,Loyal Customers
+7a8559d8,270,1,360.82,1,2,4,7,Potential Loyalists
+7a87f292,258,1,148.78,1,2,2,5,At Risk
+7a8fb819,63,1,274.68,4,2,3,9,Loyal Customers
+7aac4193,286,1,328.65,1,2,4,7,Potential Loyalists
+7ab838a2,231,1,263.05,2,2,3,7,Potential Loyalists
+7abecd58,53,1,450.91,4,2,4,10,Champions
+7b0c5a76,124,1,322.41,3,2,4,9,Loyal Customers
+7b1d4411,217,1,253.98,2,2,3,7,Potential Loyalists
+7b2c75fc,147,1,208.15,3,2,3,8,Loyal Customers
+7b339542,159,1,206.28,3,2,3,8,Loyal Customers
+7b48c570,325,1,328.18,1,2,4,7,Potential Loyalists
+7b568388,248,1,211.57,1,2,3,6,Potential Loyalists
+7b6ea10a,73,1,53.15,4,2,1,7,Potential Loyalists
+7b78efe2,299,1,284.88,1,2,3,6,Potential Loyalists
+7b86c8f9,85,1,180.17,3,2,2,7,Potential Loyalists
+7b93fe5f,134,1,284.81,3,2,3,8,Loyal Customers
+7b940b3b,266,1,80.69,1,2,1,4,At Risk
+7bad321f,73,1,71.34,4,2,1,7,Potential Loyalists
+7bd0348c,271,1,390.82,1,2,4,7,Potential Loyalists
+7bd56994,251,1,179.24,1,2,2,5,At Risk
+7bdff67a,313,1,325.19,1,2,4,7,Potential Loyalists
+7be076d6,60,1,193.26,4,2,2,8,Loyal Customers
+7be14799,279,1,82.01,1,2,1,4,At Risk
+7bf93a72,282,1,58.3,1,2,1,4,At Risk
+7c00fe48,28,1,49.18,4,2,1,7,Potential Loyalists
+7c026f97,274,1,32.59,1,2,1,4,At Risk
+7c055a85,1,1,169.56,4,2,2,8,Loyal Customers
+7c07bb17,126,1,97.77,3,2,1,6,Potential Loyalists
+7c123e25,269,1,300.02,1,2,3,6,Potential Loyalists
+7c18315f,72,1,161.07,4,2,2,8,Loyal Customers
+7c19312f,61,1,151.48,4,2,2,8,Loyal Customers
+7c55fcf1,84,1,172.15,3,2,2,7,Potential Loyalists
+7c5e50fe,290,1,248.17,1,2,3,6,Potential Loyalists
+7c62af29,79,1,249.76,4,2,3,9,Loyal Customers
+7c8bf4b9,92,1,148.0,3,2,2,7,Potential Loyalists
+7c9152e1,266,1,183.27,1,2,2,5,At Risk
+7c959ad5,215,1,145.47,2,2,2,6,Potential Loyalists
+7c9639e5,37,1,224.68,4,2,3,9,Loyal Customers
+7cb6d3eb,40,1,208.84,4,2,3,9,Loyal Customers
+7cbe212a,192,1,186.56,2,2,2,6,Potential Loyalists
+7cbec78e,311,1,125.24,1,2,2,5,At Risk
+7ccb26b8,152,1,91.36,3,2,1,6,Potential Loyalists
+7cd4d2c6,25,1,116.48,4,2,2,8,Loyal Customers
+7cdc9e1a,113,1,374.05,3,2,4,9,Loyal Customers
+7ce34b86,184,1,74.49,2,2,1,5,At Risk
+7ce9d2ad,250,1,169.15,1,2,2,5,At Risk
+7ced0b56,112,1,78.44,3,2,1,6,Potential Loyalists
+7cfa271c,239,1,42.79,2,2,1,5,At Risk
+7cfdff7f,182,1,69.82,2,2,1,5,At Risk
+7cfe5175,127,1,210.34,3,2,3,8,Loyal Customers
+7d05e2f6,182,1,51.92,2,2,1,5,At Risk
+7d08e51f,10,1,200.51,4,2,3,9,Loyal Customers
+7d0b041c,122,1,306.21,3,2,4,9,Loyal Customers
+7d177a8a,301,1,395.76,1,2,4,7,Potential Loyalists
+7d3d5bce,149,1,125.28,3,2,2,7,Potential Loyalists
+7d4bb47e,160,1,144.87,3,2,2,7,Potential Loyalists
+7d57d3b7,130,1,214.26,3,2,3,8,Loyal Customers
+7d67e3f1,137,1,256.86,3,2,3,8,Loyal Customers
+7d7169a4,203,1,181.78,2,2,2,6,Potential Loyalists
+7d7a97d5,213,1,352.6,2,2,4,8,Loyal Customers
+7d7f6ad1,171,1,389.67,2,2,4,8,Loyal Customers
+7d92827a,105,1,71.89,3,2,1,6,Potential Loyalists
+7da79df6,71,1,63.8,4,2,1,7,Potential Loyalists
+7dba6d8a,259,1,117.37,1,2,2,5,At Risk
+7dd71ecb,293,1,367.11,1,2,4,7,Potential Loyalists
+7de5db7c,213,1,469.34,2,2,4,8,Loyal Customers
+7e1ddc54,188,1,239.9,2,2,3,7,Potential Loyalists
+7e34298b,38,1,211.38,4,2,3,9,Loyal Customers
+7e60caed,88,1,317.26,3,2,4,9,Loyal Customers
+7e725db9,307,1,268.29,1,2,3,6,Potential Loyalists
+7ea8278d,257,1,96.33,1,2,1,4,At Risk
+7f143b66,159,1,63.54,3,2,1,6,Potential Loyalists
+7f3ef01a,211,1,345.47,2,2,4,8,Loyal Customers
+7f6e9ab5,174,1,65.64,2,2,1,5,At Risk
+7f742f53,198,1,432.25,2,2,4,8,Loyal Customers
+7f8dc9a4,155,1,26.16,3,2,1,6,Potential Loyalists
+7f9c9f2c,247,1,171.06,1,2,2,5,At Risk
+7fad2b34,100,1,230.27,3,2,3,8,Loyal Customers
+7faf145b,211,1,263.23,2,2,3,7,Potential Loyalists
+7fb18eb2,324,1,345.49,1,2,4,7,Potential Loyalists
+7fb26e2e,84,1,24.02,3,2,1,6,Potential Loyalists
+7fc67a24,173,1,113.41,2,2,2,6,Potential Loyalists
+7fc7c936,317,1,306.94,1,2,4,7,Potential Loyalists
+7fd4a6ba,230,1,240.18,2,2,3,7,Potential Loyalists
+7ff3fdbe,276,1,411.31,1,2,4,7,Potential Loyalists
+80238ffc,294,1,334.26,1,2,4,7,Potential Loyalists
+8033eca7,149,1,22.31,3,2,1,6,Potential Loyalists
+804674ae,278,1,331.66,1,2,4,7,Potential Loyalists
+8051cd77,142,1,291.11,3,2,3,8,Loyal Customers
+805c0b7d,232,1,190.22,2,2,2,6,Potential Loyalists
+80761d7b,124,1,268.14,3,2,3,8,Loyal Customers
+80c9de66,52,1,72.79,4,2,1,7,Potential Loyalists
+80f26166,188,1,347.88,2,2,4,8,Loyal Customers
+812fe840,66,1,316.79,4,2,4,10,Champions
+815bb3e2,80,1,433.59,4,2,4,10,Champions
+81704388,17,1,360.6,4,2,4,10,Champions
+8199bac3,42,1,259.1,4,2,3,9,Loyal Customers
+819d4337,41,1,199.83,4,2,3,9,Loyal Customers
+81b461c6,106,1,63.08,3,2,1,6,Potential Loyalists
+81b75cf4,1,1,303.16,4,2,3,9,Loyal Customers
+81c869a4,13,1,421.38,4,2,4,10,Champions
+81ce1f35,287,1,211.84,1,2,3,6,Potential Loyalists
+81f9a928,73,1,366.32,4,2,4,10,Champions
+82036553,60,1,331.21,4,2,4,10,Champions
+82041756,30,1,412.56,4,2,4,10,Champions
+823e9a88,294,1,390.2,1,2,4,7,Potential Loyalists
+824c4471,21,1,235.86,4,2,3,9,Loyal Customers
+824cc911,248,1,217.04,1,2,3,6,Potential Loyalists
+826d3bd2,187,1,169.41,2,2,2,6,Potential Loyalists
+82732895,244,1,371.05,1,2,4,7,Potential Loyalists
+82866e0c,134,1,410.94,3,2,4,9,Loyal Customers
+828a1016,95,1,112.81,3,2,2,7,Potential Loyalists
+8297a01f,147,1,226.61,3,2,3,8,Loyal Customers
+82abf471,25,1,332.35,4,2,4,10,Champions
+82d284f0,76,1,40.83,4,2,1,7,Potential Loyalists
+82db2175,156,1,222.06,3,2,3,8,Loyal Customers
+82dd0dcb,108,1,207.65,3,2,3,8,Loyal Customers
+82df795e,11,1,121.78,4,2,2,8,Loyal Customers
+82e33f7e,120,1,210.61,3,2,3,8,Loyal Customers
+82f860f7,106,1,248.7,3,2,3,8,Loyal Customers
+833c791a,265,1,446.11,1,2,4,7,Potential Loyalists
+833e59d2,119,1,137.25,3,2,2,7,Potential Loyalists
+8350077d,211,1,368.54,2,2,4,8,Loyal Customers
+8355f413,160,1,90.31,3,3,1,7,Potential Loyalists
+835ca3bf,157,1,33.13,3,3,1,7,Potential Loyalists
+83732a37,91,1,182.04,3,3,2,8,Loyal Customers
+8383353b,259,1,268.06,1,3,3,7,Potential Loyalists
+83976e33,236,1,12.09,2,3,1,6,Potential Loyalists
+839f23dc,174,1,228.38,2,3,3,8,Loyal Customers
+83bef224,246,1,81.0,1,3,1,5,At Risk
+83ca1c02,257,1,49.52,1,3,1,5,At Risk
+83cbac12,303,1,408.85,1,3,4,8,Loyal Customers
+83d70d13,71,1,9.31,4,3,1,8,Loyal Customers
+83e71ba6,81,1,379.89,3,3,4,10,Champions
+83e7aeff,273,1,404.26,1,3,4,8,Loyal Customers
+83ec11b2,35,1,119.08,4,3,2,9,Loyal Customers
+83fbff44,290,1,361.89,1,3,4,8,Loyal Customers
+841dfed4,102,1,317.18,3,3,4,10,Champions
+842b3cac,116,1,21.32,3,3,1,7,Potential Loyalists
+84531d15,74,1,184.84,4,3,2,9,Loyal Customers
+847a300e,62,1,72.41,4,3,1,8,Loyal Customers
+8487fbc7,211,1,145.2,2,3,2,7,Potential Loyalists
+849f6eb8,157,1,124.95,3,3,2,8,Loyal Customers
+84ad9f2a,55,1,66.75,4,3,1,8,Loyal Customers
+84b342df,18,1,288.86,4,3,3,10,Champions
+84c8da13,163,1,129.11,3,3,2,8,Loyal Customers
+84cc22ee,130,1,136.03,3,3,2,8,Loyal Customers
+84cf2969,13,1,303.87,4,3,3,10,Champions
+84e5815f,236,1,66.25,2,3,1,6,Potential Loyalists
+84ee1b6b,267,1,229.56,1,3,3,7,Potential Loyalists
+851ee140,325,1,295.46,1,3,3,7,Potential Loyalists
+85227829,256,1,173.94,1,3,2,6,Potential Loyalists
+85531bb2,312,1,163.22,1,3,2,6,Potential Loyalists
+8566ac6e,323,1,322.92,1,3,4,8,Loyal Customers
+85817290,47,1,43.76,4,3,1,8,Loyal Customers
+85853e07,40,1,73.6,4,3,1,8,Loyal Customers
+858696b6,15,1,318.95,4,3,4,11,Champions
+859f5163,313,1,175.99,1,3,2,6,Potential Loyalists
+85b74171,62,1,197.41,4,3,2,9,Loyal Customers
+85bd0114,69,1,253.04,4,3,3,10,Champions
+85bd7667,11,1,161.6,4,3,2,9,Loyal Customers
+85c628f0,10,1,182.16,4,3,2,9,Loyal Customers
+85d8fdfd,28,1,378.97,4,3,4,11,Champions
+85fce914,93,1,82.05,3,3,1,7,Potential Loyalists
+860101ea,100,1,367.07,3,3,4,10,Champions
+861f12bb,218,1,104.22,2,3,1,6,Potential Loyalists
+86289c63,312,1,287.78,1,3,3,7,Potential Loyalists
+8633d8a2,221,1,83.17,2,3,1,6,Potential Loyalists
+863700b9,73,1,238.94,4,3,3,10,Champions
+86488cc7,51,1,37.48,4,3,1,8,Loyal Customers
+86861afb,246,1,324.23,1,3,4,8,Loyal Customers
+86aa1cad,118,1,303.69,3,3,3,9,Loyal Customers
+86b387f6,201,1,75.32,2,3,1,6,Potential Loyalists
+86cbee34,149,1,350.6,3,3,4,10,Champions
+86dbac6e,38,1,424.13,4,3,4,11,Champions
+86ee4f1e,140,1,359.32,3,3,4,10,Champions
+8703e247,277,1,214.08,1,3,3,7,Potential Loyalists
+87114b66,237,1,230.56,2,3,3,8,Loyal Customers
+87347c2e,196,1,31.32,2,3,1,6,Potential Loyalists
+877a2ffb,26,1,175.79,4,3,2,9,Loyal Customers
+878d3714,234,1,22.41,2,3,1,6,Potential Loyalists
+87bf4ca6,13,1,124.96,4,3,2,9,Loyal Customers
+87c0607b,133,1,426.87,3,3,4,10,Champions
+87c33171,93,1,85.48,3,3,1,7,Potential Loyalists
+87c73bfd,257,1,157.79,1,3,2,6,Potential Loyalists
+87cd766d,83,1,83.04,3,3,1,7,Potential Loyalists
+87d45064,291,1,158.79,1,3,2,6,Potential Loyalists
+87f21131,185,1,112.26,2,3,2,7,Potential Loyalists
+8814e19d,196,1,90.96,2,3,1,6,Potential Loyalists
+88159234,196,1,13.13,2,3,1,6,Potential Loyalists
+882bc61d,176,1,128.13,2,3,2,7,Potential Loyalists
+8837d8da,83,1,239.16,3,3,3,9,Loyal Customers
+883b954f,216,1,300.06,2,3,3,8,Loyal Customers
+884075e5,79,1,184.11,4,3,2,9,Loyal Customers
+885b4e30,292,1,52.42,1,3,1,5,At Risk
+888f0c0c,93,1,273.8,3,3,3,9,Loyal Customers
+88984c72,22,1,378.63,4,3,4,11,Champions
+88c35a80,59,1,174.56,4,3,2,9,Loyal Customers
+88e7a084,49,1,33.89,4,3,1,8,Loyal Customers
+88e9aac9,121,1,239.86,3,3,3,9,Loyal Customers
+88f26a4e,255,1,137.71,1,3,2,6,Potential Loyalists
+890e2821,186,1,21.25,2,3,1,6,Potential Loyalists
+8911f0d1,316,1,207.68,1,3,3,7,Potential Loyalists
+89166e96,239,1,98.61,2,3,1,6,Potential Loyalists
+891b68a1,194,1,196.72,2,3,2,7,Potential Loyalists
+8921b076,99,1,301.63,3,3,3,9,Loyal Customers
+892659a7,291,1,234.84,1,3,3,7,Potential Loyalists
+89368ede,299,1,52.04,1,3,1,5,At Risk
+8939cf34,238,1,59.97,2,3,1,6,Potential Loyalists
+893a6c4a,58,1,433.16,4,3,4,11,Champions
+894270ec,298,1,346.14,1,3,4,8,Loyal Customers
+894dcab4,266,1,372.71,1,3,4,8,Loyal Customers
+8963cb6f,138,1,305.1,3,3,4,10,Champions
+8971789f,66,1,34.35,4,3,1,8,Loyal Customers
+898f9c6d,163,1,144.32,3,3,2,8,Loyal Customers
+89bb6db8,182,1,154.99,2,3,2,7,Potential Loyalists
+89bceeb7,134,1,244.32,3,3,3,9,Loyal Customers
+89c70f36,274,1,248.45,1,3,3,7,Potential Loyalists
+89cb8bb3,275,1,154.83,1,3,2,6,Potential Loyalists
+89ff2ff1,200,1,471.43,2,3,4,9,Loyal Customers
+8a00dc54,150,1,229.4,3,3,3,9,Loyal Customers
+8a161e0a,191,1,346.75,2,3,4,9,Loyal Customers
+8a289896,50,1,244.59,4,3,3,10,Champions
+8a35a896,28,1,293.23,4,3,3,10,Champions
+8a3d2683,67,1,33.15,4,3,1,8,Loyal Customers
+8a55e87c,187,1,202.44,2,3,3,8,Loyal Customers
+8a72634d,208,1,142.06,2,3,2,7,Potential Loyalists
+8a8e4d60,39,1,280.76,4,3,3,10,Champions
+8ab3d142,254,1,26.6,1,3,1,5,At Risk
+8abeed6e,94,1,94.02,3,3,1,7,Potential Loyalists
+8add7d6b,118,1,372.63,3,3,4,10,Champions
+8b100551,260,1,206.46,1,3,3,7,Potential Loyalists
+8b1beff4,210,1,195.19,2,3,2,7,Potential Loyalists
+8b3bf27b,78,1,172.33,4,3,2,9,Loyal Customers
+8b449287,238,1,261.71,2,3,3,8,Loyal Customers
+8b660196,220,1,315.94,2,3,4,9,Loyal Customers
+8b67d82f,60,1,67.39,4,3,1,8,Loyal Customers
+8b885340,216,1,496.82,2,3,4,9,Loyal Customers
+8b962cd8,77,1,153.82,4,3,2,9,Loyal Customers
+8bb4ff21,228,1,125.16,2,3,2,7,Potential Loyalists
+8c1f2f98,155,1,228.83,3,3,3,9,Loyal Customers
+8c24815e,120,1,164.39,3,3,2,8,Loyal Customers
+8c2d1a9b,229,1,51.82,2,3,1,6,Potential Loyalists
+8c2e8d5f,65,1,28.07,4,3,1,8,Loyal Customers
+8c2e9d07,19,1,191.44,4,3,2,9,Loyal Customers
+8c3265d7,108,1,134.94,3,3,2,8,Loyal Customers
+8c8a9c64,37,1,9.85,4,3,1,8,Loyal Customers
+8c8f2810,160,1,160.28,3,3,2,8,Loyal Customers
+8c990553,41,1,169.77,4,3,2,9,Loyal Customers
+8c9ad053,89,1,293.99,3,3,3,9,Loyal Customers
+8ce64055,248,1,376.05,1,3,4,8,Loyal Customers
+8cef3e84,29,1,80.81,4,3,1,8,Loyal Customers
+8cf4c24b,117,1,284.9,3,3,3,9,Loyal Customers
+8d3641c7,33,1,70.83,4,3,1,8,Loyal Customers
+8d680e8e,260,1,168.56,1,3,2,6,Potential Loyalists
+8d6c950e,71,1,311.44,4,3,4,11,Champions
+8d7f8c49,225,1,91.49,2,3,1,6,Potential Loyalists
+8d992fcd,317,1,14.89,1,3,1,5,At Risk
+8d99e314,268,1,237.48,1,3,3,7,Potential Loyalists
+8daa1ef8,24,1,336.45,4,3,4,11,Champions
+8db52810,22,1,102.72,4,3,1,8,Loyal Customers
+8db7dbb7,103,1,358.21,3,3,4,10,Champions
+8dba0d32,299,1,66.78,1,3,1,5,At Risk
+8dc4583b,304,1,226.69,1,3,3,7,Potential Loyalists
+8dcab187,131,1,184.42,3,3,2,8,Loyal Customers
+8ddb0e80,162,1,448.08,3,3,4,10,Champions
+8e00f191,3,1,110.06,4,3,2,9,Loyal Customers
+8e1f81cd,176,1,108.48,2,3,2,7,Potential Loyalists
+8e2aee0a,100,1,40.51,3,3,1,7,Potential Loyalists
+8e379422,256,1,308.09,1,3,4,8,Loyal Customers
+8e5d22f7,49,1,268.86,4,3,3,10,Champions
+8e61c4d7,120,1,284.31,3,3,3,9,Loyal Customers
+8e6f1de2,54,1,30.14,4,3,1,8,Loyal Customers
+8e766f32,183,1,340.82,2,3,4,9,Loyal Customers
+8e7b2d75,133,1,343.0,3,3,4,10,Champions
+8e8b727c,262,1,26.82,1,3,1,5,At Risk
+8e934ff3,171,1,310.4,2,3,4,9,Loyal Customers
+8e9b857f,173,1,278.6,2,3,3,8,Loyal Customers
+8e9eae19,85,1,389.4,3,3,4,10,Champions
+8ebce110,292,1,274.08,1,3,3,7,Potential Loyalists
+8ece3add,241,1,20.62,2,3,1,6,Potential Loyalists
+8ed54a67,34,1,13.04,4,3,1,8,Loyal Customers
+8ee04e56,156,1,459.93,3,3,4,10,Champions
+8eebaad5,45,1,316.89,4,3,4,11,Champions
+8ef41c4f,310,1,75.22,1,3,1,5,At Risk
+8ef78570,139,1,17.28,3,3,1,7,Potential Loyalists
+8f081976,48,1,386.91,4,3,4,11,Champions
+8f30f97d,188,1,414.8,2,3,4,9,Loyal Customers
+8f328c6a,277,1,231.43,1,3,3,7,Potential Loyalists
+8f46fab4,225,1,152.38,2,3,2,7,Potential Loyalists
+8f4a3a26,12,1,131.78,4,3,2,9,Loyal Customers
+8f7a0b5d,37,1,142.13,4,3,2,9,Loyal Customers
+8f7fbe97,220,1,387.35,2,3,4,9,Loyal Customers
+8f87ab8c,279,1,322.58,1,3,4,8,Loyal Customers
+8f9251fe,126,1,280.17,3,3,3,9,Loyal Customers
+8f95228a,293,1,243.51,1,3,3,7,Potential Loyalists
+8f9d6293,151,1,235.09,3,3,3,9,Loyal Customers
+8fa5b154,46,1,288.6,4,3,3,10,Champions
+8fa5d77d,111,1,285.17,3,3,3,9,Loyal Customers
+8fe51ba5,300,1,218.88,1,3,3,7,Potential Loyalists
+8febe2bc,49,1,367.19,4,3,4,11,Champions
+90062c17,64,1,354.35,4,3,4,11,Champions
+900e8f32,269,1,127.22,1,3,2,6,Potential Loyalists
+903af8b1,12,1,66.32,4,3,1,8,Loyal Customers
+903c2a1e,70,1,128.21,4,3,2,9,Loyal Customers
+9044045e,322,1,159.01,1,3,2,6,Potential Loyalists
+9046c46f,234,1,281.8,2,3,3,8,Loyal Customers
+9047f8f2,269,1,153.82,1,3,2,6,Potential Loyalists
+90491250,78,1,265.37,4,3,3,10,Champions
+9049f512,236,1,181.63,2,3,2,7,Potential Loyalists
+905c8be8,40,1,331.74,4,3,4,11,Champions
+905dca0a,46,1,109.5,4,3,2,9,Loyal Customers
+90733f8f,197,1,364.07,2,3,4,9,Loyal Customers
+9077d76e,299,1,235.18,1,3,3,7,Potential Loyalists
+909ddd04,116,1,19.84,3,3,1,7,Potential Loyalists
+90a64934,28,1,161.3,4,3,2,9,Loyal Customers
+90b0754f,2,1,248.14,4,3,3,10,Champions
+90bad297,5,1,263.85,4,3,3,10,Champions
+90c1895c,173,1,265.32,2,3,3,8,Loyal Customers
+90c225c7,180,1,84.24,2,3,1,6,Potential Loyalists
+90d0871f,126,1,110.89,3,3,2,8,Loyal Customers
+9114180a,212,1,232.29,2,3,3,8,Loyal Customers
+912a636b,71,1,247.83,4,3,3,10,Champions
+913acac1,152,1,448.53,3,3,4,10,Champions
+91537fcc,124,1,185.48,3,3,2,8,Loyal Customers
+9153c543,187,1,242.61,2,3,3,8,Loyal Customers
+91619757,272,1,377.0,1,3,4,8,Loyal Customers
+9179113d,131,1,247.53,3,3,3,9,Loyal Customers
+91879a7c,301,1,153.45,1,3,2,6,Potential Loyalists
+918a4789,265,1,388.31,1,3,4,8,Loyal Customers
+91932784,123,1,99.06,3,3,1,7,Potential Loyalists
+9195a0ff,23,1,294.66,4,3,3,10,Champions
+91a63275,191,1,272.74,2,3,3,8,Loyal Customers
+91bacb2f,99,1,254.41,3,3,3,9,Loyal Customers
+91bbc996,134,1,271.25,3,3,3,9,Loyal Customers
+91da6560,289,1,300.78,1,3,3,7,Potential Loyalists
+91ed529f,302,1,304.56,1,3,4,8,Loyal Customers
+9210ee78,230,1,54.76,2,3,1,6,Potential Loyalists
+9214a7aa,166,1,402.85,2,3,4,9,Loyal Customers
+92468cf9,32,1,379.45,4,3,4,11,Champions
+925202a4,12,1,92.93,4,3,1,8,Loyal Customers
+925cb565,67,1,346.0,4,3,4,11,Champions
+925dcde3,53,1,199.24,4,3,3,10,Champions
+92770171,193,1,288.44,2,3,3,8,Loyal Customers
+927e4946,124,1,115.26,3,3,2,8,Loyal Customers
+928bddf9,108,1,176.35,3,3,2,8,Loyal Customers
+92a11c79,185,1,25.32,2,3,1,6,Potential Loyalists
+92b25a6f,181,1,105.52,2,3,2,7,Potential Loyalists
+92e87211,168,1,345.22,2,3,4,9,Loyal Customers
+93074b88,76,1,216.87,4,3,3,10,Champions
+9318bcd2,213,1,138.97,2,3,2,7,Potential Loyalists
+931db1ae,311,1,265.73,1,3,3,7,Potential Loyalists
+9328a910,63,1,362.33,4,3,4,11,Champions
+932c893c,111,1,300.23,3,3,3,9,Loyal Customers
+932c8bf3,296,1,63.82,1,3,1,5,At Risk
+932cdbdb,106,1,188.6,3,3,2,8,Loyal Customers
+932de343,251,1,212.6,1,3,3,7,Potential Loyalists
+93350e79,127,1,325.78,3,3,4,10,Champions
+933b28fe,59,1,107.36,4,3,2,9,Loyal Customers
+937d9e65,89,1,231.42,3,3,3,9,Loyal Customers
+937e8781,187,1,125.41,2,3,2,7,Potential Loyalists
+938ea3dc,256,1,145.72,1,3,2,6,Potential Loyalists
+939d3a3b,96,1,104.95,3,3,2,8,Loyal Customers
+93a62d8a,278,1,197.01,1,3,2,6,Potential Loyalists
+93b27ac2,77,1,347.05,4,3,4,11,Champions
+93ce878c,105,1,293.08,3,3,3,9,Loyal Customers
+93d032e8,212,1,102.47,2,3,1,6,Potential Loyalists
+93db7ef7,313,1,208.53,1,3,3,7,Potential Loyalists
+93ff499d,183,1,240.53,2,3,3,8,Loyal Customers
+94001b21,166,1,91.56,2,3,1,6,Potential Loyalists
+942598dd,322,1,70.01,1,3,1,5,At Risk
+9488464d,83,1,84.17,3,3,1,7,Potential Loyalists
+94aa211f,283,1,219.5,1,3,3,7,Potential Loyalists
+94ac8476,51,1,233.67,4,3,3,10,Champions
+94cce708,173,1,256.42,2,3,3,8,Loyal Customers
+94ed2dce,217,1,378.25,2,3,4,9,Loyal Customers
+94f5f92a,170,1,351.43,2,3,4,9,Loyal Customers
+9514a796,314,1,44.08,1,3,1,5,At Risk
+952255c3,132,1,259.29,3,3,3,9,Loyal Customers
+9536cbf4,6,1,319.48,4,3,4,11,Champions
+95517d12,6,1,161.93,4,3,2,9,Loyal Customers
+955f7594,152,1,87.17,3,3,1,7,Potential Loyalists
+957b2713,103,1,249.99,3,3,3,9,Loyal Customers
+957ba512,63,1,316.58,4,3,4,11,Champions
+957d92dd,275,1,146.19,1,3,2,6,Potential Loyalists
+958d0fcb,110,1,58.58,3,3,1,7,Potential Loyalists
+95912e32,124,1,73.62,3,3,1,7,Potential Loyalists
+95cda985,117,1,65.75,3,3,1,7,Potential Loyalists
+95f589a9,182,1,211.91,2,3,3,8,Loyal Customers
+95f62610,35,1,127.35,4,3,2,9,Loyal Customers
+96221d7c,206,1,19.31,2,3,1,6,Potential Loyalists
+9622a93e,39,1,97.22,4,3,1,8,Loyal Customers
+9643cc38,142,1,232.82,3,3,3,9,Loyal Customers
+9663a01a,192,1,429.27,2,3,4,9,Loyal Customers
+966cb7b1,142,1,299.4,3,3,3,9,Loyal Customers
+96795135,249,1,177.99,1,3,2,6,Potential Loyalists
+967cbc43,9,1,210.86,4,3,3,10,Champions
+968fb1ae,74,1,324.98,4,3,4,11,Champions
+96aad22f,221,1,244.9,2,3,3,8,Loyal Customers
+96af0aa4,168,1,107.6,2,3,2,7,Potential Loyalists
+96bf93b2,79,1,340.71,4,3,4,11,Champions
+96f8bb90,4,1,254.1,4,3,3,10,Champions
+971538a1,17,1,12.61,4,3,1,8,Loyal Customers
+9751079d,306,1,132.78,1,3,2,6,Potential Loyalists
+976b6ed4,141,1,296.88,3,3,3,9,Loyal Customers
+977da8a4,33,1,15.78,4,3,1,8,Loyal Customers
+978ce91d,307,1,179.89,1,3,2,6,Potential Loyalists
+9792cfef,85,1,37.26,3,3,1,7,Potential Loyalists
+9795e31b,208,1,414.44,2,3,4,9,Loyal Customers
+9798d65d,309,1,38.72,1,3,1,5,At Risk
+97d33649,275,1,163.51,1,3,2,6,Potential Loyalists
+97d651f2,54,1,14.37,4,3,1,8,Loyal Customers
+97e2632e,13,1,136.6,4,3,2,9,Loyal Customers
+97f18950,83,1,351.87,3,3,4,10,Champions
+97f73aeb,129,1,154.96,3,3,2,8,Loyal Customers
+97f8db88,142,1,12.33,3,3,1,7,Potential Loyalists
+9807ab52,204,1,374.97,2,3,4,9,Loyal Customers
+9826f69a,276,1,117.73,1,3,2,6,Potential Loyalists
+98857e41,32,1,65.78,4,3,1,8,Loyal Customers
+98a9ccae,4,1,43.72,4,3,1,8,Loyal Customers
+98cb1265,27,1,207.16,4,3,3,10,Champions
+98e3cfed,297,1,55.7,1,3,1,5,At Risk
+994a1cfa,7,1,133.88,4,3,2,9,Loyal Customers
+99776807,56,1,150.94,4,3,2,9,Loyal Customers
+9977a28d,303,1,59.92,1,3,1,5,At Risk
+99781be9,199,1,371.24,2,3,4,9,Loyal Customers
+997b3f50,278,1,346.45,1,3,4,8,Loyal Customers
+997c274b,325,1,288.88,1,3,3,7,Potential Loyalists
+9983f3fd,310,1,146.75,1,3,2,6,Potential Loyalists
+998e790d,213,1,48.36,2,3,1,6,Potential Loyalists
+99b59827,43,1,40.74,4,3,1,8,Loyal Customers
+99caeb2a,38,1,121.58,4,3,2,9,Loyal Customers
+99d5de94,35,1,231.84,4,3,3,10,Champions
+99e8f646,268,1,343.56,1,3,4,8,Loyal Customers
+99f588a5,290,1,10.39,1,3,1,5,At Risk
+99f7c009,106,1,350.63,3,3,4,10,Champions
+9a0612a5,286,1,274.34,1,3,3,7,Potential Loyalists
+9a0fd409,274,1,317.02,1,3,4,8,Loyal Customers
+9a1fa943,128,1,169.01,3,3,2,8,Loyal Customers
+9a28b00f,54,1,206.61,4,3,3,10,Champions
+9a297ab5,33,1,111.29,4,3,2,9,Loyal Customers
+9a3a5585,188,1,303.08,2,3,3,8,Loyal Customers
+9a3d7a70,49,1,72.55,4,3,1,8,Loyal Customers
+9a4c4cd0,326,1,89.13,1,3,1,5,At Risk
+9a4f1e61,155,1,156.37,3,3,2,8,Loyal Customers
+9a717b4e,182,1,78.6,2,3,1,6,Potential Loyalists
+9a9a07f5,93,1,126.13,3,3,2,8,Loyal Customers
+9a9e2f5b,99,1,457.77,3,3,4,10,Champions
+9ab109a6,162,1,108.85,3,3,2,8,Loyal Customers
+9ad51b37,133,1,133.86,3,3,2,8,Loyal Customers
+9aec0029,207,1,22.59,2,3,1,6,Potential Loyalists
+9af56311,277,1,54.34,1,3,1,5,At Risk
+9b269748,237,1,166.4,2,3,2,7,Potential Loyalists
+9b48b7a6,282,1,195.85,1,3,2,6,Potential Loyalists
+9b57819e,76,1,85.64,4,3,1,8,Loyal Customers
+9b6d0db5,238,1,88.34,2,3,1,6,Potential Loyalists
+9b715e89,110,1,15.45,3,3,1,7,Potential Loyalists
+9b99bfb0,46,1,61.65,4,3,1,8,Loyal Customers
+9b9e991f,272,1,225.2,1,3,3,7,Potential Loyalists
+9bc061b4,100,1,114.35,3,3,2,8,Loyal Customers
+9bef891d,215,1,292.37,2,3,3,8,Loyal Customers
+9c15f01a,232,1,316.26,2,3,4,9,Loyal Customers
+9c17a640,314,1,323.48,1,3,4,8,Loyal Customers
+9c1af3a0,66,1,22.08,4,3,1,8,Loyal Customers
+9c5742f5,92,1,223.74,3,3,3,9,Loyal Customers
+9c5e398c,20,1,15.37,4,3,1,8,Loyal Customers
+9c7914f5,318,1,323.25,1,3,4,8,Loyal Customers
+9c92e75f,35,1,125.1,4,3,2,9,Loyal Customers
+9cb99a90,107,1,191.54,3,3,2,8,Loyal Customers
+9cba4ba8,293,1,303.29,1,3,3,7,Potential Loyalists
+9cc5fbec,166,1,176.35,2,3,2,7,Potential Loyalists
+9cf2ef37,10,1,58.23,4,3,1,8,Loyal Customers
+9cf50531,81,1,122.36,3,3,2,8,Loyal Customers
+9d02cd04,281,1,186.01,1,3,2,6,Potential Loyalists
+9d75a469,201,1,17.84,2,3,1,6,Potential Loyalists
+9d8bead6,5,1,473.42,4,3,4,11,Champions
+9daac50a,140,1,354.15,3,3,4,10,Champions
+9db42c1b,22,1,154.28,4,3,2,9,Loyal Customers
+9ddc1221,217,1,26.05,2,3,1,6,Potential Loyalists
+9e064b40,20,1,84.73,4,3,1,8,Loyal Customers
+9e0d98a7,33,1,223.73,4,3,3,10,Champions
+9e0fea41,165,1,304.2,2,3,4,9,Loyal Customers
+9e379d53,14,1,158.01,4,3,2,9,Loyal Customers
+9e3a9089,164,1,53.0,2,3,1,6,Potential Loyalists
+9e52ea4b,265,1,342.42,1,3,4,8,Loyal Customers
+9e55c4c9,266,1,40.04,1,3,1,5,At Risk
+9e576059,118,1,222.63,3,3,3,9,Loyal Customers
+9e6874ab,64,1,290.77,4,3,3,10,Champions
+9e6fdcc2,13,1,120.64,4,3,2,9,Loyal Customers
+9e8a1ef9,124,1,305.23,3,3,4,10,Champions
+9e8c74ac,133,1,264.92,3,3,3,9,Loyal Customers
+9e9f2f6e,223,1,246.62,2,3,3,8,Loyal Customers
+9ea9ff00,161,1,100.74,3,3,1,7,Potential Loyalists
+9ec32d45,39,1,342.9,4,3,4,11,Champions
+9ec98fc0,227,1,19.02,2,3,1,6,Potential Loyalists
+9ecfeca6,311,1,393.55,1,3,4,8,Loyal Customers
+9ed4fdbc,180,1,27.22,2,3,1,6,Potential Loyalists
+9f0194af,177,1,170.58,2,3,2,7,Potential Loyalists
+9f0cd093,238,1,264.85,2,3,3,8,Loyal Customers
+9f470f3a,228,1,417.89,2,3,4,9,Loyal Customers
+9f5fd63c,98,1,94.39,3,3,1,7,Potential Loyalists
+9f79dd77,143,1,110.58,3,3,2,8,Loyal Customers
+9f887c1b,278,1,165.95,1,3,2,6,Potential Loyalists
+9f8bb54c,285,1,339.17,1,3,4,8,Loyal Customers
+9fd0f47d,45,1,327.0,4,3,4,11,Champions
+9fe458f7,1,1,229.77,4,3,3,10,Champions
+9fe834ec,106,1,340.11,3,3,4,10,Champions
+a002abc7,36,1,182.47,4,3,2,9,Loyal Customers
+a03903f5,291,1,272.14,1,3,3,7,Potential Loyalists
+a03eaa0c,200,1,385.3,2,3,4,9,Loyal Customers
+a04400d0,293,1,357.63,1,3,4,8,Loyal Customers
+a0944d1e,1,1,326.6,4,3,4,11,Champions
+a0968a8d,89,1,137.56,3,3,2,8,Loyal Customers
+a0b8e39d,158,1,66.28,3,3,1,7,Potential Loyalists
+a0c0b305,159,1,370.13,3,3,4,10,Champions
+a0e96a4e,82,1,139.25,3,3,2,8,Loyal Customers
+a105f661,16,1,69.41,4,3,1,8,Loyal Customers
+a1099e85,202,1,124.48,2,3,2,7,Potential Loyalists
+a1268df3,152,1,221.91,3,3,3,9,Loyal Customers
+a1279ac2,215,1,231.42,2,3,3,8,Loyal Customers
+a12946ef,152,1,143.77,3,3,2,8,Loyal Customers
+a129dd13,229,1,58.3,2,3,1,6,Potential Loyalists
+a12bcc72,89,1,279.37,3,3,3,9,Loyal Customers
+a140c968,28,1,148.07,4,3,2,9,Loyal Customers
+a151d3b5,45,1,77.31,4,3,1,8,Loyal Customers
+a1573efd,61,1,147.52,4,3,2,9,Loyal Customers
+a187e667,157,1,165.59,3,3,2,8,Loyal Customers
+a18d5bb4,287,1,230.81,1,3,3,7,Potential Loyalists
+a1a7c1e9,70,1,198.28,4,3,2,9,Loyal Customers
+a1aad5f0,285,1,415.02,1,3,4,8,Loyal Customers
+a1ac7f49,232,1,226.34,2,3,3,8,Loyal Customers
+a1adb0ae,125,1,130.78,3,3,2,8,Loyal Customers
+a1e6b647,81,1,331.78,3,3,4,10,Champions
+a1fef607,22,1,210.79,4,3,3,10,Champions
+a2340b74,4,1,293.73,4,3,3,10,Champions
+a23cc45d,107,1,325.52,3,3,4,10,Champions
+a23d00ad,126,1,383.51,3,3,4,10,Champions
+a29c7520,73,1,241.56,4,3,3,10,Champions
+a2cfce14,246,1,153.41,1,3,2,6,Potential Loyalists
+a2cffcc6,198,1,194.18,2,3,2,7,Potential Loyalists
+a2dd035d,296,1,207.97,1,3,3,7,Potential Loyalists
+a2f07ba8,228,1,230.47,2,3,3,8,Loyal Customers
+a31224b8,191,1,76.31,2,3,1,6,Potential Loyalists
+a316376d,153,1,82.22,3,3,1,7,Potential Loyalists
+a3185b29,310,1,457.07,1,3,4,8,Loyal Customers
+a33bd4fb,85,1,166.11,3,3,2,8,Loyal Customers
+a33d1a46,108,1,374.37,3,3,4,10,Champions
+a33d7b0d,94,1,187.87,3,3,2,8,Loyal Customers
+a35fe5e5,144,1,343.52,3,3,4,10,Champions
+a3609e3a,130,1,90.79,3,3,1,7,Potential Loyalists
+a3636616,200,1,428.77,2,3,4,9,Loyal Customers
+a374a7c5,267,1,230.09,1,3,3,7,Potential Loyalists
+a3880ba0,70,1,203.79,4,3,3,10,Champions
+a38bba13,89,1,257.51,3,3,3,9,Loyal Customers
+a3b19153,5,1,412.89,4,3,4,11,Champions
+a3b63775,91,1,176.54,3,3,2,8,Loyal Customers
+a3be818d,160,1,218.89,3,3,3,9,Loyal Customers
+a3c23e44,257,1,472.19,1,3,4,8,Loyal Customers
+a3de9f0e,49,1,181.76,4,3,2,9,Loyal Customers
+a3df5dd4,207,1,74.98,2,3,1,6,Potential Loyalists
+a3e73890,270,1,399.84,1,3,4,8,Loyal Customers
+a3ffda9b,30,1,276.53,4,3,3,10,Champions
+a418bd67,119,1,178.87,3,3,2,8,Loyal Customers
+a429364b,222,1,262.91,2,3,3,8,Loyal Customers
+a44ab318,315,1,138.95,1,3,2,6,Potential Loyalists
+a453276f,24,1,403.11,4,3,4,11,Champions
+a458dc49,66,1,208.71,4,3,3,10,Champions
+a48689fb,178,1,140.42,2,3,2,7,Potential Loyalists
+a4882f62,91,1,279.26,3,3,3,9,Loyal Customers
+a4918e3a,192,1,143.72,2,3,2,7,Potential Loyalists
+a495b1c7,105,1,154.89,3,3,2,8,Loyal Customers
+a49da7a4,70,1,258.42,4,3,3,10,Champions
+a4ae5a91,93,1,338.83,3,3,4,10,Champions
+a4b13791,47,1,401.0,4,3,4,11,Champions
+a4f4d94f,127,1,284.71,3,3,3,9,Loyal Customers
+a4f838a3,60,1,310.18,4,3,4,11,Champions
+a506f7bf,289,1,404.71,1,3,4,8,Loyal Customers
+a51af881,313,1,43.73,1,3,1,5,At Risk
+a5464600,219,1,240.86,2,3,3,8,Loyal Customers
+a5466420,266,1,118.26,1,3,2,6,Potential Loyalists
+a55c61e9,220,1,299.86,2,3,3,8,Loyal Customers
+a577d4b8,267,1,384.61,1,3,4,8,Loyal Customers
+a587259f,40,1,292.74,4,3,3,10,Champions
+a5973501,87,1,217.62,3,3,3,9,Loyal Customers
+a59c3e17,192,1,141.68,2,3,2,7,Potential Loyalists
+a5b943ac,93,1,302.86,3,3,3,9,Loyal Customers
+a5b9d3d5,292,1,193.48,1,3,2,6,Potential Loyalists
+a5bd8e47,143,1,66.48,3,3,1,7,Potential Loyalists
+a5cda6c8,108,1,216.58,3,3,3,9,Loyal Customers
+a5ed8855,108,1,149.57,3,3,2,8,Loyal Customers
+a5f68cb7,6,1,108.95,4,3,2,9,Loyal Customers
+a6021b76,203,1,180.86,2,3,2,7,Potential Loyalists
+a614a195,307,1,126.22,1,3,2,6,Potential Loyalists
+a61e1a8f,95,1,151.52,3,3,2,8,Loyal Customers
+a6324daf,308,1,401.0,1,3,4,8,Loyal Customers
+a65c3d6a,244,1,32.32,1,3,1,5,At Risk
+a669be47,274,1,399.44,1,3,4,8,Loyal Customers
+a670093e,110,1,193.06,3,3,2,8,Loyal Customers
+a6868963,180,1,162.54,2,3,2,7,Potential Loyalists
+a687c77e,160,1,122.55,3,3,2,8,Loyal Customers
+a69ea338,300,1,349.67,1,3,4,8,Loyal Customers
+a69f0bc8,233,1,355.47,2,3,4,9,Loyal Customers
+a6a91079,279,1,101.69,1,3,1,5,At Risk
+a6c1a28f,247,1,276.47,1,3,3,7,Potential Loyalists
+a6c4e58f,120,1,279.01,3,3,3,9,Loyal Customers
+a6c5b4a7,82,1,73.29,3,3,1,7,Potential Loyalists
+a6c95d7b,136,1,341.92,3,3,4,10,Champions
+a6cc16ab,193,1,76.37,2,3,1,6,Potential Loyalists
+a6d6328d,225,1,98.06,2,3,1,6,Potential Loyalists
+a6d9af95,90,1,70.52,3,3,1,7,Potential Loyalists
+a6da9898,281,1,329.36,1,3,4,8,Loyal Customers
+a6e6f97d,296,1,144.67,1,3,2,6,Potential Loyalists
+a6e87160,300,1,116.25,1,3,2,6,Potential Loyalists
+a6f6238c,50,1,395.63,4,3,4,11,Champions
+a70e28bf,244,1,209.34,1,3,3,7,Potential Loyalists
+a718e1c4,226,1,431.33,2,3,4,9,Loyal Customers
+a71b8ee0,218,1,98.44,2,3,1,6,Potential Loyalists
+a73c44c3,227,1,232.41,2,3,3,8,Loyal Customers
+a742a6a5,28,1,265.86,4,3,3,10,Champions
+a771dc00,245,1,158.02,1,3,2,6,Potential Loyalists
+a7a46866,17,1,35.37,4,3,1,8,Loyal Customers
+a7bf5d50,61,1,83.98,4,3,1,8,Loyal Customers
+a7cae661,192,1,215.38,2,3,3,8,Loyal Customers
+a7e884cf,127,1,104.52,3,3,2,8,Loyal Customers
+a80a973c,87,1,399.49,3,3,4,10,Champions
+a80c009d,221,1,186.36,2,3,2,7,Potential Loyalists
+a81bc91d,31,1,152.57,4,3,2,9,Loyal Customers
+a81c78ef,95,1,117.91,3,3,2,8,Loyal Customers
+a8343047,165,1,315.88,2,3,4,9,Loyal Customers
+a83c145c,56,1,195.84,4,3,2,9,Loyal Customers
+a84d7206,208,1,108.02,2,3,2,7,Potential Loyalists
+a852ff82,206,1,127.44,2,3,2,7,Potential Loyalists
+a87689fb,35,1,395.07,4,3,4,11,Champions
+a87b658a,67,1,157.62,4,3,2,9,Loyal Customers
+a8e5730c,91,1,105.07,3,3,2,8,Loyal Customers
+a8fc7be9,36,1,46.2,4,3,1,8,Loyal Customers
+a8fc85ce,54,1,189.3,4,3,2,9,Loyal Customers
+a91d9f56,82,1,369.25,3,3,4,10,Champions
+a91f12d4,136,1,176.01,3,3,2,8,Loyal Customers
+a9291a98,173,1,205.21,2,3,3,8,Loyal Customers
+a94110ca,160,1,51.23,3,3,1,7,Potential Loyalists
+a9483365,176,1,312.35,2,3,4,9,Loyal Customers
+a9501881,127,1,14.1,3,3,1,7,Potential Loyalists
+a95a20a0,56,1,35.76,4,3,1,8,Loyal Customers
+a97b9cc2,112,1,314.32,3,3,4,10,Champions
+a99176d1,143,1,398.11,3,3,4,10,Champions
+a998be79,120,1,280.45,3,3,3,9,Loyal Customers
+a9d0d978,48,1,121.17,4,3,2,9,Loyal Customers
+a9e2c4f5,68,1,86.34,4,3,1,8,Loyal Customers
+a9eaf38a,28,1,268.05,4,3,3,10,Champions
+a9f47880,89,1,363.06,3,3,4,10,Champions
+a9f8e515,210,1,116.7,2,3,2,7,Potential Loyalists
+a9f98de1,123,1,59.44,3,3,1,7,Potential Loyalists
+a9fa4694,304,1,239.25,1,3,3,7,Potential Loyalists
+aa0830de,220,1,56.97,2,3,1,6,Potential Loyalists
+aa265452,54,1,229.81,4,3,3,10,Champions
+aa273462,232,1,139.26,2,3,2,7,Potential Loyalists
+aa3a7b58,82,1,64.54,3,3,1,7,Potential Loyalists
+aa467976,76,1,101.53,4,3,1,8,Loyal Customers
+aa5ed28b,134,1,286.45,3,3,3,9,Loyal Customers
+aa5fcb35,166,1,165.07,2,3,2,7,Potential Loyalists
+aa6c6d33,197,1,391.22,2,3,4,9,Loyal Customers
+aa744c61,10,1,115.54,4,3,2,9,Loyal Customers
+aa7bdfa3,198,1,328.08,2,3,4,9,Loyal Customers
+aa8f723f,72,1,229.18,4,3,3,10,Champions
+aa91713c,62,1,76.09,4,3,1,8,Loyal Customers
+aa95dfa0,313,1,171.79,1,3,2,6,Potential Loyalists
+aa9878a5,185,1,170.78,2,3,2,7,Potential Loyalists
+aaab560b,37,1,155.07,4,3,2,9,Loyal Customers
+aaab97bb,186,1,323.74,2,3,4,9,Loyal Customers
+aab9ddbb,164,1,129.07,2,3,2,7,Potential Loyalists
+aabe4748,187,1,146.83,2,3,2,7,Potential Loyalists
+aacab2f6,150,1,248.35,3,3,3,9,Loyal Customers
+aaf45c40,56,1,341.83,4,3,4,11,Champions
+aafd3769,176,1,458.6,2,3,4,9,Loyal Customers
+ab1add51,185,1,311.15,2,3,4,9,Loyal Customers
+ab421cc2,215,1,217.93,2,3,3,8,Loyal Customers
+ab51add8,219,1,179.18,2,3,2,7,Potential Loyalists
+ab62ed9e,320,1,101.25,1,3,1,5,At Risk
+ab71021f,158,1,377.59,3,3,4,10,Champions
+ab7273bc,5,1,189.32,4,3,2,9,Loyal Customers
+ab869893,91,1,152.28,3,3,2,8,Loyal Customers
+ab9fa9a3,20,1,388.32,4,3,4,11,Champions
+aba9b6cd,240,1,329.27,2,3,4,9,Loyal Customers
+abb2fa33,28,1,206.97,4,3,3,10,Champions
+abb31c38,264,1,55.88,1,3,1,5,At Risk
+abb37032,63,1,296.8,4,3,3,10,Champions
+abc32e14,185,1,379.24,2,3,4,9,Loyal Customers
+abc4d497,239,1,95.53,2,3,1,6,Potential Loyalists
+abd487a4,297,1,30.66,1,3,1,5,At Risk
+abdb1e26,39,1,195.08,4,3,2,9,Loyal Customers
+abff895f,257,1,11.28,1,3,1,5,At Risk
+ac02118a,57,1,213.35,4,3,3,10,Champions
+ac07a758,19,1,44.09,4,3,1,8,Loyal Customers
+ac0a5a11,18,1,42.93,4,3,1,8,Loyal Customers
+ac202a1f,32,1,31.07,4,3,1,8,Loyal Customers
+ac481530,84,1,224.58,3,3,3,9,Loyal Customers
+ac582370,72,1,49.38,4,3,1,8,Loyal Customers
+ac5f51dd,187,1,361.66,2,3,4,9,Loyal Customers
+ac61f504,72,1,150.29,4,3,2,9,Loyal Customers
+ac83afcb,231,1,207.54,2,3,3,8,Loyal Customers
+ac876e50,117,1,63.93,3,3,1,7,Potential Loyalists
+ac98d8ba,52,1,129.36,4,3,2,9,Loyal Customers
+aca0dcaf,156,1,287.77,3,3,3,9,Loyal Customers
+aca166ff,10,1,343.06,4,3,4,11,Champions
+acba07dd,93,1,329.82,3,3,4,10,Champions
+acda7306,170,1,40.45,2,3,1,6,Potential Loyalists
+acf7144e,90,1,183.62,3,3,2,8,Loyal Customers
+ad0012f9,325,1,194.02,1,3,2,6,Potential Loyalists
+ad0e6c75,130,1,107.94,3,3,2,8,Loyal Customers
+ad1e2bd6,267,1,146.92,1,3,2,6,Potential Loyalists
+ad562a2f,115,1,16.52,3,3,1,7,Potential Loyalists
+ad75dbc6,289,1,82.75,1,3,1,5,At Risk
+ad772c5a,188,1,200.04,2,3,3,8,Loyal Customers
+ad7a00fe,29,1,397.85,4,3,4,11,Champions
+ad920469,22,1,384.55,4,3,4,11,Champions
+ad923bb1,80,1,21.78,4,3,1,8,Loyal Customers
+ada22b55,92,1,86.29,3,3,1,7,Potential Loyalists
+adb5583f,172,1,255.08,2,3,3,8,Loyal Customers
+add87525,128,1,156.3,3,3,2,8,Loyal Customers
+addb5998,262,1,93.25,1,3,1,5,At Risk
+ade66e84,209,1,217.73,2,3,3,8,Loyal Customers
+adf25ccc,63,1,89.13,4,3,1,8,Loyal Customers
+ae025f67,210,1,167.32,2,3,2,7,Potential Loyalists
+ae08fdb3,53,1,108.97,4,3,2,9,Loyal Customers
+ae15cd88,54,1,219.91,4,3,3,10,Champions
+ae1b0a5d,247,1,84.95,1,3,1,5,At Risk
+ae1e6f3f,177,1,213.73,2,3,3,8,Loyal Customers
+ae262d85,164,1,39.71,2,3,1,6,Potential Loyalists
+ae345248,207,1,321.91,2,3,4,9,Loyal Customers
+ae5bc048,209,1,153.44,2,3,2,7,Potential Loyalists
+ae6caf94,243,1,177.06,2,3,2,7,Potential Loyalists
+ae7b7c68,63,1,422.7,4,3,4,11,Champions
+aeb09719,241,1,398.36,2,3,4,9,Loyal Customers
+aec17f43,2,1,315.8,4,3,4,11,Champions
+aee2eea3,173,1,440.06,2,3,4,9,Loyal Customers
+af02dfd4,26,1,369.87,4,3,4,11,Champions
+af04c017,111,1,256.4,3,3,3,9,Loyal Customers
+af09b01d,272,1,190.55,1,3,2,6,Potential Loyalists
+af0b876c,54,1,271.06,4,3,3,10,Champions
+af0d5699,67,1,421.99,4,3,4,11,Champions
+af1453cd,277,1,430.52,1,3,4,8,Loyal Customers
+af40803c,291,1,297.87,1,3,3,7,Potential Loyalists
+af47fc4e,205,1,327.77,2,3,4,9,Loyal Customers
+af4a1e47,156,1,166.07,3,3,2,8,Loyal Customers
+af627d91,28,1,272.26,4,3,3,10,Champions
+afacdc15,213,1,285.21,2,3,3,8,Loyal Customers
+afaf6aa9,293,1,224.83,1,3,3,7,Potential Loyalists
+afbc0f86,229,1,408.97,2,3,4,9,Loyal Customers
+afbdd29f,140,1,160.96,3,3,2,8,Loyal Customers
+afbfbe33,315,1,297.93,1,3,3,7,Potential Loyalists
+afc39278,252,1,280.44,1,3,3,7,Potential Loyalists
+afc46410,32,1,458.34,4,3,4,11,Champions
+afd642ef,169,1,430.96,2,3,4,9,Loyal Customers
+b005a380,326,1,120.66,1,3,2,6,Potential Loyalists
+b005ff45,283,1,32.04,1,3,1,5,At Risk
+b045adae,26,1,373.02,4,3,4,11,Champions
+b07db0f3,62,1,448.96,4,3,4,11,Champions
+b07dfbd1,134,1,64.16,3,3,1,7,Potential Loyalists
+b080fc6d,107,1,119.42,3,3,2,8,Loyal Customers
+b08c75b4,79,1,45.99,4,3,1,8,Loyal Customers
+b0d1473b,214,1,350.75,2,3,4,9,Loyal Customers
+b0d2c85d,88,1,185.11,3,3,2,8,Loyal Customers
+b0de127f,217,1,71.94,2,3,1,6,Potential Loyalists
+b110fa93,224,1,326.69,2,3,4,9,Loyal Customers
+b11b4773,266,1,98.1,1,3,1,5,At Risk
+b11ef3ae,163,1,169.96,3,3,2,8,Loyal Customers
+b13d6803,97,1,75.16,3,3,1,7,Potential Loyalists
+b1466009,90,1,107.19,3,3,2,8,Loyal Customers
+b153ddb0,124,1,295.17,3,3,3,9,Loyal Customers
+b17a50cf,117,1,126.51,3,3,2,8,Loyal Customers
+b17a752f,60,1,452.74,4,3,4,11,Champions
+b17be372,249,1,19.82,1,3,1,5,At Risk
+b17f30e1,59,1,103.79,4,3,1,8,Loyal Customers
+b1851eeb,242,1,204.57,2,3,3,8,Loyal Customers
+b18caa07,110,1,209.08,3,3,3,9,Loyal Customers
+b1a586a8,181,1,373.84,2,3,4,9,Loyal Customers
+b1ae1119,184,1,295.32,2,3,3,8,Loyal Customers
+b1b2edb7,263,1,41.74,1,3,1,5,At Risk
+b1b67655,270,1,277.71,1,3,3,7,Potential Loyalists
+b1c9cd33,150,1,420.45,3,3,4,10,Champions
+b1cbe03e,90,1,80.2,3,3,1,7,Potential Loyalists
+b1d7cceb,5,1,166.98,4,3,2,9,Loyal Customers
+b1e0160e,136,1,180.62,3,3,2,8,Loyal Customers
+b1e17021,171,1,214.85,2,3,3,8,Loyal Customers
+b1ee9973,224,1,324.98,2,3,4,9,Loyal Customers
+b1f48add,218,1,278.38,2,3,3,8,Loyal Customers
+b1fe155c,109,1,65.21,3,3,1,7,Potential Loyalists
+b20c44f3,121,1,224.67,3,3,3,9,Loyal Customers
+b2412a5a,3,1,383.02,4,3,4,11,Champions
+b2423a79,180,1,131.82,2,3,2,7,Potential Loyalists
+b247da3d,130,1,255.19,3,3,3,9,Loyal Customers
+b24bd3b7,274,1,106.73,1,3,2,6,Potential Loyalists
+b24dec19,256,1,263.82,1,3,3,7,Potential Loyalists
+b267883f,181,1,237.63,2,3,3,8,Loyal Customers
+b28f143f,306,1,365.26,1,3,4,8,Loyal Customers
+b2977fc7,243,1,173.24,2,3,2,7,Potential Loyalists
+b298d2f9,51,1,242.32,4,3,3,10,Champions
+b2ab489e,300,1,203.72,1,3,3,7,Potential Loyalists
+b2d5adaa,3,1,117.12,4,3,2,9,Loyal Customers
+b2de1538,195,1,25.91,2,3,1,6,Potential Loyalists
+b2eb65f3,77,1,25.89,4,3,1,8,Loyal Customers
+b306a090,285,1,320.03,1,3,4,8,Loyal Customers
+b32cee07,83,1,329.98,3,3,4,10,Champions
+b3353bb8,298,1,242.41,1,3,3,7,Potential Loyalists
+b3659e63,255,1,127.91,1,3,2,6,Potential Loyalists
+b370acb7,204,1,330.45,2,3,4,9,Loyal Customers
+b3733852,303,1,295.2,1,3,3,7,Potential Loyalists
+b3801e1b,93,1,172.27,3,3,2,8,Loyal Customers
+b38271c7,138,1,40.27,3,3,1,7,Potential Loyalists
+b3b50a4f,99,1,48.47,3,3,1,7,Potential Loyalists
+b3c4394e,108,1,39.38,3,3,1,7,Potential Loyalists
+b3cb8c3c,324,1,306.78,1,3,4,8,Loyal Customers
+b3ea2594,182,1,258.77,2,3,3,8,Loyal Customers
+b423a542,135,1,471.15,3,3,4,10,Champions
+b428f6cc,188,1,97.28,2,3,1,6,Potential Loyalists
+b4391d08,1,1,332.06,4,3,4,11,Champions
+b446a986,285,1,24.16,1,3,1,5,At Risk
+b46c76f9,298,1,147.77,1,3,2,6,Potential Loyalists
+b4731c18,39,1,198.18,4,3,2,9,Loyal Customers
+b4740a01,64,1,64.37,4,3,1,8,Loyal Customers
+b486bdc0,117,1,99.42,3,3,1,7,Potential Loyalists
+b4a3b6c6,122,1,154.12,3,3,2,8,Loyal Customers
+b4ae2cbf,296,1,190.58,1,3,2,6,Potential Loyalists
+b4b2dce1,244,1,226.19,1,3,3,7,Potential Loyalists
+b4d63e07,138,1,204.67,3,3,3,9,Loyal Customers
+b4eb8cc7,163,1,272.15,3,3,3,9,Loyal Customers
+b4ecbe57,87,1,400.74,3,3,4,10,Champions
+b4f1a440,238,1,341.46,2,3,4,9,Loyal Customers
+b4fffe29,296,1,120.1,1,3,2,6,Potential Loyalists
+b501d28d,153,1,259.65,3,3,3,9,Loyal Customers
+b505dce0,208,1,60.43,2,3,1,6,Potential Loyalists
+b512b747,256,1,354.83,1,3,4,8,Loyal Customers
+b52a9a86,112,1,104.55,3,3,2,8,Loyal Customers
+b53aa320,64,1,418.1,4,3,4,11,Champions
+b5518394,215,1,178.09,2,3,2,7,Potential Loyalists
+b5538ebf,325,1,68.01,1,3,1,5,At Risk
+b5603d04,255,1,176.6,1,3,2,6,Potential Loyalists
+b5a6fd5f,204,1,235.58,2,3,3,8,Loyal Customers
+b5cfa655,21,1,151.94,4,3,2,9,Loyal Customers
+b5dbe555,186,1,326.1,2,3,4,9,Loyal Customers
+b611a9a9,256,1,84.92,1,3,1,5,At Risk
+b622561c,322,1,121.84,1,3,2,6,Potential Loyalists
+b644e0d1,71,1,297.32,4,3,3,10,Champions
+b688c922,86,1,471.03,3,3,4,10,Champions
+b6b38943,219,1,25.75,2,3,1,6,Potential Loyalists
+b6c3219c,232,1,190.17,2,3,2,7,Potential Loyalists
+b6d93334,253,1,152.26,1,3,2,6,Potential Loyalists
+b6df8c21,238,1,378.27,2,3,4,9,Loyal Customers
+b6f51cc8,101,1,9.55,3,3,1,7,Potential Loyalists
+b717743a,299,1,215.72,1,3,3,7,Potential Loyalists
+b721c64b,158,1,91.87,3,3,1,7,Potential Loyalists
+b7380b04,14,1,219.72,4,3,3,10,Champions
+b74485f8,320,1,233.66,1,3,3,7,Potential Loyalists
+b7529b08,121,1,89.81,3,3,1,7,Potential Loyalists
+b753077b,69,1,361.39,4,3,4,11,Champions
+b755ad6c,198,1,321.66,2,3,4,9,Loyal Customers
+b7618bd0,40,1,87.75,4,3,1,8,Loyal Customers
+b77c1e26,243,1,414.85,2,3,4,9,Loyal Customers
+b77f7694,323,1,148.8,1,3,2,6,Potential Loyalists
+b78454f6,30,1,200.62,4,3,3,10,Champions
+b7936ac3,255,1,177.24,1,3,2,6,Potential Loyalists
+b7b776d2,144,1,343.46,3,3,4,10,Champions
+b7c3b707,59,1,272.51,4,3,3,10,Champions
+b7ce1000,253,1,187.65,1,3,2,6,Potential Loyalists
+b7ce73a5,60,1,75.85,4,3,1,8,Loyal Customers
+b7dc85d0,232,1,199.28,2,3,3,8,Loyal Customers
+b7f89b7e,240,1,151.33,2,3,2,7,Potential Loyalists
+b803aace,128,1,82.68,3,3,1,7,Potential Loyalists
+b805a15f,231,1,338.51,2,3,4,9,Loyal Customers
+b8325c50,145,1,54.37,3,3,1,7,Potential Loyalists
+b848073a,86,1,289.85,3,3,3,9,Loyal Customers
+b849ee82,150,1,461.84,3,3,4,10,Champions
+b857395f,205,1,387.91,2,3,4,9,Loyal Customers
+b85d890a,20,1,195.12,4,3,2,9,Loyal Customers
+b86a1a14,109,1,139.14,3,3,2,8,Loyal Customers
+b871eb1f,208,1,201.65,2,3,3,8,Loyal Customers
+b8adfe0b,36,1,13.12,4,3,1,8,Loyal Customers
+b8b790ba,237,1,371.9,2,3,4,9,Loyal Customers
+b8e38e07,138,1,394.11,3,3,4,10,Champions
+b8e96ec5,301,1,373.1,1,3,4,8,Loyal Customers
+b8eb1581,223,1,199.02,2,3,2,7,Potential Loyalists
+b9054add,166,1,392.5,2,3,4,9,Loyal Customers
+b90a8b2c,87,1,69.31,3,3,1,7,Potential Loyalists
+b914b76f,9,1,184.89,4,3,2,9,Loyal Customers
+b9168cc4,82,1,90.53,3,3,1,7,Potential Loyalists
+b94ce497,37,1,44.69,4,3,1,8,Loyal Customers
+b955c6ec,147,1,291.08,3,3,3,9,Loyal Customers
+b9693289,259,1,312.24,1,3,4,8,Loyal Customers
+b96be743,278,1,115.06,1,3,2,6,Potential Loyalists
+b97ada3e,5,1,369.97,4,3,4,11,Champions
+b98d8283,198,1,11.86,2,3,1,6,Potential Loyalists
+b98e327e,213,1,199.17,2,3,2,7,Potential Loyalists
+b9cfaba1,28,1,240.64,4,3,3,10,Champions
+b9d3f539,301,1,255.0,1,3,3,7,Potential Loyalists
+b9fabe54,318,1,471.25,1,3,4,8,Loyal Customers
+b9fba9b9,183,1,154.69,2,3,2,7,Potential Loyalists
+b9ffab11,291,1,180.2,1,3,2,6,Potential Loyalists
+ba004604,7,1,276.67,4,3,3,10,Champions
+ba01f031,170,1,300.55,2,3,3,8,Loyal Customers
+ba0825d1,211,1,357.62,2,3,4,9,Loyal Customers
+ba0d460e,60,1,358.97,4,3,4,11,Champions
+ba25a4d4,14,1,76.2,4,3,1,8,Loyal Customers
+ba3964fa,106,1,52.98,3,3,1,7,Potential Loyalists
+ba58bbc8,224,1,10.33,2,3,1,6,Potential Loyalists
+ba678df8,258,1,17.07,1,3,1,5,At Risk
+ba80beba,316,1,399.53,1,3,4,8,Loyal Customers
+ba9710b5,7,1,67.93,4,3,1,8,Loyal Customers
+bac1284d,5,1,391.14,4,3,4,11,Champions
+bae0de07,74,1,65.58,4,3,1,8,Loyal Customers
+bae27fb2,208,1,263.81,2,3,3,8,Loyal Customers
+baf84657,126,1,249.37,3,3,3,9,Loyal Customers
+bb2530af,248,1,351.2,1,3,4,8,Loyal Customers
+bb2f1a1e,219,1,271.97,2,3,3,8,Loyal Customers
+bb351881,317,1,49.1,1,3,1,5,At Risk
+bb542976,208,1,199.2,2,3,3,8,Loyal Customers
+bb5cf4a3,225,1,294.79,2,3,3,8,Loyal Customers
+bb5d2619,30,1,24.42,4,3,1,8,Loyal Customers
+bb77f1c9,239,1,339.34,2,3,4,9,Loyal Customers
+bb9c024b,325,1,166.97,1,3,2,6,Potential Loyalists
+bba4c3f8,320,1,134.94,1,3,2,6,Potential Loyalists
+bba6b57f,41,1,61.85,4,3,1,8,Loyal Customers
+bbb101a4,25,1,304.93,4,3,4,11,Champions
+bbb253a1,99,1,157.7,3,3,2,8,Loyal Customers
+bbb3b5c2,164,1,421.71,2,3,4,9,Loyal Customers
+bbb92935,286,1,133.6,1,3,2,6,Potential Loyalists
+bbb99958,36,1,68.05,4,3,1,8,Loyal Customers
+bbcfa0fc,154,1,318.52,3,3,4,10,Champions
+bbf18e01,161,1,419.32,3,3,4,10,Champions
+bc022fce,42,1,315.36,4,3,4,11,Champions
+bc1ed9fe,229,1,241.2,2,3,3,8,Loyal Customers
+bc1fe366,28,1,247.26,4,3,3,10,Champions
+bc2ca5e1,48,1,309.83,4,3,4,11,Champions
+bc30caa0,195,1,340.87,2,3,4,9,Loyal Customers
+bc3c0bbe,57,1,198.26,4,3,2,9,Loyal Customers
+bc43c77d,291,1,330.17,1,3,4,8,Loyal Customers
+bc5c85a5,273,1,214.72,1,3,3,7,Potential Loyalists
+bc601032,162,1,145.9,3,3,2,8,Loyal Customers
+bc9e7036,42,1,340.7,4,3,4,11,Champions
+bcadd0b0,34,1,350.18,4,3,4,11,Champions
+bcb50e14,263,1,238.61,1,3,3,7,Potential Loyalists
+bcbef8e7,120,1,437.82,3,3,4,10,Champions
+bcc25218,122,1,39.57,3,3,1,7,Potential Loyalists
+bcc6717f,104,1,76.17,3,3,1,7,Potential Loyalists
+bcce1ab1,309,1,382.72,1,3,4,8,Loyal Customers
+bd34d0a3,325,1,284.93,1,3,3,7,Potential Loyalists
+bd3518f0,130,1,63.01,3,3,1,7,Potential Loyalists
+bd42adcc,162,1,144.77,3,3,2,8,Loyal Customers
+bd612ab6,140,1,72.0,3,3,1,7,Potential Loyalists
+bd91326f,119,1,372.75,3,3,4,10,Champions
+bdb0edfe,308,1,52.38,1,3,1,5,At Risk
+bdd7eca6,80,1,347.02,4,3,4,11,Champions
+bdddfd8f,171,1,291.53,2,3,3,8,Loyal Customers
+bde0021d,127,1,229.46,3,3,3,9,Loyal Customers
+bde07b7e,271,1,36.62,1,3,1,5,At Risk
+be409e17,67,1,39.67,4,3,1,8,Loyal Customers
+be485d54,31,1,312.66,4,3,4,11,Champions
+be4d0858,305,1,215.56,1,3,3,7,Potential Loyalists
+be52378d,105,1,110.93,3,3,2,8,Loyal Customers
+be546b16,309,1,20.82,1,3,1,5,At Risk
+be5f7f30,235,1,51.09,2,3,1,6,Potential Loyalists
+be6086f7,48,1,161.59,4,3,2,9,Loyal Customers
+be689e12,224,1,44.67,2,3,1,6,Potential Loyalists
+be6c3104,184,1,39.52,2,3,1,6,Potential Loyalists
+be71f7a5,78,1,147.17,4,3,2,9,Loyal Customers
+be753111,196,1,393.59,2,3,4,9,Loyal Customers
+bea18811,21,1,44.72,4,3,1,8,Loyal Customers
+bebd92ff,27,1,283.99,4,3,3,10,Champions
+bebeda1a,214,1,65.54,2,3,1,6,Potential Loyalists
+bec3ba15,57,1,348.78,4,3,4,11,Champions
+bec57e40,229,1,329.44,2,3,4,9,Loyal Customers
+becaf4c3,277,1,394.92,1,3,4,8,Loyal Customers
+bed6a723,276,1,111.31,1,3,2,6,Potential Loyalists
+bedc0d23,33,1,173.62,4,3,2,9,Loyal Customers
+bf139e58,168,1,41.89,2,3,1,6,Potential Loyalists
+bf16d78e,300,1,310.13,1,3,4,8,Loyal Customers
+bf437b87,179,1,37.44,2,3,1,6,Potential Loyalists
+bf9dc5bd,17,1,377.73,4,3,4,11,Champions
+bfa5ca2e,198,1,42.95,2,3,1,6,Potential Loyalists
+bfc7a09a,263,1,50.71,1,3,1,5,At Risk
+bfd771e4,53,1,326.66,4,3,4,11,Champions
+c018f6d8,178,1,261.7,2,3,3,8,Loyal Customers
+c01d4d47,290,1,140.65,1,3,2,6,Potential Loyalists
+c02205a7,213,1,420.44,2,3,4,9,Loyal Customers
+c0363e36,76,1,91.78,4,3,1,8,Loyal Customers
+c0452a94,81,1,217.35,3,3,3,9,Loyal Customers
+c04b4143,4,1,329.77,4,3,4,11,Champions
+c0811288,275,1,178.02,1,3,2,6,Potential Loyalists
+c0895f76,12,1,276.68,4,3,3,10,Champions
+c094a6b0,216,1,36.19,2,3,1,6,Potential Loyalists
+c09f2d77,169,1,232.34,2,3,3,8,Loyal Customers
+c0b59a57,106,1,130.1,3,3,2,8,Loyal Customers
+c0c7dcc8,229,1,162.82,2,3,2,7,Potential Loyalists
+c0d0e868,73,1,136.08,4,3,2,9,Loyal Customers
+c0e9ac8d,132,1,95.05,3,3,1,7,Potential Loyalists
+c0f8e7f5,87,1,99.9,3,3,1,7,Potential Loyalists
+c1022ceb,6,1,405.54,4,3,4,11,Champions
+c10237e3,53,1,277.77,4,3,3,10,Champions
+c112eed4,134,1,18.83,3,3,1,7,Potential Loyalists
+c15ed68c,231,1,99.47,2,3,1,6,Potential Loyalists
+c167a9ff,50,1,76.05,4,3,1,8,Loyal Customers
+c18db35e,43,1,169.54,4,3,2,9,Loyal Customers
+c18f7689,176,1,275.92,2,3,3,8,Loyal Customers
+c19814f1,144,1,337.95,3,3,4,10,Champions
+c1acaead,245,1,335.46,1,3,4,8,Loyal Customers
+c1b4c7e7,120,1,39.78,3,3,1,7,Potential Loyalists
+c1b668e8,90,1,70.58,3,3,1,7,Potential Loyalists
+c1eba76b,186,1,117.96,2,3,2,7,Potential Loyalists
+c1edff29,34,1,250.46,4,3,3,10,Champions
+c1f52ae7,239,1,71.21,2,3,1,6,Potential Loyalists
+c1ffe1f3,11,1,184.81,4,3,2,9,Loyal Customers
+c203821f,286,1,144.04,1,3,2,6,Potential Loyalists
+c222c42b,246,1,211.94,1,3,3,7,Potential Loyalists
+c2252a4a,289,1,329.72,1,3,4,8,Loyal Customers
+c22bfd43,188,1,106.0,2,3,2,7,Potential Loyalists
+c2447899,86,1,328.17,3,3,4,10,Champions
+c246cba9,209,1,45.98,2,3,1,6,Potential Loyalists
+c250ce58,118,1,201.49,3,3,3,9,Loyal Customers
+c266e272,216,1,175.71,2,3,2,7,Potential Loyalists
+c27ce717,262,1,171.85,1,3,2,6,Potential Loyalists
+c2897794,215,1,432.13,2,3,4,9,Loyal Customers
+c292a2d7,265,1,293.87,1,3,3,7,Potential Loyalists
+c29dbb36,315,1,383.01,1,3,4,8,Loyal Customers
+c2a32605,90,1,412.94,3,3,4,10,Champions
+c2b48c64,217,1,330.18,2,3,4,9,Loyal Customers
+c2c6ce62,16,1,248.03,4,3,3,10,Champions
+c2d31eea,124,1,26.05,3,3,1,7,Potential Loyalists
+c2dbb365,156,1,331.95,3,3,4,10,Champions
+c2ecd5b9,281,1,177.53,1,3,2,6,Potential Loyalists
+c2eefc6e,8,1,266.2,4,3,3,10,Champions
+c2f278b8,196,1,471.95,2,3,4,9,Loyal Customers
+c3030da8,45,1,32.89,4,3,1,8,Loyal Customers
+c30630f7,60,1,436.56,4,3,4,11,Champions
+c33035c7,209,1,178.97,2,3,2,7,Potential Loyalists
+c34329e8,81,1,394.74,3,3,4,10,Champions
+c34605d2,51,1,430.43,4,3,4,11,Champions
+c38f4fcf,26,1,175.25,4,3,2,9,Loyal Customers
+c3a12e7a,168,1,47.29,2,3,1,6,Potential Loyalists
+c3a6ef65,247,1,169.29,1,4,2,7,Potential Loyalists
+c3d823f3,306,1,147.24,1,4,2,7,Potential Loyalists
+c3f8a8e7,237,1,121.36,2,4,2,8,Loyal Customers
+c41750b6,72,1,169.19,4,4,2,10,Champions
+c427ea12,55,1,66.74,4,4,1,9,Loyal Customers
+c4367af6,201,1,241.88,2,4,3,9,Loyal Customers
+c4486290,79,1,232.69,4,4,3,11,Champions
+c44b9ac7,127,1,372.23,3,4,4,11,Champions
+c44db413,326,1,152.16,1,4,2,7,Potential Loyalists
+c4710669,216,1,368.74,2,4,4,10,Champions
+c48e044f,187,1,334.08,2,4,4,10,Champions
+c49a098e,214,1,191.7,2,4,2,8,Loyal Customers
+c4a4411c,264,1,136.24,1,4,2,7,Potential Loyalists
+c4b18ff3,287,1,304.45,1,4,4,9,Loyal Customers
+c4c69b17,16,1,288.22,4,4,3,11,Champions
+c4d760c3,157,1,276.74,3,4,3,10,Champions
+c4eb27aa,176,1,409.6,2,4,4,10,Champions
+c502b838,195,1,421.74,2,4,4,10,Champions
+c51dd6f8,248,1,368.22,1,4,4,9,Loyal Customers
+c5226913,213,1,20.34,2,4,1,7,Potential Loyalists
+c53448d0,238,1,55.84,2,4,1,7,Potential Loyalists
+c5481eba,309,1,358.89,1,4,4,9,Loyal Customers
+c55dd505,9,1,208.98,4,4,3,11,Champions
+c5642517,163,1,166.91,3,4,2,9,Loyal Customers
+c5772653,220,1,158.64,2,4,2,8,Loyal Customers
+c5a1e762,62,1,392.8,4,4,4,12,Champions
+c5a6ecbd,106,1,335.82,3,4,4,11,Champions
+c5a98dc4,142,1,41.21,3,4,1,8,Loyal Customers
+c5bc43a2,94,1,31.79,3,4,1,8,Loyal Customers
+c5e1f66b,174,1,71.69,2,4,1,7,Potential Loyalists
+c5eb383c,303,1,404.6,1,4,4,9,Loyal Customers
+c640c4ac,122,1,235.22,3,4,3,10,Champions
+c6619369,179,1,163.4,2,4,2,8,Loyal Customers
+c66571e9,63,1,164.95,4,4,2,10,Champions
+c66e0a5f,36,1,394.82,4,4,4,12,Champions
+c6781108,46,1,195.53,4,4,2,10,Champions
+c68d813a,42,1,278.01,4,4,3,11,Champions
+c6952c07,87,1,220.51,3,4,3,10,Champions
+c6a0ee2a,153,1,405.05,3,4,4,11,Champions
+c6a1341f,180,1,320.83,2,4,4,10,Champions
+c6a2892f,173,1,21.39,2,4,1,7,Potential Loyalists
+c6b46864,257,1,471.92,1,4,4,9,Loyal Customers
+c6bd342a,93,1,275.45,3,4,3,10,Champions
+c6d36874,208,1,338.15,2,4,4,10,Champions
+c6e6b5cd,80,1,110.78,4,4,2,10,Champions
+c6e9c8a6,93,1,196.91,3,4,2,9,Loyal Customers
+c7022532,229,1,314.64,2,4,4,10,Champions
+c7060813,58,1,407.59,4,4,4,12,Champions
+c70d89cf,285,1,30.93,1,4,1,6,Potential Loyalists
+c7114204,283,1,11.02,1,4,1,6,Potential Loyalists
+c729f44a,243,1,390.11,2,4,4,10,Champions
+c731ecdc,177,1,245.57,2,4,3,9,Loyal Customers
+c73916c0,66,1,137.44,4,4,2,10,Champions
+c752d202,218,1,137.72,2,4,2,8,Loyal Customers
+c75e521c,167,1,362.26,2,4,4,10,Champions
+c78d307b,49,1,79.14,4,4,1,9,Loyal Customers
+c7978493,226,1,229.67,2,4,3,9,Loyal Customers
+c79b50d1,210,1,208.21,2,4,3,9,Loyal Customers
+c79eeec5,271,1,338.27,1,4,4,9,Loyal Customers
+c7be3edf,315,1,198.33,1,4,2,7,Potential Loyalists
+c7cd48dd,20,1,261.75,4,4,3,11,Champions
+c7fbbb37,116,1,357.75,3,4,4,11,Champions
+c814cdcc,231,1,340.9,2,4,4,10,Champions
+c84cf1d8,322,1,107.48,1,4,2,7,Potential Loyalists
+c87cdd9d,250,1,55.35,1,4,1,6,Potential Loyalists
+c88d310c,174,1,28.99,2,4,1,7,Potential Loyalists
+c894b2e1,316,1,62.82,1,4,1,6,Potential Loyalists
+c89e560f,183,1,137.79,2,4,2,8,Loyal Customers
+c8be2ec5,53,1,262.73,4,4,3,11,Champions
+c8c57043,180,1,331.79,2,4,4,10,Champions
+c8ca95d2,145,1,34.77,3,4,1,8,Loyal Customers
+c8d1da59,248,1,46.3,1,4,1,6,Potential Loyalists
+c8d33b31,207,1,372.44,2,4,4,10,Champions
+c8d53642,99,1,45.87,3,4,1,8,Loyal Customers
+c8d6d2c6,12,1,145.27,4,4,2,10,Champions
+c8e51376,198,1,116.03,2,4,2,8,Loyal Customers
+c904130b,319,1,272.78,1,4,3,8,Loyal Customers
+c9247b05,67,1,382.56,4,4,4,12,Champions
+c92d8776,19,1,128.38,4,4,2,10,Champions
+c93c18ba,325,1,280.75,1,4,3,8,Loyal Customers
+c94b1a1a,7,1,93.79,4,4,1,9,Loyal Customers
+c97b3e2d,318,1,479.54,1,4,4,9,Loyal Customers
+c981b672,178,1,177.11,2,4,2,8,Loyal Customers
+c98a91eb,10,1,30.87,4,4,1,9,Loyal Customers
+c9939103,173,1,49.98,2,4,1,7,Potential Loyalists
+c9964d37,281,1,223.27,1,4,3,8,Loyal Customers
+c9984620,184,1,265.3,2,4,3,9,Loyal Customers
+c9aec1e2,126,1,76.98,3,4,1,8,Loyal Customers
+c9aee337,22,1,188.69,4,4,2,10,Champions
+c9c10b75,9,1,128.68,4,4,2,10,Champions
+c9d0d662,61,1,318.33,4,4,4,12,Champions
+c9d51371,41,1,200.05,4,4,3,11,Champions
+c9e3855e,99,1,102.34,3,4,1,8,Loyal Customers
+c9e6f7ce,316,1,172.23,1,4,2,7,Potential Loyalists
+ca0054f1,73,1,326.25,4,4,4,12,Champions
+ca363a04,312,1,18.13,1,4,1,6,Potential Loyalists
+ca48ec71,232,1,80.71,2,4,1,7,Potential Loyalists
+ca58b84f,69,1,376.92,4,4,4,12,Champions
+ca624bb4,147,1,94.19,3,4,1,8,Loyal Customers
+ca6f4f5a,195,1,8.58,2,4,1,7,Potential Loyalists
+ca73e3ea,299,1,294.4,1,4,3,8,Loyal Customers
+ca8ce9be,189,1,290.08,2,4,3,9,Loyal Customers
+cab404e5,324,1,446.14,1,4,4,9,Loyal Customers
+caba820c,16,1,5.89,4,4,1,9,Loyal Customers
+cacbbe34,54,1,51.14,4,4,1,9,Loyal Customers
+caeb735f,116,1,103.8,3,4,1,8,Loyal Customers
+caf9113b,166,1,37.89,2,4,1,7,Potential Loyalists
+cafca141,218,1,94.5,2,4,1,7,Potential Loyalists
+cb0b0a9f,188,1,312.49,2,4,4,10,Champions
+cb21c984,277,1,150.73,1,4,2,7,Potential Loyalists
+cb22dc9d,1,1,403.2,4,4,4,12,Champions
+cb34921b,262,1,80.16,1,4,1,6,Potential Loyalists
+cb429a91,28,1,413.3,4,4,4,12,Champions
+cb6dff71,112,1,351.28,3,4,4,11,Champions
+cb79a803,242,1,315.8,2,4,4,10,Champions
+cb976f6f,146,1,60.7,3,4,1,8,Loyal Customers
+cc0dfe20,189,1,302.79,2,4,3,9,Loyal Customers
+cc1c878a,117,1,260.66,3,4,3,10,Champions
+cc22e521,212,1,92.95,2,4,1,7,Potential Loyalists
+cc24c3da,27,1,76.04,4,4,1,9,Loyal Customers
+cc2ae85d,115,1,260.81,3,4,3,10,Champions
+cc2c2a64,180,1,44.33,2,4,1,7,Potential Loyalists
+cc33391a,313,1,12.38,1,4,1,6,Potential Loyalists
+cc5a39bd,29,1,199.69,4,4,3,11,Champions
+cc672bd7,271,1,367.96,1,4,4,9,Loyal Customers
+cc7c3a16,144,1,182.36,3,4,2,9,Loyal Customers
+cc9a4a59,323,1,286.69,1,4,3,8,Loyal Customers
+cca2b172,210,1,13.81,2,4,1,7,Potential Loyalists
+ccab3064,185,1,36.21,2,4,1,7,Potential Loyalists
+ccc156ec,75,1,8.71,4,4,1,9,Loyal Customers
+ccdc4be0,14,1,320.72,4,4,4,12,Champions
+ccdec6cd,238,1,378.22,2,4,4,10,Champions
+cd11f9ff,293,1,92.09,1,4,1,6,Potential Loyalists
+cd1f4cd0,178,1,169.48,2,4,2,8,Loyal Customers
+cd23f9b3,127,1,388.66,3,4,4,11,Champions
+cd315692,85,1,457.75,3,4,4,11,Champions
+cd3d2fd4,248,1,383.25,1,4,4,9,Loyal Customers
+cd40736d,99,1,332.8,3,4,4,11,Champions
+cd42d714,33,1,65.67,4,4,1,9,Loyal Customers
+cd4393ab,89,1,301.02,3,4,3,10,Champions
+cd442b59,108,1,198.63,3,4,2,9,Loyal Customers
+cd59e65c,158,1,39.91,3,4,1,8,Loyal Customers
+cd986aff,100,1,283.97,3,4,3,10,Champions
+cd9edb10,298,1,262.49,1,4,3,8,Loyal Customers
+cdb8c480,52,1,81.1,4,4,1,9,Loyal Customers
+cdce35a4,109,1,171.71,3,4,2,9,Loyal Customers
+cdeb4b21,130,1,301.69,3,4,3,10,Champions
+cdf7235f,230,1,193.79,2,4,2,8,Loyal Customers
+ce00318c,184,1,296.3,2,4,3,9,Loyal Customers
+ce0380de,104,1,60.2,3,4,1,8,Loyal Customers
+ce065ab2,193,1,130.9,2,4,2,8,Loyal Customers
+ce0d70d2,119,1,43.43,3,4,1,8,Loyal Customers
+ce14a2e7,292,1,122.34,1,4,2,7,Potential Loyalists
+ce4f5068,254,1,30.02,1,4,1,6,Potential Loyalists
+ce5bc729,312,1,306.76,1,4,4,9,Loyal Customers
+ce69481e,235,1,178.12,2,4,2,8,Loyal Customers
+ce70660d,13,1,113.75,4,4,2,10,Champions
+ce7d898b,165,1,18.57,2,4,1,7,Potential Loyalists
+ce962901,163,1,99.78,3,4,1,8,Loyal Customers
+ce979d6e,277,1,221.76,1,4,3,8,Loyal Customers
+cea71fcf,201,1,92.56,2,4,1,7,Potential Loyalists
+cea988f2,11,1,258.99,4,4,3,11,Champions
+ceb520d0,32,1,231.76,4,4,3,11,Champions
+ced2cd43,83,1,349.15,3,4,4,11,Champions
+cf03c6d8,189,1,114.56,2,4,2,8,Loyal Customers
+cf052449,35,1,117.31,4,4,2,10,Champions
+cf1e2208,301,1,185.11,1,4,2,7,Potential Loyalists
+cf22fe3d,94,1,330.86,3,4,4,11,Champions
+cf29466e,49,1,281.85,4,4,3,11,Champions
+cf39e3b6,218,1,110.75,2,4,2,8,Loyal Customers
+cf41f109,17,1,39.76,4,4,1,9,Loyal Customers
+cf4ecbd8,325,1,381.42,1,4,4,9,Loyal Customers
+cf64defc,189,1,238.32,2,4,3,9,Loyal Customers
+cf78ab9a,146,1,354.11,3,4,4,11,Champions
+cf860583,203,1,82.94,2,4,1,7,Potential Loyalists
+cf924ab8,40,1,161.64,4,4,2,10,Champions
+cf929cc7,222,1,268.38,2,4,3,9,Loyal Customers
+cf9beee8,6,1,98.79,4,4,1,9,Loyal Customers
+cfbb2cc2,305,1,44.2,1,4,1,6,Potential Loyalists
+cfc35694,74,1,312.22,4,4,4,12,Champions
+cfd46626,186,1,360.87,2,4,4,10,Champions
+cfda6436,13,1,153.13,4,4,2,10,Champions
+cfe50543,285,1,264.43,1,4,3,8,Loyal Customers
+d0032e78,305,1,206.99,1,4,3,8,Loyal Customers
+d0086a7f,188,1,343.23,2,4,4,10,Champions
+d0138d14,14,1,97.14,4,4,1,9,Loyal Customers
+d040767a,218,1,200.66,2,4,3,9,Loyal Customers
+d0415285,99,1,85.09,3,4,1,8,Loyal Customers
+d04a109b,296,1,277.37,1,4,3,8,Loyal Customers
+d057cfbd,267,1,154.76,1,4,2,7,Potential Loyalists
+d05887e3,59,1,300.06,4,4,3,11,Champions
+d06eda6c,303,1,264.9,1,4,3,8,Loyal Customers
+d0756e35,33,1,31.63,4,4,1,9,Loyal Customers
+d0787b1a,290,1,463.79,1,4,4,9,Loyal Customers
+d0936e56,177,1,22.98,2,4,1,7,Potential Loyalists
+d09b44d1,34,1,95.15,4,4,1,9,Loyal Customers
+d0c6808a,161,1,122.1,3,4,2,9,Loyal Customers
+d0cca08b,131,1,155.46,3,4,2,9,Loyal Customers
+d0d5cc3f,43,1,117.54,4,4,2,10,Champions
+d0d5e3b0,261,1,335.2,1,4,4,9,Loyal Customers
+d0e8803c,175,1,50.12,2,4,1,7,Potential Loyalists
+d0efc96c,133,1,168.94,3,4,2,9,Loyal Customers
+d1192abc,300,1,340.41,1,4,4,9,Loyal Customers
+d1268d51,52,1,231.24,4,4,3,11,Champions
+d12bbb22,48,1,205.35,4,4,3,11,Champions
+d13afa90,31,1,305.9,4,4,4,12,Champions
+d13e8e69,127,1,159.98,3,4,2,9,Loyal Customers
+d1481060,36,1,334.27,4,4,4,12,Champions
+d1574c62,237,1,240.31,2,4,3,9,Loyal Customers
+d1616d3c,108,1,151.87,3,4,2,9,Loyal Customers
+d17ea8e2,303,1,298.89,1,4,3,8,Loyal Customers
+d1d182ee,83,1,29.79,3,4,1,8,Loyal Customers
+d1dd56ce,174,1,164.14,2,4,2,8,Loyal Customers
+d1ee12da,109,1,118.27,3,4,2,9,Loyal Customers
+d1f2a5ba,109,1,36.59,3,4,1,8,Loyal Customers
+d1fbf9ea,265,1,141.88,1,4,2,7,Potential Loyalists
+d20005d8,103,1,66.93,3,4,1,8,Loyal Customers
+d20acbb2,218,1,416.7,2,4,4,10,Champions
+d20bbc2b,138,1,105.58,3,4,2,9,Loyal Customers
+d22e24ba,181,1,73.46,2,4,1,7,Potential Loyalists
+d23c9a23,295,1,316.59,1,4,4,9,Loyal Customers
+d2522951,74,1,235.46,4,4,3,11,Champions
+d259d921,200,1,265.25,2,4,3,9,Loyal Customers
+d266a374,91,1,136.64,3,4,2,9,Loyal Customers
+d279b7f1,269,1,111.06,1,4,2,7,Potential Loyalists
+d285d9d3,43,1,267.03,4,4,3,11,Champions
+d290ed45,169,1,142.2,2,4,2,8,Loyal Customers
+d290f1f8,261,1,324.74,1,4,4,9,Loyal Customers
+d2933255,33,1,225.41,4,4,3,11,Champions
+d2b333f0,130,1,307.27,3,4,4,11,Champions
+d2cafe90,318,1,150.2,1,4,2,7,Potential Loyalists
+d2d4b9b3,318,1,263.11,1,4,3,8,Loyal Customers
+d2e8696a,59,1,183.22,4,4,2,10,Champions
+d30c4698,70,1,90.79,4,4,1,9,Loyal Customers
+d312906a,178,1,216.75,2,4,3,9,Loyal Customers
+d318e21f,116,1,81.03,3,4,1,8,Loyal Customers
+d32ae048,114,1,93.36,3,4,1,8,Loyal Customers
+d33a1a62,217,1,21.45,2,4,1,7,Potential Loyalists
+d35184fe,219,1,416.11,2,4,4,10,Champions
+d374b1f9,37,1,80.05,4,4,1,9,Loyal Customers
+d37b25da,108,1,322.42,3,4,4,11,Champions
+d3824307,250,1,234.9,1,4,3,8,Loyal Customers
+d38a19bf,287,1,186.23,1,4,2,7,Potential Loyalists
+d3af2e02,324,1,125.72,1,4,2,7,Potential Loyalists
+d3c564b9,266,1,168.21,1,4,2,7,Potential Loyalists
+d3df5089,311,1,146.99,1,4,2,7,Potential Loyalists
+d3e271bc,205,1,105.98,2,4,2,8,Loyal Customers
+d3f9e528,289,1,15.61,1,4,1,6,Potential Loyalists
+d4104c7b,9,1,136.4,4,4,2,10,Champions
+d4184040,41,1,35.94,4,4,1,9,Loyal Customers
+d41c2ce4,137,1,189.63,3,4,2,9,Loyal Customers
+d41d809e,174,1,198.29,2,4,2,8,Loyal Customers
+d420adeb,90,1,249.98,3,4,3,10,Champions
+d42bcbcb,130,1,347.12,3,4,4,11,Champions
+d4315620,202,1,168.01,2,4,2,8,Loyal Customers
+d4336610,2,1,316.13,4,4,4,12,Champions
+d43d0f46,80,1,128.95,4,4,2,10,Champions
+d4438986,168,1,388.57,2,4,4,10,Champions
+d4515858,301,1,313.68,1,4,4,9,Loyal Customers
+d45a9dbe,163,1,259.1,3,4,3,10,Champions
+d45acca2,221,1,283.15,2,4,3,9,Loyal Customers
+d48477b3,89,1,51.18,3,4,1,8,Loyal Customers
+d48d9f1f,269,1,317.06,1,4,4,9,Loyal Customers
+d492b6d9,161,1,62.15,3,4,1,8,Loyal Customers
+d49c1938,147,1,365.72,3,4,4,11,Champions
+d4aea824,276,1,316.03,1,4,4,9,Loyal Customers
+d4c421dd,103,1,233.86,3,4,3,10,Champions
+d4f497b2,293,1,431.29,1,4,4,9,Loyal Customers
+d51c7bc1,46,1,128.28,4,4,2,10,Champions
+d5498008,45,1,156.74,4,4,2,10,Champions
+d5762773,162,1,39.08,3,4,1,8,Loyal Customers
+d5a74f3f,264,1,253.97,1,4,3,8,Loyal Customers
+d5d1da0d,127,1,12.38,3,4,1,8,Loyal Customers
+d5d8192a,137,1,67.86,3,4,1,8,Loyal Customers
+d5daed7a,103,1,479.19,3,4,4,11,Champions
+d5fb8686,115,1,372.27,3,4,4,11,Champions
+d5fba1fa,157,1,312.27,3,4,4,11,Champions
+d609c578,184,1,411.94,2,4,4,10,Champions
+d60ab6ad,312,1,190.26,1,4,2,7,Potential Loyalists
+d60f1a32,323,1,125.84,1,4,2,7,Potential Loyalists
+d61eceec,291,1,199.75,1,4,3,8,Loyal Customers
+d627f474,21,1,442.51,4,4,4,12,Champions
+d6374469,224,1,117.44,2,4,2,8,Loyal Customers
+d646700c,32,1,484.56,4,4,4,12,Champions
+d655a92b,281,1,115.08,1,4,2,7,Potential Loyalists
+d689fa61,309,1,295.14,1,4,3,8,Loyal Customers
+d6a11b96,311,1,86.09,1,4,1,6,Potential Loyalists
+d6a3d49e,26,1,90.33,4,4,1,9,Loyal Customers
+d6b7aa1d,226,1,172.64,2,4,2,8,Loyal Customers
+d6b94141,166,1,147.71,2,4,2,8,Loyal Customers
+d6e39245,152,1,223.25,3,4,3,10,Champions
+d6e6e405,313,1,291.55,1,4,3,8,Loyal Customers
+d6e84fa8,259,1,21.56,1,4,1,6,Potential Loyalists
+d6ee8e2b,197,1,100.29,2,4,1,7,Potential Loyalists
+d6f46477,2,1,361.62,4,4,4,12,Champions
+d71147c9,234,1,417.94,2,4,4,10,Champions
+d7118880,154,1,141.64,3,4,2,9,Loyal Customers
+d71af9e5,147,1,209.08,3,4,3,10,Champions
+d71ca896,273,1,46.08,1,4,1,6,Potential Loyalists
+d726fd8b,221,1,264.94,2,4,3,9,Loyal Customers
+d72ba85d,273,1,291.84,1,4,3,8,Loyal Customers
+d7329afe,43,1,19.08,4,4,1,9,Loyal Customers
+d73be10e,169,1,254.76,2,4,3,9,Loyal Customers
+d7517ae4,197,1,268.79,2,4,3,9,Loyal Customers
+d763b012,170,1,13.69,2,4,1,7,Potential Loyalists
+d76e19c6,231,1,402.68,2,4,4,10,Champions
+d799d699,156,1,369.15,3,4,4,11,Champions
+d79e7736,89,1,39.85,3,4,1,8,Loyal Customers
+d7a17cb0,193,1,420.85,2,4,4,10,Champions
+d7c5fdbb,303,1,14.0,1,4,1,6,Potential Loyalists
+d7f5f0b0,82,1,237.76,3,4,3,10,Champions
+d7f9020a,263,1,383.36,1,4,4,9,Loyal Customers
+d80ab524,197,1,94.91,2,4,1,7,Potential Loyalists
+d80ad3eb,258,1,31.56,1,4,1,6,Potential Loyalists
+d80cb54a,101,1,117.24,3,4,2,9,Loyal Customers
+d817723a,193,1,131.83,2,4,2,8,Loyal Customers
+d81b895d,201,1,239.54,2,4,3,9,Loyal Customers
+d833241e,235,1,350.73,2,4,4,10,Champions
+d8332547,324,1,82.97,1,4,1,6,Potential Loyalists
+d8537c7d,281,1,144.91,1,4,2,7,Potential Loyalists
+d8661551,301,1,129.7,1,4,2,7,Potential Loyalists
+d87a2060,325,1,11.54,1,4,1,6,Potential Loyalists
+d895edc8,74,1,102.58,4,4,1,9,Loyal Customers
+d8970dd2,250,1,493.04,1,4,4,9,Loyal Customers
+d8adad87,45,1,44.29,4,4,1,9,Loyal Customers
+d8b248a8,230,1,412.27,2,4,4,10,Champions
+d8d9cf8b,38,1,82.84,4,4,1,9,Loyal Customers
+d8e5dd07,235,1,66.86,2,4,1,7,Potential Loyalists
+d8e741ba,150,1,407.91,3,4,4,11,Champions
+d8e74ba4,248,1,191.24,1,4,2,7,Potential Loyalists
+d8e94022,131,1,36.39,3,4,1,8,Loyal Customers
+d9028424,212,1,13.94,2,4,1,7,Potential Loyalists
+d90a3d96,43,1,97.39,4,4,1,9,Loyal Customers
+d912b7eb,101,1,252.85,3,4,3,10,Champions
+d91f5633,216,1,467.8,2,4,4,10,Champions
+d930502c,45,1,293.62,4,4,3,11,Champions
+d9345bed,154,1,170.64,3,4,2,9,Loyal Customers
+d94f7995,309,1,111.69,1,4,2,7,Potential Loyalists
+d95237bb,214,1,246.39,2,4,3,9,Loyal Customers
+d960a0a3,138,1,87.7,3,4,1,8,Loyal Customers
+d97962d1,122,1,177.03,3,4,2,9,Loyal Customers
+d995d10a,257,1,80.67,1,4,1,6,Potential Loyalists
+d9a0217a,245,1,293.43,1,4,3,8,Loyal Customers
+d9a17f42,76,1,132.88,4,4,2,10,Champions
+d9b16d55,286,1,149.93,1,4,2,7,Potential Loyalists
+d9b27cae,60,1,214.57,4,4,3,11,Champions
+d9b6aafd,24,1,166.68,4,4,2,10,Champions
+d9b8e81b,121,1,93.42,3,4,1,8,Loyal Customers
+d9c0aa17,326,1,27.62,1,4,1,6,Potential Loyalists
+d9c4fc09,47,1,122.67,4,4,2,10,Champions
+d9d623b5,171,1,302.59,2,4,3,9,Loyal Customers
+d9d6eb5d,320,1,252.33,1,4,3,8,Loyal Customers
+da4f8e3e,110,1,219.34,3,4,3,10,Champions
+da638daf,322,1,25.69,1,4,1,6,Potential Loyalists
+da787021,316,1,195.58,1,4,2,7,Potential Loyalists
+da7bc76a,325,1,492.41,1,4,4,9,Loyal Customers
+da7c3445,222,1,200.15,2,4,3,9,Loyal Customers
+da8e2fdc,238,1,428.66,2,4,4,10,Champions
+daa878b0,182,1,467.12,2,4,4,10,Champions
+dabe2577,326,1,280.19,1,4,3,8,Loyal Customers
+dadef6c9,297,1,328.06,1,4,4,9,Loyal Customers
+db0be3ef,91,1,236.53,3,4,3,10,Champions
+db220edd,217,1,233.29,2,4,3,9,Loyal Customers
+db686a27,278,1,157.86,1,4,2,7,Potential Loyalists
+db68c3eb,246,1,450.17,1,4,4,9,Loyal Customers
+db704f77,273,1,153.01,1,4,2,7,Potential Loyalists
+db854f27,164,1,119.8,2,4,2,8,Loyal Customers
+db89ad76,140,1,393.1,3,4,4,11,Champions
+dbcb14fc,133,1,101.83,3,4,1,8,Loyal Customers
+dbea38e1,238,1,287.01,2,4,3,9,Loyal Customers
+dbf58ab7,252,1,11.26,1,4,1,6,Potential Loyalists
+dc061c43,107,1,32.24,3,4,1,8,Loyal Customers
+dc0b7ad8,142,1,272.16,3,4,3,10,Champions
+dc0c9f8d,211,1,241.17,2,4,3,9,Loyal Customers
+dc0dbfa8,66,1,303.34,4,4,3,11,Champions
+dc0f7097,46,1,48.08,4,4,1,9,Loyal Customers
+dc1a6629,170,1,73.64,2,4,1,7,Potential Loyalists
+dc5953be,304,1,162.67,1,4,2,7,Potential Loyalists
+dc5e478b,33,1,112.77,4,4,2,10,Champions
+dc69c849,129,1,110.95,3,4,2,9,Loyal Customers
+dc708102,56,1,99.66,4,4,1,9,Loyal Customers
+dc743e0d,15,1,313.85,4,4,4,12,Champions
+dca155eb,97,1,238.53,3,4,3,10,Champions
+dcaca6db,18,1,257.67,4,4,3,11,Champions
+dcb8e001,287,1,247.08,1,4,3,8,Loyal Customers
+dcd66030,103,1,196.39,3,4,2,9,Loyal Customers
+dcde3dc0,8,1,349.68,4,4,4,12,Champions
+dce09756,21,1,246.59,4,4,3,11,Champions
+dce2214a,99,1,16.57,3,4,1,8,Loyal Customers
+dce5dd34,24,1,311.34,4,4,4,12,Champions
+dce9df30,27,1,265.95,4,4,3,11,Champions
+dcec950f,27,1,55.64,4,4,1,9,Loyal Customers
+dcefc553,99,1,453.41,3,4,4,11,Champions
+dcf4a9c1,155,1,313.61,3,4,4,11,Champions
+dcfc3adc,191,1,46.52,2,4,1,7,Potential Loyalists
+dd08c8a2,266,1,307.51,1,4,4,9,Loyal Customers
+dd2c6eea,318,1,219.9,1,4,3,8,Loyal Customers
+dd3554fc,254,1,189.36,1,4,2,7,Potential Loyalists
+dd3d04ab,166,1,293.86,2,4,3,9,Loyal Customers
+dd556e28,174,1,448.07,2,4,4,10,Champions
+dd6f3a7f,227,1,59.97,2,4,1,7,Potential Loyalists
+dd7cd6f2,110,1,186.29,3,4,2,9,Loyal Customers
+dd8674d1,192,1,61.96,2,4,1,7,Potential Loyalists
+dd88caa9,260,1,356.47,1,4,4,9,Loyal Customers
+dd89f628,215,1,109.59,2,4,2,8,Loyal Customers
+dd8e5c2a,276,1,174.23,1,4,2,7,Potential Loyalists
+dd9f4e5f,246,1,186.52,1,4,2,7,Potential Loyalists
+ddae0858,256,1,74.46,1,4,1,6,Potential Loyalists
+ddb4486a,23,1,358.24,4,4,4,12,Champions
+ddcb54d3,296,1,401.86,1,4,4,9,Loyal Customers
+ddd43296,203,1,86.46,2,4,1,7,Potential Loyalists
+dde45136,251,1,123.71,1,4,2,7,Potential Loyalists
+ddeec1fb,322,1,93.6,1,4,1,6,Potential Loyalists
+de0683d6,246,1,321.83,1,4,4,9,Loyal Customers
+de1d3a1e,73,1,167.26,4,4,2,10,Champions
+de21a529,121,1,260.11,3,4,3,10,Champions
+de4cdcdd,247,1,20.39,1,4,1,6,Potential Loyalists
+de6605d5,132,1,45.73,3,4,1,8,Loyal Customers
+de7e833d,88,1,468.14,3,4,4,11,Champions
+de85b962,289,1,183.11,1,4,2,7,Potential Loyalists
+de8c7e00,174,1,153.38,2,4,2,8,Loyal Customers
+deaef9d5,42,1,15.54,4,4,1,9,Loyal Customers
+deb7df38,239,1,16.09,2,4,1,7,Potential Loyalists
+dee35fc3,102,1,50.36,3,4,1,8,Loyal Customers
+def9391b,247,1,337.58,1,4,4,9,Loyal Customers
+df026444,32,1,103.42,4,4,1,9,Loyal Customers
+df2ac223,53,1,187.03,4,4,2,10,Champions
+df3c4407,163,1,294.63,3,4,3,10,Champions
+df564d61,75,1,388.6,4,4,4,12,Champions
+df5ea820,85,1,37.43,3,4,1,8,Loyal Customers
+df6c7670,227,1,44.89,2,4,1,7,Potential Loyalists
+df836a74,172,1,320.08,2,4,4,10,Champions
+df90d7c9,67,1,204.91,4,4,3,11,Champions
+df980ec1,263,1,210.16,1,4,3,8,Loyal Customers
+df9db226,81,1,178.95,3,4,2,9,Loyal Customers
+dfa876d1,28,1,106.98,4,4,2,10,Champions
+dfa87884,136,1,205.14,3,4,3,10,Champions
+dfb1c808,58,1,66.82,4,4,1,9,Loyal Customers
+dfb53be4,311,1,398.93,1,4,4,9,Loyal Customers
+dfb9395f,84,1,220.26,3,4,3,10,Champions
+dff5463c,65,1,393.91,4,4,4,12,Champions
+e021ffd9,276,1,51.61,1,4,1,6,Potential Loyalists
+e0253d12,3,1,56.34,4,4,1,9,Loyal Customers
+e03911fb,116,1,213.77,3,4,3,10,Champions
+e03f2fdc,218,1,18.66,2,4,1,7,Potential Loyalists
+e041ced0,271,1,163.19,1,4,2,7,Potential Loyalists
+e0424124,299,1,81.18,1,4,1,6,Potential Loyalists
+e04ffe82,267,1,42.7,1,4,1,6,Potential Loyalists
+e05135b9,82,1,123.37,3,4,2,9,Loyal Customers
+e0682864,111,1,142.16,3,4,2,9,Loyal Customers
+e06e1b01,284,1,131.4,1,4,2,7,Potential Loyalists
+e077268b,317,1,133.85,1,4,2,7,Potential Loyalists
+e08353ad,165,1,358.56,2,4,4,10,Champions
+e0960b4d,206,1,26.94,2,4,1,7,Potential Loyalists
+e0a14854,195,1,172.89,2,4,2,8,Loyal Customers
+e0b80ab2,190,1,349.94,2,4,4,10,Champions
+e0cfaad0,293,1,106.21,1,4,2,7,Potential Loyalists
+e0d4ca51,247,1,186.67,1,4,2,7,Potential Loyalists
+e0f55269,59,1,180.6,4,4,2,10,Champions
+e10e5ae0,195,1,340.48,2,4,4,10,Champions
+e1310511,323,1,38.09,1,4,1,6,Potential Loyalists
+e14e962f,136,1,257.52,3,4,3,10,Champions
+e186c635,31,1,202.26,4,4,3,11,Champions
+e1b810f9,28,1,332.94,4,4,4,12,Champions
+e1b8ee3b,214,1,292.35,2,4,3,9,Loyal Customers
+e1c29bb9,267,1,67.02,1,4,1,6,Potential Loyalists
+e1e7e360,65,1,54.8,4,4,1,9,Loyal Customers
+e1fa3fe4,140,1,36.02,3,4,1,8,Loyal Customers
+e207d13a,272,1,58.62,1,4,1,6,Potential Loyalists
+e2130e66,273,1,392.76,1,4,4,9,Loyal Customers
+e21a486c,226,1,37.83,2,4,1,7,Potential Loyalists
+e21f5fd1,126,1,425.78,3,4,4,11,Champions
+e2356d8b,254,1,79.89,1,4,1,6,Potential Loyalists
+e235eaa8,294,1,359.28,1,4,4,9,Loyal Customers
+e23fb2d5,163,1,260.45,3,4,3,10,Champions
+e26fb2b1,186,1,181.2,2,4,2,8,Loyal Customers
+e2887ed0,95,1,241.56,3,4,3,10,Champions
+e2a4a7db,77,1,296.95,4,4,3,11,Champions
+e2b06600,46,1,22.42,4,4,1,9,Loyal Customers
+e2d534fc,153,1,157.58,3,4,2,9,Loyal Customers
+e2d9e617,317,1,54.59,1,4,1,6,Potential Loyalists
+e2f51045,182,1,263.25,2,4,3,9,Loyal Customers
+e3181955,93,1,361.15,3,4,4,11,Champions
+e36f2bb0,209,1,53.3,2,4,1,7,Potential Loyalists
+e372861d,25,1,196.95,4,4,2,10,Champions
+e37338ed,186,1,233.79,2,4,3,9,Loyal Customers
+e37ad791,288,1,253.52,1,4,3,8,Loyal Customers
+e38b857a,223,1,208.82,2,4,3,9,Loyal Customers
+e3949f2a,270,1,71.2,1,4,1,6,Potential Loyalists
+e3a22f45,162,1,107.39,3,4,2,9,Loyal Customers
+e3bbe9a3,127,1,428.84,3,4,4,11,Champions
+e3c0569a,17,1,203.69,4,4,3,11,Champions
+e3c4830d,91,1,220.15,3,4,3,10,Champions
+e3f9922a,174,1,193.0,2,4,2,8,Loyal Customers
+e3fa60e2,126,1,408.29,3,4,4,11,Champions
+e4259534,83,1,421.63,3,4,4,11,Champions
+e426ec00,15,1,427.96,4,4,4,12,Champions
+e44a3f1b,236,1,85.54,2,4,1,7,Potential Loyalists
+e4503649,209,1,132.85,2,4,2,8,Loyal Customers
+e452c507,209,1,58.89,2,4,1,7,Potential Loyalists
+e45dfd34,212,1,73.67,2,4,1,7,Potential Loyalists
+e45edb68,9,1,408.73,4,4,4,12,Champions
+e4637540,45,1,110.91,4,4,2,10,Champions
+e47754a9,136,1,336.7,3,4,4,11,Champions
+e47fbc15,212,1,83.16,2,4,1,7,Potential Loyalists
+e4818739,201,1,278.65,2,4,3,9,Loyal Customers
+e4985f97,97,1,193.05,3,4,2,9,Loyal Customers
+e49bbd21,278,1,30.83,1,4,1,6,Potential Loyalists
+e4aa32a0,224,1,245.53,2,4,3,9,Loyal Customers
+e4ab10c7,42,1,45.0,4,4,1,9,Loyal Customers
+e4b9a3e4,319,1,91.27,1,4,1,6,Potential Loyalists
+e4c02adc,116,1,228.77,3,4,3,10,Champions
+e4c9e2e8,239,1,441.72,2,4,4,10,Champions
+e4cf6aad,23,1,386.07,4,4,4,12,Champions
+e4d80260,191,1,176.46,2,4,2,8,Loyal Customers
+e4ed1209,147,1,107.85,3,4,2,9,Loyal Customers
+e4fddc69,287,1,306.09,1,4,4,9,Loyal Customers
+e513db7b,241,1,342.7,2,4,4,10,Champions
+e51f7ec4,51,1,9.95,4,4,1,9,Loyal Customers
+e52c19c1,67,1,380.14,4,4,4,12,Champions
+e540ae75,69,1,243.03,4,4,3,11,Champions
+e54968ff,280,1,226.69,1,4,3,8,Loyal Customers
+e54b0416,79,1,340.79,4,4,4,12,Champions
+e54feec5,96,1,229.02,3,4,3,10,Champions
+e57349d9,29,1,254.25,4,4,3,11,Champions
+e57a5769,300,1,72.11,1,4,1,6,Potential Loyalists
+e5964ecd,233,1,257.85,2,4,3,9,Loyal Customers
+e597f5d5,207,1,17.46,2,4,1,7,Potential Loyalists
+e5a5e18d,262,1,373.99,1,4,4,9,Loyal Customers
+e5a8c4fa,38,1,304.81,4,4,4,12,Champions
+e5c11c0b,126,1,94.83,3,4,1,8,Loyal Customers
+e5ce3b3c,305,1,374.35,1,4,4,9,Loyal Customers
+e5d18746,176,1,228.69,2,4,3,9,Loyal Customers
+e5df4881,135,1,35.93,3,4,1,8,Loyal Customers
+e608beb8,168,1,81.38,2,4,1,7,Potential Loyalists
+e6090c66,248,1,264.29,1,4,3,8,Loyal Customers
+e616fbf7,174,1,127.78,2,4,2,8,Loyal Customers
+e6296714,246,1,58.11,1,4,1,6,Potential Loyalists
+e651377e,182,1,11.91,2,4,1,7,Potential Loyalists
+e65b50eb,297,1,24.51,1,4,1,6,Potential Loyalists
+e6659f20,84,1,295.48,3,4,3,10,Champions
+e69f4d59,225,1,262.39,2,4,3,9,Loyal Customers
+e6a28a9a,253,1,12.77,1,4,1,6,Potential Loyalists
+e6a4031d,163,1,353.08,3,4,4,11,Champions
+e6b61602,320,1,187.16,1,4,2,7,Potential Loyalists
+e6cbe081,234,1,394.16,2,4,4,10,Champions
+e6d67df5,45,1,225.72,4,4,3,11,Champions
+e6e322f8,272,1,223.5,1,4,3,8,Loyal Customers
+e6ee5109,91,1,96.42,3,4,1,8,Loyal Customers
+e6ef2c9f,129,1,72.93,3,4,1,8,Loyal Customers
+e70186b8,186,1,20.01,2,4,1,7,Potential Loyalists
+e703a85c,220,1,242.9,2,4,3,9,Loyal Customers
+e71626bf,199,1,107.53,2,4,2,8,Loyal Customers
+e71a6cd8,134,1,350.87,3,4,4,11,Champions
+e724bac8,314,1,336.97,1,4,4,9,Loyal Customers
+e7267a38,284,1,186.63,1,4,2,7,Potential Loyalists
+e733dc52,166,1,58.76,2,4,1,7,Potential Loyalists
+e7346b49,183,1,302.85,2,4,3,9,Loyal Customers
+e734cf71,310,1,100.78,1,4,1,6,Potential Loyalists
+e73ad07c,222,1,165.04,2,4,2,8,Loyal Customers
+e7975539,27,1,222.86,4,4,3,11,Champions
+e7a1a25e,137,1,58.97,3,4,1,8,Loyal Customers
+e7b3665a,321,1,126.75,1,4,2,7,Potential Loyalists
+e7b928bc,193,1,359.49,2,4,4,10,Champions
+e7ba49df,10,1,319.53,4,4,4,12,Champions
+e7c1bef5,171,1,100.81,2,4,1,7,Potential Loyalists
+e7dc9f25,168,1,410.5,2,4,4,10,Champions
+e7e2b27c,272,1,194.27,1,4,2,7,Potential Loyalists
+e7eab712,171,1,141.27,2,4,2,8,Loyal Customers
+e8285de5,231,1,178.81,2,4,2,8,Loyal Customers
+e831f6b4,312,1,37.34,1,4,1,6,Potential Loyalists
+e8492835,171,1,191.81,2,4,2,8,Loyal Customers
+e8613d9e,183,1,274.24,2,4,3,9,Loyal Customers
+e86cf289,210,1,198.21,2,4,2,8,Loyal Customers
+e878819f,46,1,151.36,4,4,2,10,Champions
+e87be34e,224,1,360.76,2,4,4,10,Champions
+e88f788c,136,1,323.83,3,4,4,11,Champions
+e8a5a7d6,268,1,251.23,1,4,3,8,Loyal Customers
+e8a90aab,225,1,280.98,2,4,3,9,Loyal Customers
+e8aaaa1f,323,1,248.99,1,4,3,8,Loyal Customers
+e8ac7f4d,272,1,237.05,1,4,3,8,Loyal Customers
+e8b9a378,217,1,12.58,2,4,1,7,Potential Loyalists
+e8c697cd,71,1,247.73,4,4,3,11,Champions
+e8db0cc2,133,1,147.1,3,4,2,9,Loyal Customers
+e8e2315a,248,1,382.07,1,4,4,9,Loyal Customers
+e8e7e07b,292,1,205.8,1,4,3,8,Loyal Customers
+e8e91d15,242,1,31.59,2,4,1,7,Potential Loyalists
+e8f282f4,121,1,113.22,3,4,2,9,Loyal Customers
+e90aeb07,189,1,114.79,2,4,2,8,Loyal Customers
+e92363ff,288,1,14.29,1,4,1,6,Potential Loyalists
+e93602da,58,1,193.74,4,4,2,10,Champions
+e9390573,14,1,351.4,4,4,4,12,Champions
+e953a168,112,1,106.33,3,4,2,9,Loyal Customers
+e9541774,236,1,129.36,2,4,2,8,Loyal Customers
+e95af48a,306,1,199.44,1,4,3,8,Loyal Customers
+e9786a6d,146,1,46.48,3,4,1,8,Loyal Customers
+e9ad7995,293,1,124.0,1,4,2,7,Potential Loyalists
+e9b7da04,59,1,355.36,4,4,4,12,Champions
+e9be0cb1,268,1,207.06,1,4,3,8,Loyal Customers
+e9fc3b5d,37,1,317.43,4,4,4,12,Champions
+e9fde811,232,1,217.8,2,4,3,9,Loyal Customers
+ea39eefb,238,1,35.15,2,4,1,7,Potential Loyalists
+ea3feaf3,176,1,249.98,2,4,3,9,Loyal Customers
+ea529ab7,71,1,46.1,4,4,1,9,Loyal Customers
+ea60235a,233,1,289.22,2,4,3,9,Loyal Customers
+ea6fd1f7,40,1,333.23,4,4,4,12,Champions
+ea94aad2,74,1,140.57,4,4,2,10,Champions
+eabb8e22,280,1,244.07,1,4,3,8,Loyal Customers
+eaca4fa0,172,1,134.87,2,4,2,8,Loyal Customers
+eae2f779,153,1,137.59,3,4,2,9,Loyal Customers
+eb01d335,315,1,104.62,1,4,2,7,Potential Loyalists
+eb1911f4,312,1,120.88,1,4,2,7,Potential Loyalists
+eb342dbe,295,1,109.78,1,4,2,7,Potential Loyalists
+eb44303b,139,1,293.43,3,4,3,10,Champions
+eb4735e3,10,1,106.83,4,4,2,10,Champions
+eb5366bb,298,1,264.55,1,4,3,8,Loyal Customers
+eb5ebf37,236,1,190.6,2,4,2,8,Loyal Customers
+eb65d1ca,89,1,234.13,3,4,3,10,Champions
+eb72f968,122,1,52.18,3,4,1,8,Loyal Customers
+eb8345db,200,1,213.22,2,4,3,9,Loyal Customers
+eb93c677,154,1,171.82,3,4,2,9,Loyal Customers
+eb962cf1,190,1,69.62,2,4,1,7,Potential Loyalists
+ebbfafc3,199,1,320.14,2,4,4,10,Champions
+ebce6cad,6,1,71.75,4,4,1,9,Loyal Customers
+ebd4488c,227,1,24.44,2,4,1,7,Potential Loyalists
+ebded5a7,253,1,221.04,1,4,3,8,Loyal Customers
+ebe00762,179,1,80.95,2,4,1,7,Potential Loyalists
+ebf19184,56,1,170.1,4,4,2,10,Champions
+ec022a3c,104,1,465.64,3,4,4,11,Champions
+ec1b92c2,54,1,158.04,4,4,2,10,Champions
+ec2e8c2b,30,1,273.95,4,4,3,11,Champions
+ec38f4fa,282,1,376.98,1,4,4,9,Loyal Customers
+ec4f4397,198,1,190.96,2,4,2,8,Loyal Customers
+ec61371d,215,1,213.95,2,4,3,9,Loyal Customers
+ec6cf96c,61,1,42.68,4,4,1,9,Loyal Customers
+ec701be3,54,1,338.11,4,4,4,12,Champions
+ec750276,34,1,358.13,4,4,4,12,Champions
+ecaeb17c,36,1,283.64,4,4,3,11,Champions
+ecbb43d3,60,1,332.42,4,4,4,12,Champions
+ecbf0669,238,1,198.64,2,4,2,8,Loyal Customers
+eccbc70c,189,1,337.1,2,4,4,10,Champions
+ed00aa00,306,1,203.06,1,4,3,8,Loyal Customers
+ed127a6a,306,1,49.46,1,4,1,6,Potential Loyalists
+ed1329e5,167,1,52.6,2,4,1,7,Potential Loyalists
+ed1abea9,50,1,178.61,4,4,2,10,Champions
+ed1ebaa0,308,1,101.41,1,4,1,6,Potential Loyalists
+ed2e3289,293,1,96.96,1,4,1,6,Potential Loyalists
+ed460c68,261,1,127.28,1,4,2,7,Potential Loyalists
+ed4b302d,128,1,217.77,3,4,3,10,Champions
+ed518f41,154,1,19.42,3,4,1,8,Loyal Customers
+ed543573,50,1,248.26,4,4,3,11,Champions
+ed69d7a0,193,1,133.0,2,4,2,8,Loyal Customers
+ed711917,142,1,382.3,3,4,4,11,Champions
+ed799954,233,1,395.46,2,4,4,10,Champions
+ed87a707,291,1,176.3,1,4,2,7,Potential Loyalists
+ed900f52,318,1,321.92,1,4,4,9,Loyal Customers
+edaea13b,146,1,382.19,3,4,4,11,Champions
+edb89577,130,1,480.49,3,4,4,11,Champions
+edc1d507,296,1,97.82,1,4,1,6,Potential Loyalists
+edf788be,10,1,28.29,4,4,1,9,Loyal Customers
+edf95866,315,1,205.54,1,4,3,8,Loyal Customers
+edfc7dec,15,1,86.91,4,4,1,9,Loyal Customers
+ee01470d,216,1,334.13,2,4,4,10,Champions
+ee1350fc,51,1,464.61,4,4,4,12,Champions
+ee2735fb,265,1,365.37,1,4,4,9,Loyal Customers
+ee2a2250,173,1,27.01,2,4,1,7,Potential Loyalists
+ee300046,108,1,59.8,3,4,1,8,Loyal Customers
+ee51a889,65,1,277.72,4,4,3,11,Champions
+ee84c4d8,191,1,7.33,2,4,1,7,Potential Loyalists
+eeac60e5,26,1,193.8,4,4,2,10,Champions
+eed1708f,238,1,53.2,2,4,1,7,Potential Loyalists
+ef040b5e,246,1,281.27,1,4,3,8,Loyal Customers
+ef2a5e35,40,1,25.76,4,4,1,9,Loyal Customers
+ef2f2796,119,1,39.21,3,4,1,8,Loyal Customers
+ef496fef,19,1,254.87,4,4,3,11,Champions
+ef5bf3b6,246,1,282.15,1,4,3,8,Loyal Customers
+ef63128f,210,1,78.14,2,4,1,7,Potential Loyalists
+ef8a9fed,5,1,218.11,4,4,3,11,Champions
+ef989073,292,1,89.29,1,4,1,6,Potential Loyalists
+ef9c5215,184,1,331.47,2,4,4,10,Champions
+ef9fbda4,78,1,161.94,4,4,2,10,Champions
+efaf3f1e,244,1,190.22,1,4,2,7,Potential Loyalists
+efb78e51,277,1,23.66,1,4,1,6,Potential Loyalists
+efcf43d8,164,1,237.42,2,4,3,9,Loyal Customers
+efd66d9f,119,1,86.42,3,4,1,8,Loyal Customers
+efe70bb7,320,1,132.7,1,4,2,7,Potential Loyalists
+effad494,285,1,207.79,1,4,3,8,Loyal Customers
+f007a18c,267,1,161.34,1,4,2,7,Potential Loyalists
+f00862a4,320,1,373.44,1,4,4,9,Loyal Customers
+f01b43f7,283,1,193.02,1,4,2,7,Potential Loyalists
+f01ebb7e,254,1,95.79,1,4,1,6,Potential Loyalists
+f0241946,228,1,226.56,2,4,3,9,Loyal Customers
+f027621a,121,1,125.7,3,4,2,9,Loyal Customers
+f062dd23,266,1,242.93,1,4,3,8,Loyal Customers
+f06f2d9e,239,1,459.17,2,4,4,10,Champions
+f12658a2,258,1,63.97,1,4,1,6,Potential Loyalists
+f1327a62,307,1,75.3,1,4,1,6,Potential Loyalists
+f1345c3d,57,1,391.14,4,4,4,12,Champions
+f144573f,220,1,368.6,2,4,4,10,Champions
+f145c04d,44,1,215.06,4,4,3,11,Champions
+f14cd9dc,105,1,467.24,3,4,4,11,Champions
+f1733214,253,1,27.14,1,4,1,6,Potential Loyalists
+f17e39c3,64,1,21.25,4,4,1,9,Loyal Customers
+f1807b8c,152,1,74.66,3,4,1,8,Loyal Customers
+f196dcc8,276,1,423.81,1,4,4,9,Loyal Customers
+f198455a,260,1,245.58,1,4,3,8,Loyal Customers
+f19d241b,107,1,236.59,3,4,3,10,Champions
+f1ae0592,288,1,406.69,1,4,4,9,Loyal Customers
+f1c5f192,21,1,56.86,4,4,1,9,Loyal Customers
+f1cbd9ed,110,1,115.75,3,4,2,9,Loyal Customers
+f1cc2d2c,147,1,195.46,3,4,2,9,Loyal Customers
+f1d4d1d3,21,1,416.1,4,4,4,12,Champions
+f1dc18ef,111,1,232.35,3,4,3,10,Champions
+f1f41f6b,84,1,109.94,3,4,2,9,Loyal Customers
+f1fd4710,188,1,205.03,2,4,3,9,Loyal Customers
+f227caa1,152,1,345.75,3,4,4,11,Champions
+f25423e1,88,1,320.24,3,4,4,11,Champions
+f25a81cc,156,1,62.16,3,4,1,8,Loyal Customers
+f26ee426,96,1,448.15,3,4,4,11,Champions
+f27e1207,90,1,373.39,3,4,4,11,Champions
+f2958613,118,1,159.77,3,4,2,9,Loyal Customers
+f2a41f18,110,1,195.34,3,4,2,9,Loyal Customers
+f2c0a566,252,1,428.47,1,4,4,9,Loyal Customers
+f2c1aeec,39,1,322.49,4,4,4,12,Champions
+f2df6fa0,30,1,364.52,4,4,4,12,Champions
+f2e4ad50,7,1,176.87,4,4,2,10,Champions
+f2e7bcc0,68,1,404.77,4,4,4,12,Champions
+f30003fb,147,1,238.75,3,4,3,10,Champions
+f30aa764,277,1,70.5,1,4,1,6,Potential Loyalists
+f3372a06,285,1,418.85,1,4,4,9,Loyal Customers
+f33c5a33,23,1,119.9,4,4,2,10,Champions
+f3431ec8,106,1,336.74,3,4,4,11,Champions
+f3498014,101,1,153.8,3,4,2,9,Loyal Customers
+f3b73afc,274,1,346.42,1,4,4,9,Loyal Customers
+f3bd0c9c,53,1,54.61,4,4,1,9,Loyal Customers
+f3cc28a1,29,1,345.66,4,4,4,12,Champions
+f3e197f3,233,1,146.61,2,4,2,8,Loyal Customers
+f3e36ce3,179,1,65.08,2,4,1,7,Potential Loyalists
+f3ee36a5,291,1,271.39,1,4,3,8,Loyal Customers
+f3fbacfa,243,1,277.74,2,4,3,9,Loyal Customers
+f40a9b6d,268,1,79.38,1,4,1,6,Potential Loyalists
+f41adbe9,27,1,168.44,4,4,2,10,Champions
+f422fc68,172,1,96.54,2,4,1,7,Potential Loyalists
+f42d759a,221,1,165.26,2,4,2,8,Loyal Customers
+f43f409f,238,1,45.34,2,4,1,7,Potential Loyalists
+f444bdd4,178,1,188.57,2,4,2,8,Loyal Customers
+f4518d7a,79,1,264.04,4,4,3,11,Champions
+f4658b9f,287,1,163.52,1,4,2,7,Potential Loyalists
+f49fc9d3,221,1,245.88,2,4,3,9,Loyal Customers
+f4d0aa67,80,1,172.66,4,4,2,10,Champions
+f4d21e00,21,1,338.89,4,4,4,12,Champions
+f4d46444,256,1,296.79,1,4,3,8,Loyal Customers
+f4d7018c,231,1,20.23,2,4,1,7,Potential Loyalists
+f508691b,192,1,219.84,2,4,3,9,Loyal Customers
+f5109550,13,1,182.22,4,4,2,10,Champions
+f519fe50,185,1,48.63,2,4,1,7,Potential Loyalists
+f53931c3,281,1,128.49,1,4,2,7,Potential Loyalists
+f54726e0,273,1,278.28,1,4,3,8,Loyal Customers
+f54c8b25,206,1,407.94,2,4,4,10,Champions
+f5621bfe,182,1,204.89,2,4,3,9,Loyal Customers
+f574b742,167,1,280.19,2,4,3,9,Loyal Customers
+f57cdfc5,218,1,325.36,2,4,4,10,Champions
+f581d1f7,74,1,49.78,4,4,1,9,Loyal Customers
+f5c89ec0,1,1,399.27,4,4,4,12,Champions
+f5e44697,80,1,71.26,4,4,1,9,Loyal Customers
+f602c02d,210,1,343.96,2,4,4,10,Champions
+f6207bb8,61,1,33.4,4,4,1,9,Loyal Customers
+f627d9d5,118,1,254.32,3,4,3,10,Champions
+f6460f4c,29,1,41.58,4,4,1,9,Loyal Customers
+f648e9e7,103,1,128.14,3,4,2,9,Loyal Customers
+f65fa62f,272,1,186.79,1,4,2,7,Potential Loyalists
+f666dd75,8,1,167.44,4,4,2,10,Champions
+f676f386,305,1,324.65,1,4,4,9,Loyal Customers
+f6882c89,52,1,437.98,4,4,4,12,Champions
+f68e5e35,32,1,442.91,4,4,4,12,Champions
+f69c9130,230,1,70.66,2,4,1,7,Potential Loyalists
+f6c2e5a1,181,1,93.08,2,4,1,7,Potential Loyalists
+f6c5b1e3,127,1,291.15,3,4,3,10,Champions
+f6cad0c5,168,1,200.87,2,4,3,9,Loyal Customers
+f6e401ef,27,1,348.48,4,4,4,12,Champions
+f6e5828e,35,1,146.19,4,4,2,10,Champions
+f6e5f5b6,82,1,48.1,3,4,1,8,Loyal Customers
+f7126ee5,4,1,100.22,4,4,1,9,Loyal Customers
+f716d5ff,176,1,201.85,2,4,3,9,Loyal Customers
+f720b9b7,234,1,121.94,2,4,2,8,Loyal Customers
+f747c9ed,42,1,46.75,4,4,1,9,Loyal Customers
+f74f4cb1,199,1,216.4,2,4,3,9,Loyal Customers
+f783772f,18,1,99.85,4,4,1,9,Loyal Customers
+f79b5065,36,1,36.95,4,4,1,9,Loyal Customers
+f7ad61b4,150,1,296.87,3,4,3,10,Champions
+f7c63887,101,1,101.62,3,4,1,8,Loyal Customers
+f7cd3439,149,1,90.63,3,4,1,8,Loyal Customers
+f7d6dfab,174,1,285.77,2,4,3,9,Loyal Customers
+f7d8a36d,9,1,23.11,4,4,1,9,Loyal Customers
+f7d947da,126,1,13.92,3,4,1,8,Loyal Customers
+f7ed4253,258,1,220.9,1,4,3,8,Loyal Customers
+f7f92b48,87,1,221.03,3,4,3,10,Champions
+f836adad,137,1,127.28,3,4,2,9,Loyal Customers
+f8578999,326,1,118.93,1,4,2,7,Potential Loyalists
+f85ad600,212,1,56.97,2,4,1,7,Potential Loyalists
+f85b8d3c,280,1,395.18,1,4,4,9,Loyal Customers
+f85e08f6,107,1,18.14,3,4,1,8,Loyal Customers
+f85f1b34,297,1,226.87,1,4,3,8,Loyal Customers
+f878e329,17,1,124.42,4,4,2,10,Champions
+f88ba5dc,229,1,396.49,2,4,4,10,Champions
+f88d9ff6,10,1,150.43,4,4,2,10,Champions
+f893da7a,324,1,390.57,1,4,4,9,Loyal Customers
+f8a02dac,132,1,92.55,3,4,1,8,Loyal Customers
+f8c40b69,240,1,183.66,2,4,2,8,Loyal Customers
+f8cd3c03,47,1,198.38,4,4,2,10,Champions
+f8d08b85,65,1,335.49,4,4,4,12,Champions
+f8e9efff,5,1,365.9,4,4,4,12,Champions
+f8fec828,27,1,356.34,4,4,4,12,Champions
+f92a5812,127,1,304.09,3,4,3,10,Champions
+f92df21e,60,1,247.87,4,4,3,11,Champions
+f9383d86,6,1,245.57,4,4,3,11,Champions
+f94d89b9,273,1,179.73,1,4,2,7,Potential Loyalists
+f95064b0,192,1,285.29,2,4,3,9,Loyal Customers
+f9632dc2,208,1,237.09,2,4,3,9,Loyal Customers
+f979e9ea,192,1,68.78,2,4,1,7,Potential Loyalists
+f9941dc2,11,1,238.56,4,4,3,11,Champions
+f9b0b9bf,181,1,188.88,2,4,2,8,Loyal Customers
+f9b3c134,146,1,456.85,3,4,4,11,Champions
+f9c6383e,172,1,428.15,2,4,4,10,Champions
+f9cd4168,127,1,164.61,3,4,2,9,Loyal Customers
+f9e39387,123,1,122.45,3,4,2,9,Loyal Customers
+f9e89622,224,1,479.63,2,4,4,10,Champions
+f9ff1a48,91,1,459.44,3,4,4,11,Champions
+fa0641b0,77,1,59.18,4,4,1,9,Loyal Customers
+fa0755c1,258,1,167.34,1,4,2,7,Potential Loyalists
+fa092e4b,223,1,11.24,2,4,1,7,Potential Loyalists
+fa1105cb,50,1,83.0,4,4,1,9,Loyal Customers
+fa33e600,204,1,86.86,2,4,1,7,Potential Loyalists
+fa628d2b,93,1,123.32,3,4,2,9,Loyal Customers
+fa900887,165,1,340.74,2,4,4,10,Champions
+faafe05b,125,1,216.26,3,4,3,10,Champions
+fab2b55b,22,1,104.7,4,4,2,10,Champions
+fabf88c3,125,1,344.34,3,4,4,11,Champions
+faed997b,193,1,300.96,2,4,3,9,Loyal Customers
+faf193a9,256,1,51.1,1,4,1,6,Potential Loyalists
+fafe9fea,189,1,334.38,2,4,4,10,Champions
+faff6ffa,119,1,340.19,3,4,4,11,Champions
+fb17e261,83,1,267.18,3,4,3,10,Champions
+fb1b3d3f,49,1,88.42,4,4,1,9,Loyal Customers
+fb538ced,236,1,320.44,2,4,4,10,Champions
+fb73ed45,157,1,367.12,3,4,4,11,Champions
+fb789539,93,1,391.96,3,4,4,11,Champions
+fb8277c8,96,1,250.72,3,4,3,10,Champions
+fb866ac4,67,1,28.76,4,4,1,9,Loyal Customers
+fb93fc53,255,1,42.52,1,4,1,6,Potential Loyalists
+fbba70e8,266,1,104.95,1,4,2,7,Potential Loyalists
+fbef474d,249,1,262.8,1,4,3,8,Loyal Customers
+fbf3b6d9,74,1,42.08,4,4,1,9,Loyal Customers
+fbf88af9,60,1,215.22,4,4,3,11,Champions
+fbfdfbb1,215,1,342.58,2,4,4,10,Champions
+fc0f137f,142,1,166.69,3,4,2,9,Loyal Customers
+fc14a4b2,306,1,273.86,1,4,3,8,Loyal Customers
+fc38d815,13,1,108.39,4,4,2,10,Champions
+fc5078d2,105,1,67.44,3,4,1,8,Loyal Customers
+fc5376e9,287,1,251.82,1,4,3,8,Loyal Customers
+fc81d481,42,1,286.73,4,4,3,11,Champions
+fc8a5cc8,144,1,159.9,3,4,2,9,Loyal Customers
+fca884d2,303,1,44.59,1,4,1,6,Potential Loyalists
+fcb88b64,210,1,282.89,2,4,3,9,Loyal Customers
+fcdfd494,265,1,251.09,1,4,3,8,Loyal Customers
+fcf06f0b,38,1,236.76,4,4,3,11,Champions
+fd015934,189,1,410.2,2,4,4,10,Champions
+fd0e68a4,232,1,18.04,2,4,1,7,Potential Loyalists
+fd1013cd,75,1,372.76,4,4,4,12,Champions
+fd42a231,174,1,81.26,2,4,1,7,Potential Loyalists
+fd4c3384,129,1,106.84,3,4,2,9,Loyal Customers
+fda13bbd,103,1,266.69,3,4,3,10,Champions
+fda2a523,264,1,251.16,1,4,3,8,Loyal Customers
+fdadd527,64,1,17.8,4,4,1,9,Loyal Customers
+fdb03abd,243,1,314.63,2,4,4,10,Champions
+fdb2b385,10,1,32.89,4,4,1,9,Loyal Customers
+fdbb057a,49,1,115.34,4,4,2,10,Champions
+fdc23ea4,318,1,92.09,1,4,1,6,Potential Loyalists
+fdc30694,64,1,425.85,4,4,4,12,Champions
+fdcc0170,204,1,124.02,2,4,2,8,Loyal Customers
+fdd0b0b7,252,1,11.06,1,4,1,6,Potential Loyalists
+fdd35ce2,127,1,108.45,3,4,2,9,Loyal Customers
+fde47685,131,1,66.18,3,4,1,8,Loyal Customers
+fde7243f,20,1,116.95,4,4,2,10,Champions
+fdf2e60c,167,1,138.47,2,4,2,8,Loyal Customers
+fe0b3a08,163,1,354.46,3,4,4,11,Champions
+fe1668db,259,1,386.19,1,4,4,9,Loyal Customers
+fe2ddc82,297,1,144.94,1,4,2,7,Potential Loyalists
+fe3cdb6b,171,1,370.12,2,4,4,10,Champions
+fe4d03cd,52,1,264.92,4,4,3,11,Champions
+fe747fa8,43,1,66.16,4,4,1,9,Loyal Customers
+fe77fa94,157,1,418.47,3,4,4,11,Champions
+fe89cb74,130,1,58.81,3,4,1,8,Loyal Customers
+fe8a21d2,231,1,362.82,2,4,4,10,Champions
+fe8b4c60,225,1,162.47,2,4,2,8,Loyal Customers
+fea0052e,92,1,74.11,3,4,1,8,Loyal Customers
+fec142e5,98,1,230.04,3,4,3,10,Champions
+fed09ac7,191,1,243.82,2,4,3,9,Loyal Customers
+fef3b4d7,33,1,48.56,4,4,1,9,Loyal Customers
+ff0620fc,239,1,106.56,2,4,2,8,Loyal Customers
+ff119d8e,7,1,123.42,4,4,2,10,Champions
+ff1aec5a,55,1,238.97,4,4,3,11,Champions
+ff264d6a,285,1,376.82,1,4,4,9,Loyal Customers
+ff45dc2b,240,1,135.05,2,4,2,8,Loyal Customers
+ff482f56,2,1,349.91,4,4,4,12,Champions
+ff612d9d,305,1,24.45,1,4,1,6,Potential Loyalists
+ff91160c,204,1,290.25,2,4,3,9,Loyal Customers
+ff94d6ab,271,1,46.94,1,4,1,6,Potential Loyalists
+ff985431,122,1,19.45,3,4,1,8,Loyal Customers
+ff9c4ba6,51,1,386.98,4,4,4,12,Champions
+ffb59cb8,282,1,417.36,1,4,4,9,Loyal Customers
+ffcf6748,219,1,135.23,2,4,2,8,Loyal Customers
+ffda329b,205,1,14.96,2,4,1,7,Potential Loyalists
+ffda47ed,232,1,150.34,2,4,2,8,Loyal Customers
+fffca9db,226,1,83.55,2,4,1,7,Potential Loyalists

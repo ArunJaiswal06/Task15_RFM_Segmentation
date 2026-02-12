@@ -1,0 +1,26 @@
+Customer Segment Business Actions
+
+1. Champions
+- Offer exclusive VIP rewards and early access to new products
+- Provide premium loyalty programs and personalized recommendations
+- Encourage referrals and product reviews
+
+2. Loyal Customers
+- Offer membership benefits and reward points
+- Cross-sell and upsell related products
+- Send personalized email campaigns with special discounts
+
+3. Potential Loyalists
+- Provide discount coupons to encourage repeat purchases
+- Send targeted promotional emails
+- Offer bundle deals to increase purchase value
+
+4. At Risk Customers
+- Send re-engagement emails with limited-time offers
+- Offer special comeback discounts
+- Collect feedback to understand customer drop-off reasons
+
+5. Lost Customers
+- Launch win-back campaigns with heavy discounts
+- Send reminder emails highlighting new products
+- Run targeted ads to re-attract them
